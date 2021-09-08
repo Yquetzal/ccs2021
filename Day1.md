@@ -61,7 +61,7 @@
 ## ROOM: XXX
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-|242 |	 Jorge P. Rodriguez-Garcia, Juan Fernandez-Gracia, Carlos M. Duarte, Xabier Irigoien and Victor M. Eguiluz | Fishing at the High Seas: the Global Network Connecting Ports to Fishing Areas	 |	onsite	|
+|242 |	 Jorge P. Rodríguez-García, Juan Fernández-Gracia, Carlos M. Duarte, Xabier Irigoien and Víctor M. Eguíluz | Fishing at the High Seas: the Global Network Connecting Ports to Fishing Areas	 |	onsite	|
 |301 |	 Pau Vilimelis Aceituno | Minimizing Communication Costs with Asymmetric Weight Codes	 |	onsite	|
 |180 |	 Jon Sanchez-Valle, Rion Brattig Correia, Marta Camacho-Artacho, Rosalba Lepore, Mauro M. Mattos, Luis M. Rocha and Alfonso Valencia | Multi population analysis of electronic health records reveal biases in the administration of known drug-drug interactions	 |	onsite	|
 |94 |	 Benedetta Mariani, Giorgio Nicoletti, Marta Bisio, Marta Maschietto, Stefano Vassanelli and Samir Suweis | Disentangling the role of external and intrinsic dynamics on the critical signatures of neural activity	 |	onsite	|
@@ -98,7 +98,7 @@
 |63 |	 Elisabetta Colosi, Giulia Bassignana, Canelle Poirier, Diego Contreras, Alain Barrat and Vittoria Colizza | Optimizing testing strategies for COVID-19 pandemic mitigation in school settings	 |	onsite	|
 |119 |	 Jesús Arturo Moreno López, Beatriz Arregui García, Piotr Bentkowski, Livio Boglio, Francesco Pinotti, Pierre-Yves Boëlle, Alain Barrat, Vittoria Colizza and Chiara Poletto | Anatomy of digital contact tracing: Role of age, transmission setting, adoption and case detection	 |	onsite	|
 |261 |	 Francesco Bonacina, Pierre-Yves Boelle, Vittoria Colizza, Olivier Lopez, Maud Thomas and Chiara Poletto | Influenza Decline During COVID-19 Pandemic: a Global Analysis Leveraging Classification and Regression Trees	 |	onsite	|
-|72 |	 Laura Di Domenico, Chiara E. Sabbatini, Giulia Pullano, Daniel Levy-Bruhl and Vittoria Colizz | Impact of January 2021 curfew measures on SARSCoV-2 B.1.1.7 circulation in France	 |	onsite	|
+|72 |	 Laura Di Domenico, Chiara E. Sabbatini, Giulia Pullano, Daniel Lévy-Bruhl and Vittoria Colizza | Impact of January 2021 curfew measures on SARSCoV-2 B.1.1.7 circulation in France	 |	onsite	|
 |26 |	 Takeshi Kano, Kotaro Yasui, Taishi Mikami, Munehiro Asally and Akio Ishiguro | How to Mitigate the COVID-19 Outbreak While Maintaining Economic Activities?	 |	online	|
 
 ## Session 9: Methodology (1)
@@ -149,7 +149,7 @@
 | ---: | :----: | :------: | :----:	|
 | 1  |  Hanlin Sun and Ginestra Bianconi | Higher-order percolation processes on multiplex hypergraphs  | onsite |
 | 287  |  Atish Panday, Woo Seok Lee, Subhasanket Dutta and Sarika Jalan | Machine learning assisted network classification using symbolic time-series  | onsite |
-| 91  |  Arash Badie-Modiri, Abbas Karimi Rizi, MÃ¡rton Karsai and Mikko Kivela | Directed Percolation in Temporal Networks  | onsite |
+| 91  |  Arash Badie-Modiri, Abbas Karimi Rizi, Márton Karsai and Mikko Kivelä | Directed Percolation in Temporal Networks  | onsite |
 | 238  |  Giulia Bertagnolli and Manlio De Domenico | Diffusion geometry of multiplex and interdependent systems  | online |
 | 32  |  Stephany Rajeh, Marinette Savonnet, Eric Leclercq and Hocine Cherifi | An empirical study on classical and community-aware centrality measures in complex networks  | online |
 
@@ -195,7 +195,7 @@
 | 102  |  Charlie Pilgrim, Weisi Guo and Thomas T Hills | Attention Ecology  | onsite |
 | 267 |    Ludovico Napoli, Vedran Sekara, Manuel Garcia-Herranz and Marton Karsai | Social network reorganization during emergency lockdown    |  onsite  |
 | 189  |  Antoine Brias, Jean-Baptiste Pichancourt and Anne Bonis | How to organize and adapt collective action in a complex social-ecological landscape where global change pressures the sustainability of multiple ecosystem services: case study in a French urban area  | onsite |
-| 195  |  Vincent Verbavatz and Marc Barthelemy | Zipf'€™s law for cities: the end  | onsite |
+| 195  |  Vincent Verbavatz and Marc Barthelemy | Zipf's law for cities: the end  | onsite |
 
 ## Session 7: COVID-19 (2)
 ## ROOM: XXX
@@ -204,7 +204,7 @@
 | ---: | :----: | :------: | :----:	|
 | 165  |  Mattia Mazzoli, Eugenio Valdano, Zachary Susswein, Shweta Bansal and Vittoria Colizza | Mobility induces a network interpretation of the Reproductive Number that explains COVID-19 spatial spread and informs surveillance  | onsite |
 | 208  |  Hugo Artigas, Gersende Fort, Barbara Pascal, Nelly Pustelnik and Patrice Abry | Confidence intervals for Covid-19 Reproduction Number Estimation combining NonSmooth Convex Proximal Optimization and Stochastic Sampling  | onsite |
-| 245  |  Benjamin Faucher, Rania Assab, Jonathan Roux, Daniel Levy-Bruhl, CÃ©cile Tran-Kiem, Simon Cauchemez, Laura Zanetti, Vittoria Colizza, Pierre-Yves Boelle and Chiara Poletto | Agent-based model analysis of reactive vaccination against COVID-19 epidemic  | onsite |
+| 245  |  Benjamin Faucher, Rania Assab, Jonathan Roux, Daniel Levy-Bruhl, Cécile Tran-Kiem, Simon Cauchemez, Laura Zanetti, Vittoria Colizza, Pierre-Yves Boelle and Chiara Poletto | Agent-based model analysis of reactive vaccination against COVID-19 epidemic  | onsite |
 | 203  |  Barbara Pascal, Nelly Pustelnik, Remi Gribonval, Stephane Roux, Patrick Flandrin and Patrice Abry | Robustness to outliers for Covid-19 Reproduction Number Estimation via NonSmooth Convex Proximal Optimization  | onsite |
 | 296  |  Joseph Lemaitre, Damiano Pasetto, Mario Zanon, Enrico Bertuzzo, Lorenzo Mari, Stefano Miccoli, Renato Casagrandi, Marino Gatto and Andrea Rinaldo | Optimal Control of the Spatial and Temporal Allocation of COVID-19 Vaccines: Italy as a Case Study  | onsite |
 
@@ -217,18 +217,18 @@
 | 323  |  Taras Patsahan and Jaroslav Ilnytskyi | Modeling the Spatiotemporal Spread of the COVID-19 in an Urban Area  | onsite |
 | 342  |  Alexandre Nicolas, Willy Garcia, Baptiste Fray and Simon Mendez | Field study of the network of interactions between pedestrians and associated risks of viral spread in non-confined crowds  | onsite |
 | 107  |  Alessandro Pluchino, Martina Fazio, Giuseppe Inturri, Michela Le Pira, Nadia Giuffrida and Matteo Ignaccolo | Exploring the impact of mobility restrictions on the COVID-19 spreading through an agent-based approach  | onsite |
-| 280  |  Takayuki Hiraoka, Mikko Kivela and Jari Saramaki | Vaccination strategies for minimizing the number of deaths from emerging diseases  | onsite |
+| 280  |  Takayuki Hiraoka, Mikko Kivelä and Jari Saramäki | Vaccination strategies for minimizing the number of deaths from emerging diseases  | onsite |
 
 ## Session 9: Transdisciplinary and Applied Complex Systems (1)
 ## ROOM: XXX
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 151  |  Aniello Lampo, Javier Borge-Holthoefer, Sergio Gomez and Albert Sole-Ribalta | Emergence of Abrupt Phase Transitions in Urban Congestion Localization  | onsite |
+| 151  |  Aniello Lampo, Javier Borge-Holthoefer, Sergio Gómez and Albert Solé-Ribalta | Emergence of Abrupt Phase Transitions in Urban Congestion Localization  | onsite |
 | 92  |  Ai Linh Nguyen, Wenyuan Liu, Khiam Aik Khor, Andrea Nanetti and Siew Ann Cheong | The emergence of graphene research topics through interactions within and beyond  | onsite |
 | 194  |  Diana L. Monroy and Gerardo G. Naumis | Description of mesoscale pattern formation in shallow convective cloud fields by using time-dependent Ginzburg-Landau and Swift-Hohenberg stochastic equations
   | onsite |
-| 140  |  Blas Kolic, Mateo Tonatiuh Rodri­guez Cervantes, Pablo Padilla Longoria and Francis Knight | Rhythm and form in music: A complex systems approach  | online |
+| 140  |  Blas Kolic, Mateo Tonatiuh Rodríguez Cervantes, Pablo Padilla Longoria and Francis Knight | Rhythm and form in music: A complex systems approach  | online |
 | 142  |  Alberto Alcala and Pablo Padilla | A Proposal for Measuring and Visualizing Complexity of Musical Information Using Networks  | online |
 
 
