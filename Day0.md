@@ -1,5 +1,6 @@
 ## Day 0 - Friday 22
----
+
+-----
 
 # 9:00 - 18:00 Satellite Workshops
 
