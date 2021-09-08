@@ -10,11 +10,6 @@ Panelists:
 ## 9:45 - 10:00 [Thierry Walzer](https://ccs2021.univ-lyon1.fr/#SPEAKER_Thierry_Walzer) - Inserm, CIRI, Lyon
 ## 10:00 - 10:45 Panel discussion
 
-# 10:45 - 11:15 Coffee Break - Poster Session
-# 10:15-10:45 Invited Talk 
-## Title: TBA
-## Speaker : [Meeyoung Cha](https://www.google.com/url?q=https://ccs2021.univ-lyon1.fr/%23SPEAKER_Meeyoung_Cha&sa=D&source=editors&ust=1630657061552000&usg=AOvVaw0YGR5W77mQDt2ra_xwI-J5)
-
 # 10:45 - 11:30 Coffee Break / Poster Session 
 
 # 11:30 - 13:00 Parallel Sessions 3
