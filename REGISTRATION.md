@@ -30,6 +30,7 @@ The procedure for Registration is in three steps:
 |Post-doctoral fellows				|				400 €	|	290 €|	240 €	| 70 € |
 |Academics (Faculty, Researchers)		|				480 €	|	320 € | 	240 €	| 70 € |
 |Non Academics						|			550 € 	|	360 €	 |	275 €	 | 70 € |						
+
 **Early Bird was for Registration up to** (~~July 16~~)  - (~~July 27~~) - **September 3, 2021**
 
 # Full Price
