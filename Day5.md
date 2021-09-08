@@ -66,11 +66,11 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 19 |    Lui­s F Seoane and Ricard Sola | Modeling Brain Reorganization after Hemispherectomy    |  onsite  |
+| 19 |    Luís F Seoane and Ricard Solé | Modeling Brain Reorganization after Hemispherectomy    |  onsite  |
 | 129 |    Lucrezia Carboni, Sophie Achard and Michel Dojat | Stationary distribution of node2vec random walk for brain connectivity networks discrimination    |  onsite  |
-| 31 |    Elvia Ramirez-Carrillo, Isaac G-Santoyo, Oliver Lopez Corona, Olga A. Rojas-Ramos and Javier Nieto | Diet influences both cerebral and gut microbiota networks connectivity in early ages, a case of study    |  onsite  |
+| 31 |    Elvia Ramírez-Carrillo, Isaac G-Santoyo, Oliver López Corona, Olga A. Rojas-Ramos and Javier Nieto | Diet influences both cerebral and gut microbiota networks connectivity in early ages, a case of study    |  onsite  |
 | 251 |    Duilio Balsamo, Paolo Bajardi, Alberto Salomone and Rossano Schifanella | Nonmedical Opioid Consumption on Reddit: Patterns of Routes of Administration and Drug Tampering    |  onsite  |
-| 124 |    Iker Atienza and Lui­s F Seoane | Long- and Short-Term Effects of Cross-Immunity    |  onsite  |
+| 124 |    Iker Atienza and Luís F Seoane | Long- and Short-Term Effects of Cross-Immunity    |  onsite  |
 
 ## Session 6: Social Complexity (8)
 ## Room: XXX
@@ -81,7 +81,7 @@
 | 250 |    Duilio Balsamo, Corrado Monti, Gianmarco De Francisci Morales, Paolo Bajardi and Rossano Schifanella | Opioid addiction recovery on Reddit: behavioral shift and social support    |  onsite  |
 | 330 |    Loredana Bellantuono, Alfonso Monaco, Sabina Tangaro, Nicola Amoroso, Vincenzo Aquaro and Roberto Bellotti | An Equity-Oriented Rethink Of Global Rankings With Complex Networks Mapping Development    |  onsite  |
 | 216 |    Johannes Stangl, Christian Diem, Tobias Reisch and Stefan Thurner | Identifying Decarbonization Leverage Points in Supply Networks with Network Measures that Quantify Systemic Relevance    |  onsite  |
-| 127 |    Chiara Zappala , Alessandro Pluchino, Andrea Rapisarda, Alessio Biondo and Pawel Sobkowicz | The Role of Chance in Fencing Tournaments: an Agent-Based Approach    |  onsite  |
+| 127 |    Chiara Zappalà, Alessandro Pluchino, Andrea Rapisarda, Alessio Biondo and Pawel Sobkowicz | The Role of Chance in Fencing Tournaments: an Agent-Based Approach    |  onsite  |
 | 81 |    Anne-Marie Grisogono, Roger Bradbury, John Finnigan, Brian Walker and Paul Oppenheimer | Evolution of Governance    |  onsite  |
 
 ## Session 7: Social Complexity (9)
@@ -89,7 +89,7 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 321 |    Hao Cui and Janos Kertesz | Relationship between repost network evolution of trending hashtags and their ranking dynamics in microblogging complex system    |  onsite  |
+| 321 |    Hao Cui and János Kertész | Relationship between repost network evolution of trending hashtags and their ranking dynamics in microblogging complex system    |  onsite  |
 | 108 |    John Fitzgerald | Investigating the changing structure of research collaborations between institutions in Latin America & the Caribbean using multilayered networks    |  onsite  |
 | 317 |    Giulio Burgio, Benjamin Steinegger, Giacomo Rapisardi and Alex Arenas | The Impact of Homophily on Digital Proximity Tracing    |  onsite  |
 | 110  |  Akira Ishii and Nozomi Okano | Trust-Distrust Model on Multiple Network of Society as New Type of Opinion Dynamics | onsite |
@@ -101,11 +101,11 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 135 |    Jesus Arturo Moreno Lopez, Alberto Hernando, Sandro Meloni and Jose Javier Ramasco Sukia | Critical Interventions: Mobility-Based Thresholds for Epidemic Containment.    |  onsite  |
+| 135 |    Jesús Arturo Moreno López, Alberto Hernando, Sandro Meloni and José Javier Ramasco Sukia | Critical Interventions: Mobility-Based Thresholds for Epidemic Containment.    |  onsite  |
 | 117 |    Lalita Meena, Carissa Kwan, Ajay Gupta and Christopher Woloshyn | Developing a Business Risk Index for COVID-19 Transmission based on Mobility Networks    |  onsite  |
 | 14 |    Giulia Cencetti, Gabriele Santin, Antonio Longa, Emanuele Pigani, Alain Barrat, Ciro Cattuto, Sune Lehmann, Marcel Salathe and Bruno Lepri | Digital proximity tracing on empirical contact networks for pandemic control    |  onsite  |
 | 83 |    Chiara Elisa Sabbatini, Laura Di Domenico, Pierre-Yves Boelle, Chiara Poletto, Pascal Crepey, Juliette Paireau, Simon Cauchemez, Francois Beck, Harold Noel, Daniel Levy-Bruhl and Vittoria Colizza | Adherence and sustainability of interventions informing optimal control against COVID-19 pandemic   |  onsite  |
-| 36 |    Abbas K. Rizi, Ali Faqeeh, Arash Badie-Modiri and Mikko Kivela | Epidemic Spreading and Digital Contact Tracing: Effects of Heterogeneous Mixing and Quarantine Failures    |  onsite  |
+| 36 |    Abbas K. Rizi, Ali Faqeeh, Arash Badie-Modiri and Mikko Kivelä | Epidemic Spreading and Digital Contact Tracing: Effects of Heterogeneous Mixing and Quarantine Failures    |  onsite  |
 | 116 |    Paul Churchyard, Ramani Peruvemba, Ajay Gupta and Christopher Woloshyn | Secondary Bacterial Infection Risk Index    |  onsite  |
 
 ## Session 9: Transdisciplinary and Applied Complex Systems (2)
