@@ -18,7 +18,6 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-
 | 38 |    Daniele Notarmuzi, Claudio Castellano, Alessandro Flammini, Dario Mazzilli and Filippo Radicchi | Percolation Theory Of Self-Exciting Temporal Processes    |  onsite  |
 | 56 |    Jean-Francois de Kemmeter, Timoteo Carletti and Malbor Asllani | Emergence of functional communities in non-linear random walks on complex networks    |  onsite  |
 | 166 |    Abdul Quadir, Haider H Jafri and Avinash Chand Yadav | Critical avalanche properties in Neuronal Level Model    |  onsite  |
@@ -31,7 +30,6 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-
 | 220 |    Linda Tillert, Luis Gomez-Nava and Pawel Romanczuk | The Role Of Speed Adaptation In Collective Motion    |  onsite  |
 | 70 |    The Anh Han, Tom Lenaerts, Francisco C. Santos and Luis Moniz Pereira | Voluntary safety commitments provide an escape from over-regulation in AI development    |  onsite  |
 | 328 |    Fabrizio Lombardi, Gasper Tkacik and Daniele De Martino | Emergent Dichotomy of Oscillations and Scale-free Avalanches in a Minimal Adaptive Neural Model near Criticality    |  onsite  |
@@ -44,7 +42,6 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-
 | 29 |    Barbara Benigni, Arsham Ghavasieh, Alessandra Corso, Valeria D'Andrea and Manlio De Domenico | Persistence of information flow: a multiscale characterization of human brain    |  onsite  |
 | 52 |    Andres Karjus, Tillmann Ohm, Mar Canet Sole , Sebastian Ahnert and Maximilian Schich | Capturing aesthetic complexity in art using compression ensembles    |  onsite  |
 | 293 |    Jaroslav Hlinka, Luigi Caputi and Anna Pidnebesna | Directed Persistent Homology: testing sensitivity to brain network disorders    |  onsite  |
@@ -57,7 +54,6 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-
 | 84 |    Stefano Benati, Eugenio Dacrema and Paolo Eugenio Petit Valdes | The Marriage Game: New Insights from a Dynamic Model of Marriage, Domestic Labour, and Divorce    |  onsite  |
 | 206 |    Federico Zasa, Silvia Magnanini, Paola Bellis, Tommaso Buganza, Daniel Trabucchi and Roberto Verganti | The Flocking Behaviour of Firms: an Agent-based Simulation of Organizational Sensemaking    |  onsite  |
 | 241 |    Jaime Oliver, Alberto Antonioni, Francesca Lipari and Ignacio Tamarit | A networked global economy: the role of social capital in economic growth    |  onsite  |
@@ -70,7 +66,6 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-
 | 19 |    Lui­s F Seoane and Ricard Sola | Modeling Brain Reorganization after Hemispherectomy    |  onsite  |
 | 129 |    Lucrezia Carboni, Sophie Achard and Michel Dojat | Stationary distribution of node2vec random walk for brain connectivity networks discrimination    |  onsite  |
 | 31 |    Elvia Ramirez-Carrillo, Isaac G-Santoyo, Oliver Lopez Corona, Olga A. Rojas-Ramos and Javier Nieto | Diet influences both cerebral and gut microbiota networks connectivity in early ages, a case of study    |  onsite  |
@@ -82,7 +77,6 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-
 | 160 |    Aniello Lampo, Maria J. Palazzi, Javier Borge-Holthoefer and Albert Sole | Hybrid Structural Arrangements Mediate Stability and Feasibility in Mutualistic Networks    |  onsite  |
 | 250 |    Duilio Balsamo, Corrado Monti, Gianmarco De Francisci Morales, Paolo Bajardi and Rossano Schifanella | Opioid addiction recovery on Reddit: behavioral shift and social support    |  onsite  |
 | 330 |    Loredana Bellantuono, Alfonso Monaco, Sabina Tangaro, Nicola Amoroso, Vincenzo Aquaro and Roberto Bellotti | An Equity-Oriented Rethink Of Global Rankings With Complex Networks Mapping Development    |  onsite  |
@@ -95,7 +89,6 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-
 | 321 |    Hao Cui and Janos Kertesz | Relationship between repost network evolution of trending hashtags and their ranking dynamics in microblogging complex system    |  onsite  |
 | 108 |    John Fitzgerald | Investigating the changing structure of research collaborations between institutions in Latin America & the Caribbean using multilayered networks    |  onsite  |
 | 317 |    Giulio Burgio, Benjamin Steinegger, Giacomo Rapisardi and Alex Arenas | The Impact of Homophily on Digital Proximity Tracing    |  onsite  |
@@ -108,7 +101,6 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-
 | 135 |    Jesus Arturo Moreno Lopez, Alberto Hernando, Sandro Meloni and Jose Javier Ramasco Sukia | Critical Interventions: Mobility-Based Thresholds for Epidemic Containment.    |  onsite  |
 | 117 |    Lalita Meena, Carissa Kwan, Ajay Gupta and Christopher Woloshyn | Developing a Business Risk Index for COVID-19 Transmission based on Mobility Networks    |  onsite  |
 | 14 |    Giulia Cencetti, Gabriele Santin, Antonio Longa, Emanuele Pigani, Alain Barrat, Ciro Cattuto, Sune Lehmann, Marcel Salathe and Bruno Lepri | Digital proximity tracing on empirical contact networks for pandemic control    |  onsite  |
@@ -121,7 +113,6 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-
 | 319 |    Sabin Roman | Peak Oil and the Minimum EROI for Society    |  onsite  |
 | 316 |    Valerian Jacques-Dumas, Francesco Ragone, Freddy Bouchet, Pierre Borgnat and Patrice Abry | Deep Learning based Extreme Heatwave Forecast    |  onsite  |
 | 259 |    Mariko Ito, Yoshifumi Amamoto and Takaaki Ohnishi | Change of network structure of elastomers under elongation    |  online  |
