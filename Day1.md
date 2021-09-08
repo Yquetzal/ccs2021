@@ -1,4 +1,6 @@
-## Day 1 - Monday 25
+### Day 1 - Monday 25
+
+-----
 
 # 8:00-9:00 Registration
 # 9:00-9:30 Opening
