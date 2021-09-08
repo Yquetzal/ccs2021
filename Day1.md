@@ -15,7 +15,7 @@
 
 # 11:30 - 13:00 Parallel Sessions 1
 ## Session 1: Foundations of Complex Systems (1)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -27,7 +27,7 @@
 | 123| Marta Tuninetti, Alberto Aleta, Daniela Paolotti, Yamir Moreno and Michele Starnini | Prediction of New Scientific Collaborations Through Multiplex Networks	|	online |	
 
 ## Session 2: Foundations of Complex Systems (2)
-## ROOM: XXX
+## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |128|	 Gerardo Iñiguez, Carlos Pineda, Carlos Gershenson and Albert-László Barabási | Universal dynamics of ranking | 	onsite  |
@@ -38,7 +38,7 @@
 | 210| Akylas Fotiadis, Ioannis Vlachos and Dimitrios Kugiumtzis | Information-based Measure of Partial Mutual Information from Mixed Embedding (PMIME) Revisited		|	onsite |	
 
 ## Session 3: Economics and Finance (1)
-## ROOM: XXX
+## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |46 |	 Jonathan Barlow and Irena Vodenska | The effect of a public health crisis on economic outputs: The case of Covid-19 distress propagation and recovery |	onsite	|
@@ -49,7 +49,7 @@
 |188   |	 Anja Janischewski | Under which conditions would a post-growth transition trigger a financial market crash? Analysis via an heterogeneous agent model	 |	onsite	|
 
 ## Session 4: Infrastructure, Planning and Environment (1)
-## ROOM: XXX
+## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |283 |	 Hanae El Gouj and Claire Lagesse | Road network analysis based on geohistorical data	 |	onsite	|
@@ -60,7 +60,7 @@
 |268   |	 Aaron Bramson | Capturing Neighborhood Feel Using Local Graph Characteristics in Large Road Networks	 |	online	|
 
 ## Session 5: Biological and (Bio)Medical Complexity (1)
-## ROOM: XXX
+## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |242 |	 Jorge P. Rodríguez-García, Juan Fernández-Gracia, Carlos M. Duarte, Xabier Irigoien and Víctor M. Eguíluz | Fishing at the High Seas: the Global Network Connecting Ports to Fishing Areas	 |	onsite	|
@@ -71,7 +71,7 @@
 |324 |	 Violeta Calleja Solanas, Emilio Hernandez-Garcia and Sandro Meloni | Structural Predictors for Species Survival in Ecological Networks	 |	onsite	|
 
 ## Session 6: Social Complexity (1)
-## ROOM: XXX
+## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |254 |	 Victor Chomel, David Chavalarias and Maziyar Panahi | Modelling network dynamics with Markov chains to understand structures in online communities: cross comparison of climate change and vaccine	 |	onsite	|
@@ -82,7 +82,7 @@
 |71 |	 Orowa Sikder, Robert Smith, Pierpaolo Vivo and Giacomo Livan | A minimalistic model of bias, polarization and misinformation in social networks	|	online	|
 
 ## Session 7: Social Complexity (2)
-## ROOM: XXX
+## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |115 |	 Ryohto Sawada | Ising Model Simulation of Epidemic Control by Influencers on Social Networks	 |	onsite	|
@@ -93,7 +93,7 @@
 |275 |	 Naoki Igarashi, Yukihiko Okada and Yukie Sano | Collective Memory with Endogenous Recall Effects in Wikipedia	 |	online	|
 
 ## Session 8: COVID-19 (1)
-## ROOM: XXX
+## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |335 |	 Brennan Klein, Nicholas Generous, Samuel Scarpino and Alessandro Vespignani | Higher Education Responses to COVID-19 in the United States: The Crucial Role of On-Campus Diagnostic Testing for Students and Staff	 |	onsite	|
@@ -104,7 +104,7 @@
 |26 |	 Takeshi Kano, Kotaro Yasui, Taishi Mikami, Munehiro Asally and Akio Ishiguro | How to Mitigate the COVID-19 Outbreak While Maintaining Economic Activities?	 |	online	|
 
 ## Session 9: Methodology (1)
-## ROOM: XXX
+## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |286 |	 Yacouba Kaloga, Pierre Borgnat, Sundeep Prabahkar Chepuri, Patrice Abry and Amaury Habrard | Variational Graph Autoencoders for Multiview Canonical Correlation Analysis	 |	onsite	|
@@ -115,7 +115,7 @@
 |145 |	 Xue Gong, Higham Desmond and Konstantinos Zygalakis | Random graph interpretation of directed graph Laplacians	 |	onsite	|
 
 # 13:00-14:30 Lunch Break - Poster Session 
-## ROOM: XXX 
+## ROOM: TBA 
 
 # 14:30-15:15 Keynote Talk 2
 ## Title: TBA
@@ -134,7 +134,7 @@
 
 # 16:45 - 18:00 Parallel Sessions 2
 ## Session 1: Foundations of Complex Systems (3)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -145,7 +145,7 @@
 | 41  |  Hugo Hourcade, Fatemeh Hamissi, Cedric Miachon and Binh-Minh Bui-Xuan | Behaviour Recognition Algorithms In Temporal Graphs  | online |
 
 ## Session 2: Foundations of Complex Systems (4)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -156,7 +156,7 @@
 | 32  |  Stephany Rajeh, Marinette Savonnet, Eric Leclercq and Hocine Cherifi | An empirical study on classical and community-aware centrality measures in complex networks  | online |
 
 ## Session 3: Psychology, Neurosciences, Linguistics (1)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -167,7 +167,7 @@
 | 162  |  Pawel Os›wiecimka, Anna Ceglarek, Jeremi Ochab and Marcin Watorek | Correlation Structure Between Brain Regions in Working-memory Tasks: fMRI Fractal and Spectral Analysis  | onsite |
 
 ## Session 4: Infrastructure, Planning and Environment (2)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -178,7 +178,7 @@
 | 35  |  Keith Burghardt, Johannes Uhl, Kristina Lerman and Stefan Leyk | The Evolution of City Infrastructure Scaling and Spatial Correlations in the United States: 1900-2015  | online |
 
 ## Session 5: Biological and (Bio)Medical Complexity (2)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -189,7 +189,7 @@
 | 284  |  Hikaru Furukawa, Cole Mathis, Leroy Cronin and Sara Walker | Chemical Complexity as a Theoretical Basis for Life Detection in the Universe  | onsite |
 
 ## Session 6: Social Complexity (3)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -200,7 +200,7 @@
 | 195  |  Vincent Verbavatz and Marc Barthelemy | Zipf's law for cities: the end  | onsite |
 
 ## Session 7: COVID-19 (2)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -211,7 +211,7 @@
 | 296  |  Joseph Lemaitre, Damiano Pasetto, Mario Zanon, Enrico Bertuzzo, Lorenzo Mari, Stefano Miccoli, Renato Casagrandi, Marino Gatto and Andrea Rinaldo | Optimal Control of the Spatial and Temporal Allocation of COVID-19 Vaccines: Italy as a Case Study  | onsite |
 
 ## Session 8: COVID-19 (3)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -222,7 +222,7 @@
 | 280  |  Takayuki Hiraoka, Mikko Kivelä and Jari Saramäki | Vaccination strategies for minimizing the number of deaths from emerging diseases  | onsite |
 
 ## Session 9: Transdisciplinary and Applied Complex Systems (1)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
