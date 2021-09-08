@@ -1,3 +1,5 @@
+## Day 3 - Wednesday 27
+
 # 8:30 - 9:00 Registration
 
 # 9:00 - 13:00 Satellite Workshops
