@@ -1,5 +1,7 @@
 # Tuesday, 26th October 2021
-## Online / onsite poster presentations| ID  | Authors | Title | Mode |
+## Online / onsite poster presentations
+
+| ID  | Authors | Title | Mode |
 | ---: | :----: | :------: | :----:	|
 | 4 |	Raphael Aybar | Predictive Processing as a Cybernetic model of Cognition  |  onsite
 | 13 |	Simone Righi, Shirsendu Podder and Francesca Pancotto | Reputation and punishment sustain cooperation in the Optional Public Goods Game  |  onsite
