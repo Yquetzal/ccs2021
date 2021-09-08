@@ -131,16 +131,16 @@ Panelists:
 
 # 14:30-15:15 Keynote Talk 3
 ## Title: TBA
-## Speaker : [Susanna Manrubia](https://auditore.cab.inta-csic.es/manrubia/)
+## Speaker : [Susanna Manrubia](https://ccs2021.univ-lyon1.fr/#SPEAKER_Susanna_Manrubia)
 
 
 # 15:15-15:45 Invited Talk 4
 ## Title: TBA
-## Speaker : [Eric D. Kolaczyk](https://sites.bu.edu/kolaczyk/)
+## Speaker : [Eric D. Kolaczyk](https://ccs2021.univ-lyon1.fr/#SPEAKER_Eric_D__Kolaczyk)
 
 # 15:45-16:15 Invited Talk 5
 ## Title: TBA
-## Speaker : [Hyejin Youn](http://hyoun.me)
+## Speaker : [Hyejin Youn](https://ccs2021.univ-lyon1.fr/#SPEAKER_Hyejin_Youn)
 
 # 16:15 - 16:45 Coffee Break / Poster Session 
 
