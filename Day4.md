@@ -1,4 +1,6 @@
-## Day 4 - Thursday 28
+### Day 4 - Thursday 28
+
+-----
 
 # 8:30 - 9:00 Registration
 
