@@ -2,12 +2,12 @@
 # 9:00-9:30 Opening
 # 9:30-10:15 Keynote Talk 1
 ## Title: TBA
-## Speaker : [László Lovász](https://en.wikipedia.org/wiki/LÃ¡szlÃ³_LovÃ¡sz)
+## Speaker : [László Lovász](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
 
 
 # 10:15-10:45 Invited Talk 1
 ## Title: TBA
-## Speaker : [Meeyoung Cha](https://cs.kaist.ac.kr/people/view?idx=418&kind=faculty&menu=160)
+## Speaker : [Meeyoung Cha](https://ccs2021.univ-lyon1.fr/#SPEAKER_Meeyoung_Cha)
 
 # 10:45 - 11:30 Coffee Break / Poster Session 
 
@@ -117,16 +117,16 @@
 
 # 14:30-15:15 Keynote Talk 2
 ## Title: TBA
-## Speaker : [Iain Couzin](https://collectivebehaviour.com/people/couzin-iain/)
+## Speaker : [Iain Couzin](https://ccs2021.univ-lyon1.fr/#SPEAKER_Iain_Couzin)
 
 
 # 15:15-15:45 Invited Talk 2
 ## Title: TBA
-## Speaker : [Daniela Paolotti](http://danielapaolotti.squarespace.com)
+## Speaker : [Daniela Paolotti](https://ccs2021.univ-lyon1.fr/#SPEAKER_Daniela_Paolotti_)
 
 # 15:45-16:15 Invited Talk 3
 ## Title: TBA
-## Speaker : [Manuel Garcia-Herranz](https://manuelherranz.com)
+## Speaker : [Manuel Garcia-Herranz](https://ccs2021.univ-lyon1.fr/#SPEAKER_Manuel_Garcia-Herranz)
 
 # 16:15 - 16:45 Coffee Break / Poster Session 
 
