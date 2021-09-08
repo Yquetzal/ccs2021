@@ -28,7 +28,7 @@
 ## ROOM: XXX
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-|128|	 Gerardo IÃ±iguez, Carlos Pineda, Carlos Gershenson and Albert-LÃ¡szlÃ³ BarabÃ¡si | Universal dynamics of ranking | 	onsite  |
+|128|	 Gerardo Iñiguez, Carlos Pineda, Carlos Gershenson and Albert-László Barabási | Universal dynamics of ranking | 	onsite  |
 |171				| Oriol Artime and Manlio De Domenico | 	Unraveling the Role of Node Metadata in Network Robustness: the Feature-Based Percolation Model	|	onsite	| 
 |248		|		Guilherme Ferraz de Arruda and Yamir Moreno |		 Random walks on hypergraphs: from unbiased to maximum entropy random walks | 	onsite	|
 | 278|  Sandeep Chowdhary, Aanjaneya Kumar, Giulia Cencetti, Iacopo Iacopini and Federico Battiston | Simplicial contagion in temporal higher-order networks	|	onsite |	
@@ -42,7 +42,7 @@
 |46 |	 Jonathan Barlow and Irena Vodenska | The effect of a public health crisis on economic outputs: The case of Covid-19 distress propagation and recovery |	onsite	|
 |65   |	 Christian Diem, Andras Borsos, Tobias Reisch, Janos Kertesz and Stefan Thurner | Intra-Industry-Sector Heterogeneity and its Implication for the Spreading of Shocks in Production Networks	 |	onsite	|
 |152   |	 Tobias Reisch, Georg Heiler, Christian Diem and Stefan Thurner | Inferring supply networks from communication data	 |	onsite	|
-|64   |	 Krzysztof Malarz and MaÅ‚gorzata Krawczyk | Does Size Matter?	 |	onsite	|
+|64   |	 Krzysztof Malarz and Małgorzata Krawczyk | Does Size Matter?	 |	onsite	|
 |183   |	 Takayuki Mizuno, Shohei Doi, Takahiro Tsuchiya and Shuhei Kurizaki | Flow of corporate control power in the global ownership network	 |	onsite	|
 |188   |	 Anja Janischewski | Under which conditions would a post-growth transition trigger a financial market crash? Analysis via an heterogeneous agent model	 |	onsite	|
 
@@ -76,7 +76,7 @@
 |230 |	 Eun Lee, Aaron Clauset and Daniel Larremore | The dynamics of faculty hiring networks	 |	onsite	|
 |103 |	 Giorgio Tripodi, Francesco Lamperti, Andrea Mina, Francesca Chiaromonte, Fabrizio Lillo and Roberto Mavilia | Quantifying Knowledge Spillovers from Negative Emissions Research within and beyond Science	 |	onsite	|
 |23 |	 Tomasz Raducha, Jaroslaw Klamut, Mateusz Wilinski, Roger Cremades, Paul Bouman and Juan Fernandez-Gracia | Vulnerabilities of Democratic Electoral Systems	 |	onsite	|
-|326 |	 Tomas Mussi Reyero, Mariano Beiro, JosÃ© Ignacio Alvarez-Hamelin, Laura Hernandez and Dimitris Kotzinos | Tracking the political opinion landscape in Twitter during electoral periods	 |	onsite	|
+|326 |	 Tomas Mussi Reyero, Mariano Beiro, José Ignacio Alvarez-Hamelin, Laura Hernandez and Dimitris Kotzinos | Tracking the political opinion landscape in Twitter during electoral periods	 |	onsite	|
 |71 |	 Orowa Sikder, Robert Smith, Pierpaolo Vivo and Giacomo Livan | A minimalistic model of bias, polarization and misinformation in social networks	|	online	|
 
 ## Session 7: Social Complexity (2)
@@ -96,7 +96,7 @@
 | ---: | :----: | :------: | :----:	|
 |335 |	 Brennan Klein, Nicholas Generous, Samuel Scarpino and Alessandro Vespignani | Higher Education Responses to COVID-19 in the United States: The Crucial Role of On-Campus Diagnostic Testing for Students and Staff	 |	onsite	|
 |63 |	 Elisabetta Colosi, Giulia Bassignana, Canelle Poirier, Diego Contreras, Alain Barrat and Vittoria Colizza | Optimizing testing strategies for COVID-19 pandemic mitigation in school settings	 |	onsite	|
-|119 |	 Jesus Arturo Moreno Lopez, Beatriz Arregui Garci­a, Piotr Bentkowski, Livio Boglio, Francesco Pinotti, Pierre-Yves Boelle, Alain Barrat, Vittoria Colizza and Chiara Poletto | Anatomy of digital contact tracing: Role of age, transmission setting, adoption and case detection	 |	onsite	|
+|119 |	 Jesús Arturo Moreno López, Beatriz Arregui García, Piotr Bentkowski, Livio Boglio, Francesco Pinotti, Pierre-Yves Boëlle, Alain Barrat, Vittoria Colizza and Chiara Poletto | Anatomy of digital contact tracing: Role of age, transmission setting, adoption and case detection	 |	onsite	|
 |261 |	 Francesco Bonacina, Pierre-Yves Boelle, Vittoria Colizza, Olivier Lopez, Maud Thomas and Chiara Poletto | Influenza Decline During COVID-19 Pandemic: a Global Analysis Leveraging Classification and Regression Trees	 |	onsite	|
 |72 |	 Laura Di Domenico, Chiara E. Sabbatini, Giulia Pullano, Daniel Levy-Bruhl and Vittoria Colizz | Impact of January 2021 curfew measures on SARSCoV-2 B.1.1.7 circulation in France	 |	onsite	|
 |26 |	 Takeshi Kano, Kotaro Yasui, Taishi Mikami, Munehiro Asally and Akio Ishiguro | How to Mitigate the COVID-19 Outbreak While Maintaining Economic Activities?	 |	online	|
