@@ -34,7 +34,7 @@
 
 | 220 |    Linda Tillert, Luis Gomez-Nava and Pawel Romanczuk | The Role Of Speed Adaptation In Collective Motion    |  onsite  |
 | 70 |    The Anh Han, Tom Lenaerts, Francisco C. Santos and Luis Moniz Pereira | Voluntary safety commitments provide an escape from over-regulation in AI development    |  onsite  |
-| 328 |    Fabrizio Lombardi, Gasper Tkacçik and Daniele De Martino | Emergent Dichotomy of Oscillations and Scale-free Avalanches in a Minimal Adaptive Neural Model near Criticality    |  onsite  |
+| 328 |    Fabrizio Lombardi, Gasper Tkacik and Daniele De Martino | Emergent Dichotomy of Oscillations and Scale-free Avalanches in a Minimal Adaptive Neural Model near Criticality    |  onsite  |
 | 45 |    Malgorzata Krawczyk and Krzysztof Kulakowski | Metastable limit cycles in signed complete graphs    |  onsite  |
 | 209 |    Akylas Fotiadis and Dimitrios Kugiumtzis | Information-based Estimation of Causality Networks from High Dimensional Multivariate Time Series    |  onsite  |
 | 79 |    Robin Delabays, Saber Jafarpour and Francesco Bullo | Flow Network Problems on the n-torus with Asymmetric Couplings    |  onsite  |
@@ -46,10 +46,10 @@
 | ---: | :----: | :------: | :----:	|
 
 | 29 |    Barbara Benigni, Arsham Ghavasieh, Alessandra Corso, Valeria D'Andrea and Manlio De Domenico | Persistence of information flow: a multiscale characterization of human brain    |  onsite  |
-| 52 |    Andres Karjus, Tillmann Ohm, Mar Canet Sole†, Sebastian Ahnert and Maximilian Schich | Capturing aesthetic complexity in art using compression ensembles    |  onsite  |
+| 52 |    Andres Karjus, Tillmann Ohm, Mar Canet Sole¬†, Sebastian Ahnert and Maximilian Schich | Capturing aesthetic complexity in art using compression ensembles    |  onsite  |
 | 293 |    Jaroslav Hlinka, Luigi Caputi and Anna Pidnebesna | Directed Persistent Homology: testing sensitivity to brain network disorders    |  onsite  |
-| 223 |    Angelo Piga, Marta Sales-Pardo and Roger Guimera† | Tracking the evolution of topics in text corpora: a quantitative approach    |  onsite  |
-| 205 |    Lluc Font, Angelo Piga, Marta Sales-Pardo, Roger Guimer√† and Sergio Nasarre-Aznar | Quantitative methods for the analysis of judicial decisions    |  onsite  |
+| 223 |    Angelo Piga, Marta Sales-Pardo and Roger Guimera¬† | Tracking the evolution of topics in text corpora: a quantitative approach    |  onsite  |
+| 205 |    Lluc Font, Angelo Piga, Marta Sales-Pardo, Roger Guimera¬† and Sergio Nasarre-Aznar | Quantitative methods for the analysis of judicial decisions    |  onsite  |
 | 332 |    Irene Ferri, Emanuele Cozzo, Albert Diaz-Guilera and Luce Prignano | A bounded confidence model of emotionally aroused integrate and fire oscillators.    |  online  |
 
 ## Session 4: Economics and Finance (4)
@@ -61,7 +61,7 @@
 | 84 |    Stefano Benati, Eugenio Dacrema and Paolo Eugenio Petit Valdes | The Marriage Game: New Insights from a Dynamic Model of Marriage, Domestic Labour, and Divorce    |  onsite  |
 | 206 |    Federico Zasa, Silvia Magnanini, Paola Bellis, Tommaso Buganza, Daniel Trabucchi and Roberto Verganti | The Flocking Behaviour of Firms: an Agent-based Simulation of Organizational Sensemaking    |  onsite  |
 | 241 |    Jaime Oliver, Alberto Antonioni, Francesca Lipari and Ignacio Tamarit | A networked global economy: the role of social capital in economic growth    |  onsite  |
-| 170 |    William Schueller, Christian Diem, Johannes Stangl, Beate Conrady, Markus Gerschberger and Stefan Thurner | Systemic Risk in Populations'Äô Basic Supply Networks    |  onsite  |
+| 170 |    William Schueller, Christian Diem, Johannes Stangl, Beate Conrady, Markus Gerschberger and Stefan Thurner | Systemic Risk in Populations'‚Ç¨‚Ñ¢ Basic Supply Networks    |  onsite  |
 | 57 |    Andras Borsos, Christian Diem, Tobias Reisch, Janos Kertesz and Stefan Thurner | Quantifying firm-level economic systemic risk from nation-wide supply networks    |  onsite  |
 | 307 |    Katarina Mayer | Optimal Legal System in a Semi-Underground Economy    |  onsite  |
 
@@ -71,11 +71,11 @@
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 
-| 19 |    Lui≠s F Seoane and Ricard Sola | Modeling Brain Reorganization after Hemispherectomy    |  onsite  |
+| 19 |    Lui¬≠s F Seoane and Ricard Sola | Modeling Brain Reorganization after Hemispherectomy    |  onsite  |
 | 129 |    Lucrezia Carboni, Sophie Achard and Michel Dojat | Stationary distribution of node2vec random walk for brain connectivity networks discrimination    |  onsite  |
-| 31 |    Elvia Rami≠rez-Carrillo, Isaac G-Santoyo, Oliver Lopez Corona, Olga A. Rojas-Ramos and Javier Nieto | Diet influences both cerebral and gut microbiota networks connectivity in early ages, a case of study    |  onsite  |
+| 31 |    Elvia Ramirez-Carrillo, Isaac G-Santoyo, Oliver Lopez Corona, Olga A. Rojas-Ramos and Javier Nieto | Diet influences both cerebral and gut microbiota networks connectivity in early ages, a case of study    |  onsite  |
 | 251 |    Duilio Balsamo, Paolo Bajardi, Alberto Salomone and Rossano Schifanella | Nonmedical Opioid Consumption on Reddit: Patterns of Routes of Administration and Drug Tampering    |  onsite  |
-| 124 |    Iker Atienza and Lui≠s F Seoane | Long- and Short-Term Effects of Cross-Immunity    |  onsite  |
+| 124 |    Iker Atienza and Lui¬≠s F Seoane | Long- and Short-Term Effects of Cross-Immunity    |  onsite  |
 
 ## Session 6: Social Complexity (8)
 ## Room: XXX
@@ -83,11 +83,11 @@
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 
-| 160 |    Aniello Lampo, Mari≠a J. Palazzi, Javier Borge-Holthoefer and Albert Sole | Hybrid Structural Arrangements Mediate Stability and Feasibility in Mutualistic Networks    |  onsite  |
+| 160 |    Aniello Lampo, Maria J. Palazzi, Javier Borge-Holthoefer and Albert Sole | Hybrid Structural Arrangements Mediate Stability and Feasibility in Mutualistic Networks    |  onsite  |
 | 250 |    Duilio Balsamo, Corrado Monti, Gianmarco De Francisci Morales, Paolo Bajardi and Rossano Schifanella | Opioid addiction recovery on Reddit: behavioral shift and social support    |  onsite  |
 | 330 |    Loredana Bellantuono, Alfonso Monaco, Sabina Tangaro, Nicola Amoroso, Vincenzo Aquaro and Roberto Bellotti | An Equity-Oriented Rethink Of Global Rankings With Complex Networks Mapping Development    |  onsite  |
 | 216 |    Johannes Stangl, Christian Diem, Tobias Reisch and Stefan Thurner | Identifying Decarbonization Leverage Points in Supply Networks with Network Measures that Quantify Systemic Relevance    |  onsite  |
-| 127 |    Chiara Zappala†, Alessandro Pluchino, Andrea Rapisarda, Alessio Biondo and Pawel Sobkowicz | The Role of Chance in Fencing Tournaments: an Agent-Based Approach    |  onsite  |
+| 127 |    Chiara Zappala¬†, Alessandro Pluchino, Andrea Rapisarda, Alessio Biondo and Pawel Sobkowicz | The Role of Chance in Fencing Tournaments: an Agent-Based Approach    |  onsite  |
 | 81 |    Anne-Marie Grisogono, Roger Bradbury, John Finnigan, Brian Walker and Paul Oppenheimer | Evolution of Governance    |  onsite  |
 
 ## Session 7: Social Complexity (9)
@@ -100,7 +100,7 @@
 | 108 |    John Fitzgerald | Investigating the changing structure of research collaborations between institutions in Latin America & the Caribbean using multilayered networks    |  onsite  |
 | 317 |    Giulio Burgio, Benjamin Steinegger, Giacomo Rapisardi and Alex Arenas | The Impact of Homophily on Digital Proximity Tracing    |  onsite  |
 | 110  |  Akira Ishii and Nozomi Okano | Trust-Distrust Model on Multiple Network of Society as New Type of Opinion Dynamics | onsite |
-| 78 |    Nancy Li, Markus Luczak-Roesch and Flavia Donadelli | ‚ÄúWe follow the science‚Äù: Studying information dynamics across the science-policy interface    |  onsite  |
+| 78 |    Nancy Li, Markus Luczak-Roesch and Flavia Donadelli | √¢‚Ç¨≈ìWe follow the science√¢‚Ç¨¬ù: Studying information dynamics across the science-policy interface    |  onsite  |
 | 265 |    Yasaman Asgari, Armin Pournaki, Eckehard Olbrich and Felix Gaisbauer | Dynamic communities and engagement in public debate about Covid-19 in the German Twittersphere    |  online  |
 
 ## Session 8: COVID-19 (6)
@@ -125,7 +125,7 @@
 | 319 |    Sabin Roman | Peak Oil and the Minimum EROI for Society    |  onsite  |
 | 316 |    Valerian Jacques-Dumas, Francesco Ragone, Freddy Bouchet, Pierre Borgnat and Patrice Abry | Deep Learning based Extreme Heatwave Forecast    |  onsite  |
 | 259 |    Mariko Ito, Yoshifumi Amamoto and Takaaki Ohnishi | Change of network structure of elastomers under elongation    |  online  |
-| 88 |    Ana Teixeira de Melo and Leo Simon Dominic Caves | Outreach in Complexity Studies for transforming 'Äòeveryday'Äô modes of thinking: The Complex Thinking Academy    |  online  |
+| 88 |    Ana Teixeira de Melo and Leo Simon Dominic Caves | Outreach in Complexity Studies for transforming '‚Ç¨Àúeveryday'‚Ç¨‚Ñ¢ modes of thinking: The Complex Thinking Academy    |  online  |
 | 47 |    Lin Zhang, Ling Feng, Kan Chen and Choy Heng Lai | Scaling relations of training hyper-parameters in deep learning    |  online  |
 | 239 |    Makoto Takeuchi and Yukie Sano | Burstiness and 1/f noise in the physical activities of children and adults    |  online  |
 
