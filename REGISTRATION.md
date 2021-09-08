@@ -42,7 +42,7 @@ The procedure for Registration is in three steps:
 |Non Academics						|			590 € 	|	400 €	 |	315 €	 | 110 € |			
 
 
-**Cancellation policy**
+## Cancellation policy
 * cancellation of participation is only possible up to September 20.
 * if a participant is not able to attend On Site because of travel regulations or health issues, the registration can be converted to an Online participation and the complement will be refunded. 
 * if the sanitary regulations decided  by the French Government do not allow any Onsite event, the same condition will be applied and all registrations will be converted to Online ones. 
