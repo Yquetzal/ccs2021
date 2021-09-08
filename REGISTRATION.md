@@ -30,6 +30,7 @@ The procedure for Registration is in three steps:
 |Post-doctoral fellows				|				400 €	|	290 €|	240 €	| 70 € |
 |Academics (Faculty, Researchers)		|				480 €	|	320 € | 	240 €	| 70 € |
 |Non Academics						|			550 € 	|	360 €	 |	275 €	 | 70 € |						
+**Early Bird was for Registration up to** (~~July 16~~)  - (~~July 27~~) - **September 3, 2021**
 
 # Full Price
 | | On Site  | Online Only |Single day (Onsite and Hybrid Satellites ) | Single Day: Online only Satellites	|
@@ -39,7 +40,6 @@ The procedure for Registration is in three steps:
 |Academics (Faculty, Researchers)		|				520 €	|	360 € | 	280 €	| 110 € |
 |Non Academics						|			590 € 	|	400 €	 |	315 €	 | 110 € |			
 
-**Early Bird was for Registration up to** (~~July 16~~)  - (~~July 27~~) - **September 3, 2021**
 
 **Cancellation policy**
 * cancellation of participation is only possible up to September 20.
