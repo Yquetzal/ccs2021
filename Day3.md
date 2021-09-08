@@ -1,4 +1,6 @@
-## Day 3 - Wednesday 27
+### Day 3 - Wednesday 27
+
+-----
 
 # 8:30 - 9:00 Registration
 
