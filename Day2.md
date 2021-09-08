@@ -109,7 +109,7 @@ Panelists:
 | ---: | :----: | :------: | :----:	|
 | 329 |   Hao Cui and JÃ¡nos KertÃ©sz | Attention dynamics on the Chinese social media Sina Weibo during the COVID-19 pandemic   | onsite  |
 | 322 |   Taras Patsahan and Jaroslav Ilnytskyi | The Effects of the Quarantine and Vaccination on the COVID-19 Spread by Combining the Compartmental and Cellular Automaton Types of Modelling   | onsite  |
-| 302 |   Guillermo de Anda-Jauregui, Rodrigo Zepeda-Tello, Plinio Guzman, Mauricio Hernandez Avila, David Barros-Sierra, Amilcar Meneses, Alfredo Hernandez, Marisol Flores-Garrido and Maribel Hernandez Rosales | Predicting public health impact of COVID-19 in Mexico City using mobility and contact networks   | onsite  |
+| 302 |   Guillermo de Anda-Jauregui, Rodrigo Zepeda-Tello, Plinio Guzman, Mauricio Hernandez Avila, David Barros-Sierra, Amilcar Meneses, Alfredo Hernandez, Marisol Flores-Garrido and Maribel Hernandez Rosales | Predicting public health impact of COVID-19 in Mexico City using mobility and contact networks   | onsite  |
 | 154 |   Jun'Ichi Ozaki, Yohei Shida, Hideki Takayasu and Misako Takayasu | Infection rate analysis at each daily activity under COVID-19 pandemic using human mobility data   | online  |
 | 235 |   Valeria D'Andrea, Riccardo Gallotti, Nicola Castaldo and Manlio De Domenico | Individual Risk Perception and Empirical Social Structures Shape the Dynamics of Infectious Disease Outbreaks   | online  |
 | 262 |   Aleix Bassolas, Andrea Santoro, Sandro Sousa, Silvia Rognone and Vincenzo Nicosia | Optimising the mitigation of epidemic spreading through targeted adoption of contact tracing apps  | online  |
