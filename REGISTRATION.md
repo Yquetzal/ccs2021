@@ -23,6 +23,7 @@ The procedure for Registration is in three steps:
 4. Important warning for French attendants from CNRS laboratory: you cannot use a CNRS credit card to pay for the registration fees on the CNRS budget, and the use of a “bon de commande” is then mandatory.
 
 ## The Registration fees are:
+# Early Bird
 | | Early Bird On Site  | Early Bird Online Only | Early Bird Single day (Onsite and Hybrid Satellites ) | Early Bird Single Day: Online only Satellites	|
 | ---: | :----: | :------: | :----:	| :---: |
 |Young researchers (PhD candidates, Master students)|		330 €	| 	200 €| 	170 € | 70 € |
@@ -30,9 +31,15 @@ The procedure for Registration is in three steps:
 |Academics (Faculty, Researchers)		|				480 €	|	320 € | 	240 €	| 70 € |
 |Non Academics						|			550 € 	|	360 €	 |	275 €	 | 70 € |						
 
-**Early Bird is for Registration up to** (~~July 16~~)  - (~~July 27~~) - **September 3, 2021**
+# Full Price
+| | On Site  | Online Only |Single day (Onsite and Hybrid Satellites ) | Single Day: Online only Satellites	|
+| ---: | :----: | :------: | :----:	| :---: |
+|Young researchers (PhD candidates, Master students)|		370 €	| 	240 €| 	210 € | 110 € |
+|Post-doctoral fellows				|				440 €	|	330 €|	280 €	| 110 € |
+|Academics (Faculty, Researchers)		|				520 €	|	360 € | 	280 €	| 110 € |
+|Non Academics						|			590 € 	|	400 €	 |	315 €	 | 110 € |			
 
-Standard Registration Fees after this date will be 40 € more (for all categories).
+**Early Bird was for Registration up to** (~~July 16~~)  - (~~July 27~~) - **September 3, 2021**
 
 **Cancellation policy**
 * cancellation of participation is only possible up to September 20.
