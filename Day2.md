@@ -254,7 +254,7 @@ Panelists:
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 | 131 |    Sebastian Raimondo and Manlio De Domenico | Generalizing the Radiation Model with Exogenous Drivers    |  onsite  |
-| 339 |    Eun-Kyeong Kim. A Spatial Perspective on Burstiness Measure for Spatiotemporal Event Analysis    |  onsite  |
+| 339 |    Eun-Kyeong Kim | A Spatial Perspective on Burstiness Measure for Spatiotemporal Event Analysis    |  onsite  |
 | 244 |    Vedran Sekara, Ivan Dotu, Esteban Moro and Manuel Garcia-Herranz | Fundamental Biases in influence maximization methods    |  onsite  |
 | 143 |    Mateusz Wilinski and Andrey Lokhov | Scalable Learning of Independent Cascade Dynamics from Partial Observations    |  onsite  |
 | 344 |    Tiago Peixoto | Disentangling homophily, community structure and triadic closure in networks    |  onsite  |
