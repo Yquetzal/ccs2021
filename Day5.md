@@ -2,21 +2,21 @@
 
 # 8:30-9:00 Registration
 # 9:00-9:45 Keynote Talk 4
-## Title: TBA
+## Title: (TBA)
 ## Speaker : [Sonia Kéfi](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sonia_Kefi)
 
 # 9:45-10:15 Invited Talk 6
-## Title: TBA
+## Title: (TBA)
 ## Speaker : [Irene Giardina](https://ccs2021.univ-lyon1.fr/#SPEAKER_Irene_Giardina)
 
 # 10:15-10:45 Invited Talk 7
-## Title: TBA
+## Title: (TBA)
 ## Speaker : [Sundeep Chepuri](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sundeep_Chepuri)
 
 # 10:45 - 11:30 Coffee Break
 # 11:30 - 13:00 Parallel Sessions 5
 ## Session 1: Foundations of Complex Systems (9)
-## Room: XXX
+## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -28,7 +28,7 @@
 | 11 |    Kiyoshi Kanazawa and Didier Sornette | Classification of Power law Relations in the Intensity Distribution for a Large Class of Self-excited Nonlinear Hawkes Processes    |  online  |
 
 ## Session 2: Foundations of Complex Systems (10)
-## Room: XXX
+## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -40,7 +40,7 @@
 | 79 |    Robin Delabays, Saber Jafarpour and Francesco Bullo | Flow Network Problems on the n-torus with Asymmetric Couplings    |  onsite  |
 
 ## Session 3: Psychology, Neurosciences, Linguistics (3)
-## Room: XXX
+## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -52,7 +52,7 @@
 | 332 |    Irene Ferri, Emanuele Cozzo, Albert Diaz-Guilera and Luce Prignano | A bounded confidence model of emotionally aroused integrate and fire oscillators.    |  online  |
 
 ## Session 4: Economics and Finance (4)
-## Room: XXX
+## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -64,7 +64,7 @@
 | 307 |    Katarina Mayer | Optimal Legal System in a Semi-Underground Economy    |  onsite  |
 
 ## Session 5: Biological and (Bio)Medical Complexity (5)
-## Room: XXX
+## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -75,7 +75,7 @@
 | 124 |    Iker Atienza and Luís F Seoane | Long- and Short-Term Effects of Cross-Immunity    |  onsite  |
 
 ## Session 6: Social Complexity (8)
-## Room: XXX
+## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -87,7 +87,7 @@
 | 81 |    Anne-Marie Grisogono, Roger Bradbury, John Finnigan, Brian Walker and Paul Oppenheimer | Evolution of Governance    |  onsite  |
 
 ## Session 7: Social Complexity (9)
-## Room: XXX
+## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -99,7 +99,7 @@
 | 265 |    Yasaman Asgari, Armin Pournaki, Eckehard Olbrich and Felix Gaisbauer | Dynamic communities and engagement in public debate about Covid-19 in the German Twittersphere    |  online  |
 
 ## Session 8: COVID-19 (6)
-## Room: XXX
+## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -111,7 +111,7 @@
 | 116 |    Paul Churchyard, Ramani Peruvemba, Ajay Gupta and Christopher Woloshyn | Secondary Bacterial Infection Risk Index    |  onsite  |
 
 ## Session 9: Transdisciplinary and Applied Complex Systems (2)
-## Room: XXX
+## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -123,14 +123,14 @@
 | 239 |    Makoto Takeuchi and Yukie Sano | Burstiness and 1/f noise in the physical activities of children and adults    |  online  |
 
 # 13:00-14:00 Lunch Break
-## Room: XXX 
+## Room: (TBA) 
 
 # 14:00-14:45 Keynote Talk 5
-## Title: TBA
+## Title: (TBA)
 ## Speaker : [Henk Dijkstra](https://ccs2021.univ-lyon1.fr/#SPEAKER_Henk_Dijkstra)
 
 # 14:45-15:15 Invited Talk 8
-## Title: TBA
+## Title: (TBA)
 ## Speaker : [Petra Vertes](https://ccs2021.univ-lyon1.fr/#SPEAKER_Petra_Vertes)
 
 # 15:15 - 15:45 Coffee Break
