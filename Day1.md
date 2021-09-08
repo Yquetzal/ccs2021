@@ -19,7 +19,7 @@
 | ---: | :----: | :------: | :----:	|
 |3| Sarika Jalan| Explosive synchronization in interlayer phase-shifted Kuramoto oscillators on multiplex networks| 	onsite  |
 |213 |	Malbor Asllani, Bram Siebert, Alex Arenas and James Gleeson|	 Symmetry-breaking Mechanism for the Formation of Cluster Chimera Patterns	| onsite	| 
-|181		|	CÃ©dric Simal, Bram Siebert, Timoteo Carletti, James Gleeson and Malbor Asllani | Effects of local interactions in epidemics outbreaks in networks of structured populations|	onsite	|
+|181		|	Cedric Simal, Bram Siebert, Timoteo Carletti, James Gleeson and Malbor Asllani | Effects of local interactions in epidemics outbreaks in networks of structured populations|	onsite	|
 | 10| Riccardo Muolo, Joseph D. O'Brien, Timoteo Carletti, James Gleeson and Malbor Asllani | Synchronization dynamics in real-world networks	|	onsite |	
 | 96| Leah A. Keating, James P. Gleeson and David J.P. O'Sullivan | A Multi-Type Branching Process Method for Modelling Complex Contagion on Clustered Networks		|	onsite |	
 | 123| Marta Tuninetti, Alberto Aleta, Daniela Paolotti, Yamir Moreno and Michele Starnini | Prediction of New Scientific Collaborations Through Multiplex Networks	|	online |	
@@ -40,7 +40,7 @@
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |46 |	 Jonathan Barlow and Irena Vodenska | The effect of a public health crisis on economic outputs: The case of Covid-19 distress propagation and recovery |	onsite	|
-|65   |	 Christian Diem, AndrÃ¡s Borsos, Tobias Reisch, Janos Kertesz and Stefan Thurner | Intra-Industry-Sector Heterogeneity and its Implication for the Spreading of Shocks in Production Networks	 |	onsite	|
+|65   |	 Christian Diem, Andras Borsos, Tobias Reisch, Janos Kertesz and Stefan Thurner | Intra-Industry-Sector Heterogeneity and its Implication for the Spreading of Shocks in Production Networks	 |	onsite	|
 |152   |	 Tobias Reisch, Georg Heiler, Christian Diem and Stefan Thurner | Inferring supply networks from communication data	 |	onsite	|
 |64   |	 Krzysztof Malarz and MaÅ‚gorzata Krawczyk | Does Size Matter?	 |	onsite	|
 |183   |	 Takayuki Mizuno, Shohei Doi, Takahiro Tsuchiya and Shuhei Kurizaki | Flow of corporate control power in the global ownership network	 |	onsite	|
@@ -51,7 +51,7 @@
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |283 |	 Hanae El Gouj and Claire Lagesse | Road network analysis based on geohistorical data	 |	onsite	|
-|28   |	 Benoit Matet, Ã‰tienne CÃ´me and Angelo Furno | A Lightweight Approach for Origin-Destination Matrix Anonymization	 |	onsite	|
+|28   |	 Benoit Matet, Etienne Come and Angelo Furno | A Lightweight Approach for Origin-Destination Matrix Anonymization	 |	onsite	|
 |90   |	 Bernardo Monechi, Enrico Ubaldi, Pietro Gravino, Ilan Chabay and Vittorio Loreto | Finding Successful Strategies in a Complex Urban Sustainability Game	 |	onsite	|
 |157   |	 Evelyne Akopyan, Angelo Furno, Nour-Eddin El Faouzi and Eric Gaume | Unsupervised Real-time Detection of Urban Anomalies Using Massive Mobile Phone Network Data	 |	onsite	|
 |334   |	 Megan Khoshyaran and Jean-Patrick Lebacque | Large scale transportation networks: complex behaviour induced by communication and multimodality	 |	online	|
@@ -61,7 +61,7 @@
 ## ROOM: XXX
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-|242 |	 Jorge P. RodrÃ­guez-GarcÃ­a, Juan FernÃ¡ndez-Gracia, Carlos M. Duarte, Xabier Irigoien and VÃ­ctor M. EguÃ­luz | Fishing at the High Seas: the Global Network Connecting Ports to Fishing Areas	 |	onsite	|
+|242 |	 Jorge P. Rodriguez-Garcia, Juan Fernandez-Gracia, Carlos M. Duarte, Xabier Irigoien and Victor M. Eguiluz | Fishing at the High Seas: the Global Network Connecting Ports to Fishing Areas	 |	onsite	|
 |301 |	 Pau Vilimelis Aceituno | Minimizing Communication Costs with Asymmetric Weight Codes	 |	onsite	|
 |180 |	 Jon Sanchez-Valle, Rion Brattig Correia, Marta Camacho-Artacho, Rosalba Lepore, Mauro M. Mattos, Luis M. Rocha and Alfonso Valencia | Multi population analysis of electronic health records reveal biases in the administration of known drug-drug interactions	 |	onsite	|
 |94 |	 Benedetta Mariani, Giorgio Nicoletti, Marta Bisio, Marta Maschietto, Stefano Vassanelli and Samir Suweis | Disentangling the role of external and intrinsic dynamics on the critical signatures of neural activity	 |	onsite	|
