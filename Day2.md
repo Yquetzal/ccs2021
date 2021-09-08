@@ -16,7 +16,7 @@ Panelists:
 
 # 11:30 - 13:00 Parallel Sessions 3
 ## Session 1: Foundations of Complex Systems (5)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -28,7 +28,7 @@ Panelists:
 | 190 |   Sebastiano Bontorin and Manlio De Domenico | Multi-pathways temporal distance unravels the hidden geometry of network-driven processes   | online  |
 
 ## Session 2: Foundations of Complex Systems (6)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -40,7 +40,7 @@ Panelists:
 | 21 |   Hildegard Meyer-Ortmanns and Maximilian Voit | Emerging criticality in heteroclinic dynamics   | onsite  |
 
 ## Session 3: Psychology, Neurosciences, Linguistics (2)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -52,7 +52,7 @@ Panelists:
 | 60 |   Hayato Misumi, Taiki Ogata and Tomomi Kito | Patterns of Cooperative Rhythm Production Between One Leader and Two Followers Through Auditory and Visual Information   | online  |
 
 ## Session 4: Economics and Finance (2)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -64,7 +64,7 @@ Panelists:
 | 98 |   Lorenzo Lucchini, Laura Maria Alessandretti, Bruno Lepri, Angela Gallo and Andrea Baronchelli | From code to market: Network of developers and correlated returns of cryptocurrencies   | online  |
 
 ## Session 5: Biological and (Bio)Medical Complexity (3)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -76,7 +76,7 @@ Panelists:
 | 173 |   Lena Takayasu | The laws behind the temporal change of gut microbiome   | online  |
 
 ## Session 6: Social complexity (4)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -88,7 +88,7 @@ Panelists:
 | 176 |   Masashi Shiraishi, Osamu Yamanaka and Hiraku Nishimori | Effect of Interaction Network Structure in Response Threshold Model on Task Allocation   | online  |
 
 ## Session 7: Social complexity (5)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -100,7 +100,7 @@ Panelists:
 | 204 |   Silvia Magnanini, Federica Guazzoni, Daniel Trabucchi, Tommaso Buganza and Roberto Verganti | What is your tendency to converge in a flock? Assessing the convergent behaviour of individuals collaborating as a complex system through self-reported measure   | onsite  |
 
 ## Session 8: COVID-19 (4)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -112,7 +112,7 @@ Panelists:
 | 262 |   Aleix Bassolas, Andrea Santoro, Sandro Sousa, Silvia Rognone and Vincenzo Nicosia | Optimising the mitigation of epidemic spreading through targeted adoption of contact tracing apps  | online  |
 
 ## Session 9: Methodology (2)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -124,7 +124,7 @@ Panelists:
 | 178 |   Samuel Johnson, Dana Warmsley and Charles Martin | Mitigating Limited Observability via Proxy Utilities in Game Theoretic Control   | onsite  |
 
 # 13:00-14:30 Lunch Break - Poster Session 
-## ROOM: XXX 
+## ROOM: TBA 
 
 # 14:30-15:15 Keynote Talk 3
 ## Title: TBA
@@ -143,7 +143,7 @@ Panelists:
 
 # 16:45 - 18:30 Parallel Sessions 4
 ## Session 1: Foundations of Complex Systems (7)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -156,7 +156,7 @@ Panelists:
 | 298 |    Eric Peña and Hiroki Sayama | Life Worth Mentioning: Complexity in Life-Like Cellular Automata    |  online  |
 
 ## Session 2: Foundations of Complex Systems (8)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -169,7 +169,7 @@ Panelists:
 | 300 |    Rico Berner, Serhiy Yanchuk and Eckehard Scholl | Generalized splay states: Dynamics on and in the vicinity of the splay manifold    |  online  |
 
 ## Session 3: Economics and Finance (3)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -182,7 +182,7 @@ Panelists:
 | 144 |    Joseph Hickey | Market-Share Structures of Competing Firms: A Simple Physics Model    |  online  |
 
 ## Session 4: Biological and (Bio)Medical Complexity (4)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -195,7 +195,7 @@ Panelists:
 | 228 |    Manh Hong Duong and The Anh Han | Statistics of equilibria points in pairwise social dilemmas under replicator-mutator dynamics    |  onsite  |
 
 ## Session 5: Social Complexity (6)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -208,7 +208,7 @@ Panelists:
 | 243 |    Andrea Civilini, Nejat Anbarci and Vito Latora | Evolutionary game model of risk propensity in group decision making    |  onsite  |
 
 ## Session 6: Social complexity (7)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -221,7 +221,7 @@ Panelists:
 | 336 |    Sriniwas Pandey and Hiroki Sayama | Dynamics of User Eccentricity on GAB Social Media    |  online  |
 
 ## Session 7: Complexity in Physics and Chemistry (1)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -234,7 +234,7 @@ Panelists:
 | 73 |    Ankit Mishra and Sarika Jalan | Eigenvalue ratio spacing statistics of complex networks: Disorder vs Randomness    |  onsite  |
 
 ## Session 8: COVID-19 (5)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -247,7 +247,7 @@ Panelists:
 | 175 |    Hadrien Salat, Anna Zanchetta, Fernando Benitez-Paez, Man Luo and Mark Birkin | National Scale Agent-Based Model for Epidemics    |  onsite  |
 
 ## Session 9: Methodology (3)
-## ROOM: XXX
+## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
