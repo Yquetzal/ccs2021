@@ -1,4 +1,6 @@
-## Day 2 - Tuesday 26
+### Day 2 - Tuesday 26
+
+-----
 
 # 8:00 - 9:00 Registration
 
