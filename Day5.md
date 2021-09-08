@@ -1,15 +1,15 @@
 # 8:30-9:00 Registration
 # 9:00-9:45 Keynote Talk 4
 ## Title: TBA
-## Speaker : [Sonia Kéfi](http://sonia.kefi.fr)
+## Speaker : [Sonia Kéfi](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sonia_Kefi)
 
 # 9:45-10:15 Invited Talk 6
 ## Title: TBA
-## Speaker : [Irene Giardina](http://chimera.roma1.infn.it/IRENE/)
+## Speaker : [Irene Giardina](https://ccs2021.univ-lyon1.fr/#SPEAKER_Irene_Giardina)
 
 # 10:15-10:45 Invited Talk 7
 ## Title: TBA
-## Speaker : [Sundeep Chepuri](https://ece.iisc.ac.in/~spchepuri/)
+## Speaker : [Sundeep Chepuri](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sundeep_Chepuri)
 
 # 10:45 - 11:30 Coffee Break
 # 11:30 - 13:00 Parallel Sessions 5
@@ -125,11 +125,11 @@
 
 # 14:00-14:45 Keynote Talk 5
 ## Title: TBA
-## Speaker : [Henk Dijkstra](https://webspace.science.uu.nl/~dijks101/)
+## Speaker : [Henk Dijkstra](https://ccs2021.univ-lyon1.fr/#SPEAKER_Henk_Dijkstra)
 
 # 14:45-15:15 Invited Talk 8
 ## Title: TBA
-## Speaker : [Petra Vertes](https://www.neuroscience.cam.ac.uk/directory/profile.php?pv226)
+## Speaker : [Petra Vertes](https://ccs2021.univ-lyon1.fr/#SPEAKER_Petra_Vertes)
 
 # 15:15 - 15:45 Coffee Break
 
