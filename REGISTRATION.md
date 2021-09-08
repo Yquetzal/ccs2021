@@ -37,8 +37,8 @@ The procedure for Registration is in three steps:
 | ---: | :----: | :------: | :----:	| :---: |
 |Young researchers (PhD candidates, Master students)|		370 €	| 	240 €| 	210 € | 110 € |
 |Post-doctoral fellows				|				440 €	|	330 €|	280 €	| 110 € |
-|Academics (Faculty, Researchers)		|				520 €	|	360 € | 	280 €	| 110 € |
-|Non Academics						|			590 € 	|	400 €	 |	315 €	 | 110 € |			
+|Academics (Faculty, Researchers)		|				520 €	|	360 € | 	280 €	| 110 € |
+|Non Academics						|			590 € 	|	400 €	 |	315 €	 | 110 € |			
 
 
 **Cancellation policy**
