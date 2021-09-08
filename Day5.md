@@ -93,7 +93,7 @@
 | 108 |    John Fitzgerald | Investigating the changing structure of research collaborations between institutions in Latin America & the Caribbean using multilayered networks    |  onsite  |
 | 317 |    Giulio Burgio, Benjamin Steinegger, Giacomo Rapisardi and Alex Arenas | The Impact of Homophily on Digital Proximity Tracing    |  onsite  |
 | 110  |  Akira Ishii and Nozomi Okano | Trust-Distrust Model on Multiple Network of Society as New Type of Opinion Dynamics | onsite |
-| 78 |    Nancy Li, Markus Luczak-Roesch and Flavia Donadelli | â€œWe follow the scienceâ€: Studying information dynamics across the science-policy interface    |  onsite  |
+| 78 |    Nancy Li, Markus Luczak-Roesch and Flavia Donadelli | "We follow the science": Studying information dynamics across the science-policy interface    |  onsite  |
 | 265 |    Yasaman Asgari, Armin Pournaki, Eckehard Olbrich and Felix Gaisbauer | Dynamic communities and engagement in public debate about Covid-19 in the German Twittersphere    |  online  |
 
 ## Session 8: COVID-19 (6)
@@ -116,7 +116,7 @@
 | 319 |    Sabin Roman | Peak Oil and the Minimum EROI for Society    |  onsite  |
 | 316 |    Valerian Jacques-Dumas, Francesco Ragone, Freddy Bouchet, Pierre Borgnat and Patrice Abry | Deep Learning based Extreme Heatwave Forecast    |  onsite  |
 | 259 |    Mariko Ito, Yoshifumi Amamoto and Takaaki Ohnishi | Change of network structure of elastomers under elongation    |  online  |
-| 88 |    Ana Teixeira de Melo and Leo Simon Dominic Caves | Outreach in Complexity Studies for transforming '€˜everyday'€™ modes of thinking: The Complex Thinking Academy    |  online  |
+| 88 |    Ana Teixeira de Melo and Leo Simon Dominic Caves | Outreach in Complexity Studies for transforming 'everyday' modes of thinking: The Complex Thinking Academy    |  online  |
 | 47 |    Lin Zhang, Ling Feng, Kan Chen and Choy Heng Lai | Scaling relations of training hyper-parameters in deep learning    |  online  |
 | 239 |    Makoto Takeuchi and Yukie Sano | Burstiness and 1/f noise in the physical activities of children and adults    |  online  |
 
