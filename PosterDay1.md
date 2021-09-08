@@ -1,3 +1,5 @@
+# Monday, 25th October 2021
+## Online / onsite poster presentations
 | ID  | Authors | Title | Mode |
 | ---: | :----: | :------: | :----:	|
 | 4 |	Raphael Aybar | Predictive Processing as a Cybernetic model of Cognition  |  online
