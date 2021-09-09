@@ -25,7 +25,8 @@ Topics covered by the Conference include, but are not limited to:
 8. Complexity in Physics and Chemistry (Quantum Computation, Quantum Synchronization, Quantum Chaos, Random Matrix Theory)
 9. COVID-19 related Complex Systems
 10. Methodologies (methodological challenges, methods, innovations)
-11. Inter/Transdisciplinarity, applied research and calls for collaboration (‘real-world’ interventions; applied research; project proposals) 12. Any other topic in Complex Systems
+11. Inter/Transdisciplinarity, applied research and calls for collaboration (‘real-world’ interventions; applied research; project proposals) 
+12. Any other topic in Complex Systems
 
 
  
@@ -50,10 +51,10 @@ We accept contributed talks and posters. Please indicate your preference for one
 
 
 ### Oral Presentations
-The allocated time for each oral presentations is 15  minutes, which total time for presentation +questions (12 min + 3 min). There is a tight schedule and it is important that each presenter stay within this time limit. Presenters will have access to a laptop with LCD projector and a laser pointer. Please, bring your presentation to the meeting on a USB flash drive to load on the in-room laptops. You should load your presentation on one of the conference laptops before the first session, during the coffee breaks, or during lunch preceding your presentation. A support staff member will be in each room to assist with the loading.
+The allocated time for each oral presentations is 15  minutes, which total time for presentation +questions (12 min + 3 min). There is a tight schedule and it is important that each presenter stay within this time limit. **Presenters will have access to a laptop with LCD projector and a laser pointer**; due to the constraints of hybrid format (in the room + online), it will not be possible to connect a personal laptop. Please, prepare the presentation in a pdf format (more robust to change of computer and system) and bring your presentation to the meeting on a USB flash drive to load on the in-room laptops. You should load your presentation on one of the conference laptops before the first session, during the coffee breaks, or during lunch preceding your presentation. A support staff member will be in each room to assist with the loading.
 
 ### Poster Presentations
-For each poster, display boards will be allocated. The poster area will open 30 minutes before each poster session begins each day. It is advisable to hang the posters sometime before 9:00 a.m. the day of the respective session. Posters will need to be taken down by the end of the day of each session. Presenters will be required to be next to their posters during specific time slots. Poster dimensions: A0 size (841 x 1189 mm or 33.1 x 46.8 in). Maximum stand area: 1200x1200 mm.
+For each poster, display boards will be allocated. The poster area will open 30 minutes before each poster session begins each day. It is advisable to hang the posters sometime before 9:00 a.m. the day of the respective session. Posters will need to be taken down by the end of the day of each session. Presenters will be required to be next to their posters during specific time slots. Poster dimensions: **A0 size (841 x 1189 mm or 33.1 x 46.8 in) standing in portrait mode** (not as landscape -- the allocated place is 90 cm of width per 150 cm in height).
 
 
 
