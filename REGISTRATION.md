@@ -43,6 +43,6 @@ The procedure for Registration is in three steps:
 
 
 ## Cancellation policy
-* cancellation of participation is only possible up to September 20.
-* if a participant is not able to attend On Site because of travel regulations or health issues, the registration can be converted to an Online participation and the complement will be refunded. 
-* if the sanitary regulations decided  by the French Government do not allow any Onsite event, the same condition will be applied and all registrations will be converted to Online ones. 
+* cancellation of participation is only possible up to **September 15**.
+* if a participant is not able to attend On Site because of travel regulations or health issues, the registration can be converted before Sept. 3 to an Online participation and the complement will be refunded. 
+* if the sanitary regulations decided  by the French Government do not allow any Onsite event, the event will take place Online and we will refund what is possible to balance the budget. 
