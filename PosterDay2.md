@@ -6,7 +6,7 @@
 | 4 |	Raphael Aybar | Predictive Processing as a Cybernetic model of Cognition  |  onsite
 | 13 |	Simone Righi, Shirsendu Podder and Francesca Pancotto | Reputation and punishment sustain cooperation in the Optional Public Goods Game  |  onsite
 | 34 |	Jisu Kim, Alina Sîrbu, Giulio Rossetti and Fosca Giannotti | Characterising different communities of Twitter users: Migrants and natives  |  onsite
-| 39 |	Siew Ann Cheong, Peter Tsung-Wen Yen and Kelin Xia. Topological and Ricci Curvature Analysis of Stock Market Crashes  |  onsite
+| 39 |	Siew Ann Cheong, Peter Tsung-Wen Yen and Kelin Xia | Topological and Ricci Curvature Analysis of Stock Market Crashes  |  onsite
 | 44 |	Tanu Raghav and Sarika Jalan | Random Matrix Analysis Of Multiplex Networks  |  onsite
 | 48 |	Gil Ariel | Self-driven criticality in a stochastic epidemic model  |  onsite
 | 51 |	Chavalarias David, Lobbé Quentin and Delanoë Alexandre | Multi-level and Multi-scale Reconstruction of Knowledge Dynamics with Phylomemies  |  onsite
