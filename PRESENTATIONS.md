@@ -12,7 +12,7 @@ If you choose the pre-recorded option, please prepare a 12 min. video with your 
 
 # Poster Presentations
 
-A CCS2020 virtual poster shall consist of the following elements:
+A CCS2021 virtual poster shall consist of the following elements:
 - The usual PDF of the poster
 - An optional short introduction video (max 3 minutes)
 - A Google Jamboard for you to set up and that attendees can use to comment on the poster (see a playable example here https://jamboard.google.com/d/1zf0jW0vk42UyPzeWd34KTzlRxbDiIOn1q5xw9UxUS...)
@@ -33,11 +33,11 @@ You will need to have a google account to upload the above.
 If you don't have a google account you may want to create one for free,
 or else, send the above to us by email (ccs2020conf@gmail.com)
 
-### Deadline: November 30
+### Deadline: October 11
 
 Please note that we cannot guarantee posters sent after this deadline to be part of the conference.
 
-* You are required to schedule the Zoom meeting and be available for the whole duration of the session (40 min.) in which the poster is allocated.
+* You are required to schedule the Zoom meeting and be available for the whole duration of the session in which the poster is allocated.
 Please refer to https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings for how to schedule a meeting with Zoom. If you don’t have a Zoom account, please sign up for the free plan here https://zoom.us/signup.
 
 The final schedule is on the website: http://ccs2020.web.auth.gr/poster-sessions
@@ -63,7 +63,7 @@ Since your presentation is oral without any questions/answers, it is best that y
 
 Please make sure that the total duration does not exceed the allotted period of 5 minutes. Your movie should be in Landscape mode, and not in Portrait mode. It is recommended to follow the technical instructions below for the preparation of the movie. Please check your movie carefully before you send it to us and make sure it is easily attended. We will then show your movie during the Lightning period for you, without your intervention.
 
-Please prepare the movie and send it to us by November 25.
+Please prepare the movie and send it to us by October 11.
 
 ## Technical recommendations:
 
