@@ -112,7 +112,7 @@
 |286 |	 Yacouba Kaloga, Pierre Borgnat, Sundeep Prabahkar Chepuri, Patrice Abry and Amaury Habrard | Variational Graph Autoencoders for Multiview Canonical Correlation Analysis	 |	onsite	|
 |289 |	 Bernard Ricca | Identifying Phase Transitions in Categorical Time-Series Data	 |	onsite	|
 |311 |	 Jason Kim, Zhixin Lu and Danielle Bassett | Programming Memories and Computations in Recurrent Neural Networks Without Training	 |	onsite	|
-|25 |	 Daekyung Lee, Beom Jun Kim, Heetae Kim and Sang Hoon Lee | Mining Stochasticity of Community Detection to Refine Global and Local Organization of Networks	 |	onsite	|
+|25 |	 Daekyung Lee, Beom Jun Kim, Heetae Kim and Sang Hoon Lee | Mining Stochasticity of Community Detection to Refine Global and Local Organization of Networks	 |	online	|
 |150 |	 Andrea Zaccaria, Alessandro Carra, Luca Didomenicantonio and Giulio Cimini | Meta-validation of bipartite network projections	 |	onsite	|
 |145 |	 Xue Gong, Higham Desmond and Konstantinos Zygalakis | Random graph interpretation of directed graph Laplacians	 |	onsite	|
 
