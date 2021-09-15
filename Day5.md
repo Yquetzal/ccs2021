@@ -15,8 +15,8 @@
 ## Title: (TBA)
 ## Speaker : [Sundeep Chepuri](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sundeep_Chepuri)
 
-# 10:45 - 11:30 Coffee Break
-# 11:30 - 13:00 Parallel Sessions 5
+# 10:45 - 11:15 Coffee Break
+# 11:15 - 12:45 Parallel Sessions 5
 ## Session 1: Foundations of Complex Systems (9)
 ## Room: (TBA)
 
@@ -124,19 +124,20 @@
 | 47 |    Lin Zhang, Ling Feng, Kan Chen and Choy Heng Lai | Scaling relations of training hyper-parameters in deep learning    |  online  |
 | 239 |    Makoto Takeuchi and Yukie Sano | Burstiness and 1/f noise in the physical activities of children and adults    |  online  |
 
-# 13:00-14:00 Lunch Break
+# 12:45-13:45 Lunch Break
 ## Room: (TBA) 
 
-# 14:00-14:45 Keynote Talk 5
+# 13:45-14:30 Keynote Talk 5
 ## Title: (TBA)
 ## Speaker : [Henk Dijkstra](https://ccs2021.univ-lyon1.fr/#SPEAKER_Henk_Dijkstra)
 
-# 14:45-15:15 Invited Talk 8
+# 14:30-15:00 Invited Talk 8
 ## Title: (TBA)
 ## Speaker : [Petra Vertes](https://ccs2021.univ-lyon1.fr/#SPEAKER_Petra_Vertes)
 
-# 15:15 - 15:45 Coffee Break
+# 15:00 - 15:45 CSS Awards Ceremony
 
-# 15:45 - 17:15 CSS Awards Ceremony
+# 15:45 - 16:15 Coffee Break
 
-# 17:15-17:30 Closing
+# 16:15 - 17:15 CSS Awards Ceremony & Closing
+
