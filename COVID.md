@@ -1,6 +1,6 @@
 # CCS2021 and COVID
 
-Update September 1, 2021: The event is maintained as a full-scale physicial event in Lyon. We are all eager to meet in person again! 
+Update September 1, 2021: The event is maintained as a full-scale in person event in Lyon. We are all eager to meet in person again! (in addition to welcome online participants). 
 
 You can get information about the COVID situation in France on [the french government website](https://www.diplomatie.gouv.fr/en/coming-to-france/coronavirus-advice-for-foreign-nationals-in-france/#sommaire_1), including the list of special rules by countries (Green, Orange, Red).
 
@@ -9,7 +9,6 @@ You can also find on this page (https://www.gouvernement.fr/en/coronavirus-covid
 * **HEALTH PASS** (interoperable with the EU Digital COVID Certificate)
 * MASKS
 * Various Restrictions and Requirements
-
 
 Additonnaly, information provided by the conference venue: (French only for now)
 https://www.ccc-lyon.com/point-dinformation-coronavirus-covid-19
