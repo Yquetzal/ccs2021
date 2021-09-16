@@ -259,4 +259,4 @@ Panelists:
 | 143 |    Mateusz Wilinski and Andrey Lokhov | Scalable Learning of Independent Cascade Dynamics from Partial Observations    |  onsite  |
 | 344 |    Tiago Peixoto | Disentangling homophily, community structure and triadic closure in networks    |  onsite  |
 | 5 |    Aleix Bassolas and Vincenzo Nicosia | First-passage times to quantify and compare structural correlations and heterogeneity in complex systems    |  online  |
-| 272 |    Giorgio Rizzini, Rosanna Grassi and Gian Paolo Clemente | Community Detection on Multiplex Networks: A Communicability Approach    |  online  |
+| - |  CANCELED | CANCELED    |    |
