@@ -178,7 +178,7 @@ Panelists:
 | 231 |    Alberto Bracci, Jorn Boehnke, Abeer El Bahrawy, Nicola Perra, Alexander Teytelboym and Andrea Baronchelli | Macroscopic properties of buyer-seller networks in online marketplaces    |  onsite  |
 | 264 |    Carlo Campajola, Marco D'Errico and Claudio Tessone | MicroVelocity: Rethinking the Velocity of Money for Digital Currency Systems    |  onsite  |
 | 285 |    Toby Willis and Giuliano Punzo | Characteristics of Pure Nash Equilibria in a Strategic Multiplex Network Formation Game    |  onsite  |
-| 227 |    Nicola Amoroso, Loredana Bellantuono, Alfonso Monaco, Francesco De Nicola, Ernesto Somma and Roberto Bellotti | Economic Interplay Forecasting Business Success    |  onsite  |
+| 227 |    Nicola Amoroso, Loredana Bellantuono, Alfonso Monaco, Francesco De Nicola, Ernesto Somma and Roberto Bellotti | Economic Interplay Forecasting Business Success    |  online  |
 | 236 |    Francesco Bertolotti, Angela Locoro and Luca Mari | Emergence of Risk Sensitivity in a First-principles Agent-based model    |  onsite  |
 | 156 |    Sarah Soleiman and Julien Randon-Furling | Socio-Spatial Complexity: Cities As Neural Networks -- A Case Study of Housing Prices Estimations    |  onsite  |
 | 144 |    Joseph Hickey | Market-Share Structures of Competing Firms: A Simple Physics Model    |  online  |
