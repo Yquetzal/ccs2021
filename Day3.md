@@ -7,7 +7,7 @@
 # 9:00 - 13:00 Satellite Workshops
 
 ## Hybrid Satellite Workshops
-* [Urban Complex Systems](https://urbansys2021.ifisc.uib-csic.es) - Room (TBA)
+* [Urban Complex Systems](https://urbcompsys.github.io) - Room (TBA)
 * [Econophysics Colloquium 2021](https://econophysics.ihu.gr/ec2021/) - Room (TBA)
 * [Cliometrics and complexity](https://cac2021.sciencesconf.org) - Room (TBA)
 * [Mobility and migration research in the digital era](https://sites.google.com/view/mimode2021/) - Room (TBA)
@@ -26,7 +26,7 @@
 # 14:30-18:00 Satellite Workshops
 
 ## Hybrid Satellite Workshops
-* [Urban Complex Systems](https://urbansys2021.ifisc.uib-csic.es) - Room (TBA)
+* [Urban Complex Systems](https://urbcompsys.github.io) - Room (TBA)
 * [Econophysics Colloquium 2021](https://econophysics.ihu.gr/ec2021/) - Room (TBA)
 * [Cliometrics and complexity](https://cac2021.sciencesconf.org) - Room (TBA)
 * [Mobility and migration research in the digital era](https://sites.google.com/view/mimode2021/) - Room (TBA)
