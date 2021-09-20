@@ -39,7 +39,7 @@
 | 328 |    Fabrizio Lombardi, Gasper Tkacik and Daniele De Martino | Emergent Dichotomy of Oscillations and Scale-free Avalanches in a Minimal Adaptive Neural Model near Criticality    |  onsite  |
 | 209 |    Akylas Fotiadis and Dimitrios Kugiumtzis | Information-based Estimation of Causality Networks from High Dimensional Multivariate Time Series    |  onsite  |
 | 79 |    Robin Delabays, Saber Jafarpour and Francesco Bullo | Flow Network Problems on the n-torus with Asymmetric Couplings    |  onsite  |
-|  | Canceled | Canceled | Canceled |
+|  | Canceled | Canceled |  |
 
 ## Session 3: Psychology, Neurosciences, Linguistics (3)
 ## Room: (TBA)
