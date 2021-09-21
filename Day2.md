@@ -17,7 +17,7 @@ Panelists:
 # 10:45 - 11:30 Coffee Break / Poster Session 
 
 # 11:30 - 13:00 Parallel Sessions 3
-## Session 1: Foundations of Complex Systems (5)
+## (S3.1)Session 1: Foundations of Complex Systems (5)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -29,7 +29,7 @@ Panelists:
 | 249 |   Sneha Srikanth, Samadhan A. Pawar, Krishna Manoj and R. I. Sujith | Suppression of Thermoacoustic Oscillations through Self-Coupling   | online  |
 | 190 |   Sebastiano Bontorin and Manlio De Domenico | Multi-pathways temporal distance unravels the hidden geometry of network-driven processes   | online  |
 
-## Session 2: Foundations of Complex Systems (6)
+## (S3.2)Session 2: Foundations of Complex Systems (6)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -41,7 +41,7 @@ Panelists:
 | 295 |   Remi Perrier, Yerali Gandica and Laura Hernandez | The consequences of hesitation: Axelrod model with intrinsic noise   | onsite  |
 | 21 |   Hildegard Meyer-Ortmanns and Maximilian Voit | Emerging criticality in heteroclinic dynamics   | onsite  |
 
-## Session 3: Psychology, Neurosciences, Linguistics (2)
+## (S3.3)Session 3: Psychology, Neurosciences, Linguistics (2)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -53,7 +53,7 @@ Panelists:
 | 290 |   Osnat Mokryn and Hagit Ben-Shoshan | Domain-based Latent Personal Analysis and its uses for online Impersonation Detection   | online  |
 | 60 |   Hayato Misumi, Taiki Ogata and Tomomi Kito | Patterns of Cooperative Rhythm Production Between One Leader and Two Followers Through Auditory and Visual Information   | online  |
 
-## Session 4: Economics and Finance (2)
+## (S3.4)Session 4: Economics and Finance (2)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -65,7 +65,7 @@ Panelists:
 | 55 |   Pablo Lozano, Angel Sanchez and Alberto Antonioni | An Experimental Approach to Hierarchies: High Ranked Individuals Exploit Low Ranked Ones But Act Altruistically   | onsite  |
 | 98 |   Lorenzo Lucchini, Laura Maria Alessandretti, Bruno Lepri, Angela Gallo and Andrea Baronchelli | From code to market: Network of developers and correlated returns of cryptocurrencies   | online  |
 
-## Session 5: Biological and (Bio)Medical Complexity (3)
+## (S3.5)Session 5: Biological and (Bio)Medical Complexity (3)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -77,7 +77,7 @@ Panelists:
 | 343 |   Luis Olivares-Quiroz and Gabriel Aguilar Pineda | Catalytic and binding sites prediction in globular proteins via discrete Markov chains and network centrality measures   | onsite  |
 | 173 |   Lena Takayasu | The laws behind the temporal change of gut microbiome   | online  |
 
-## Session 6: Social complexity (4)
+## (S3.6)Session 6: Social complexity (4)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -89,7 +89,7 @@ Panelists:
 | 33 |   Stephany Rajeh, Marinette Savonnet, Eric Leclercq and Hocine Cherifi | A comparison of community-aware centrality measures in online social networks   | online  |
 | 176 |   Masashi Shiraishi, Osamu Yamanaka and Hiraku Nishimori | Effect of Interaction Network Structure in Response Threshold Model on Task Allocation   | online  |
 
-## Session 7: Social complexity (5)
+## (S3.7)Session 7: Social complexity (5)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -101,7 +101,7 @@ Panelists:
 | 161 |   Lilia Perfeito and Joana Goncalves-Sa | An evolutionary model for the spread of information on Twitter   | onsite  |
 | 204 |   Silvia Magnanini, Federica Guazzoni, Daniel Trabucchi, Tommaso Buganza and Roberto Verganti | What is your tendency to converge in a flock? Assessing the convergent behaviour of individuals collaborating as a complex system through self-reported measure   | onsite  |
 
-## Session 8: COVID-19 (4)
+## (S3.8)Session 8: COVID-19 (4)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -113,7 +113,7 @@ Panelists:
 | 235 |   Valeria D'Andrea, Riccardo Gallotti, Nicola Castaldo and Manlio De Domenico | Individual Risk Perception and Empirical Social Structures Shape the Dynamics of Infectious Disease Outbreaks   | online  |
 | 262 |   Aleix Bassolas, Andrea Santoro, Sandro Sousa, Silvia Rognone and Vincenzo Nicosia | Optimising the mitigation of epidemic spreading through targeted adoption of contact tracing apps  | online  |
 
-## Session 9: Methodology (2)
+## (S3.9)Session 9: Methodology (2)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -144,7 +144,7 @@ Panelists:
 # 16:15 - 16:45 Coffee Break / Poster Session 
 
 # 16:45 - 18:30 Parallel Sessions 4
-## Session 1: Foundations of Complex Systems (7)
+## (S4.1)Session 1: Foundations of Complex Systems (7)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -157,7 +157,7 @@ Panelists:
 | 101 |    Mousumi Roy, Swarup Poria and Chittaranjan Hens | Explosive synchronization in assortative neuronal network    |  onsite  |
 | 298 |    Eric Peña and Hiroki Sayama | Life Worth Mentioning: Complexity in Life-Like Cellular Automata    |  online  |
 
-## Session 2: Foundations of Complex Systems (8)
+## (S4.2)Session 2: Foundations of Complex Systems (8)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -170,7 +170,7 @@ Panelists:
 | 137 |    Octavio Zapata | An Analytic Approach to Estimate the Connectivity of a Boolean Network from its Noise Sensitivity    |  online  |
 | 300 |    Rico Berner, Serhiy Yanchuk and Eckehard Scholl | Generalized splay states: Dynamics on and in the vicinity of the splay manifold    |  online  |
 
-## Session 3: Economics and Finance (3)
+## (S4.3)Session 3: Economics and Finance (3)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -183,7 +183,7 @@ Panelists:
 | 156 |    Sarah Soleiman and Julien Randon-Furling | Socio-Spatial Complexity: Cities As Neural Networks -- A Case Study of Housing Prices Estimations    |  onsite  |
 | 144 |    Joseph Hickey | Market-Share Structures of Competing Firms: A Simple Physics Model    |  online  |
 
-## Session 4: Biological and (Bio)Medical Complexity (4)
+## (S4.4)Session 4: Biological and (Bio)Medical Complexity (4)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -196,7 +196,7 @@ Panelists:
 | 62 |    Zakariya Ghalmane, Bastien Mérigot, Roberto Interdonato, Dino Ienco and Pascal Poncelet | A new framework for measuring diversity in temporal ecological networks    |  onsite  |
 | 228 |    Manh Hong Duong and The Anh Han | Statistics of equilibria points in pairwise social dilemmas under replicator-mutator dynamics    |  onsite  |
 
-## Session 5: Social Complexity (6)
+## (S4.5)Session 5: Social Complexity (6)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -209,7 +209,7 @@ Panelists:
 | 219 |    Pietro Gravino, Giulio Prevedello, Martina Galletti and Vittorio Loreto | Assessing disinformation through the dynamics of supply and demand in the news ecosystem    |  onsite  |
 | 243 |    Andrea Civilini, Nejat Anbarci and Vito Latora | Evolutionary game model of risk propensity in group decision making    |  onsite  |
 
-## Session 6: Social complexity (7)
+## (S4.6)Session 6: Social complexity (7)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -222,7 +222,7 @@ Panelists:
 | 24 |    Shirsendu Podder, Simone Righi and Karoly Takacs | Local Reputation, Local Selection, and the Leading Eight Norms    |  onsite  |
 | 336 |    Sriniwas Pandey and Hiroki Sayama | Dynamics of User Eccentricity on GAB Social Media    |  online  |
 
-## Session 7: Complexity in Physics and Chemistry (1)
+## (S4.7)Session 7: Complexity in Physics and Chemistry (1)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -235,7 +235,7 @@ Panelists:
 | 97 |    Samuel Heroy, Dane Taylor, Feng Shi, M. Gregory Forest and Peter Mucha | Rigidity percolation in disordered 3D rod systems    |  onsite  |
 | 73 |    Ankit Mishra and Sarika Jalan | Eigenvalue ratio spacing statistics of complex networks: Disorder vs Randomness    |  onsite  |
 
-## Session 8: COVID-19 (5)
+## (S4.8)Session 8: COVID-19 (5)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -248,7 +248,7 @@ Panelists:
 | 282 |    Daniel Rhoads, Albert Sole-Ribalta, Marta Gonzalez and Javier Borge-Holthoefer | A Sustainable Strategy for Open Streets in Post-Pandemic Cities    |  onsite  |
 | 175 |    Hadrien Salat, Anna Zanchetta, Fernando Benitez-Paez, Man Luo and Mark Birkin | National Scale Agent-Based Model for Epidemics    |  onsite  |
 
-## Session 9: Methodology (3)
+## (S4.9)Session 9: Methodology (3)
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
