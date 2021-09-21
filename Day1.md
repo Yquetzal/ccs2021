@@ -188,7 +188,7 @@
 | 132  |  Elma Dervic, Michael Leutner, Alexandra Kautzky-Willer and Peter Klimek | Identifying different risk factors for developing Diabetes mellitus in later life by using multilayer disease network  | onsite |
 | 49  |  Gil Arel | A phase diagram for bacterial swarming  | onsite |
 | 246  |  Maxime Lucas, Alex Townsend-Teague, Arthur Morris, Laurent Tichit, Bianca Habermann and Alain Barrat | Inferring cell cycle phases from a partially temporal network of protein interactions  | onsite |
-| 284  |  Hikaru Furukawa, Cole Mathis, Leroy Cronin and Sara Walker | Chemical Complexity as a Theoretical Basis for Life Detection in the Universe  | onsite |
+|   |  Canceled | Canceled  |  |
 
 ## Session 6: Social Complexity (3)
 ## ROOM: TBA
