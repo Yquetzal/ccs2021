@@ -17,7 +17,7 @@
 
 # 10:45 - 11:15 Coffee Break
 # 11:15 - 12:45 Parallel Sessions 5
-## Session 1: Foundations of Complex Systems (9)
+## (S5.1)Session 1: Foundations of Complex Systems (9)
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -29,7 +29,7 @@
 | 338 |    Suman Acharyya, Baruch Barzel and Reuven Cohen | Cascade mitigation on complex networks of coupled second order Kuramoto Oscillators    |  onsite  |
 | 11 |    Kiyoshi Kanazawa and Didier Sornette | Classification of Power law Relations in the Intensity Distribution for a Large Class of Self-excited Nonlinear Hawkes Processes    |  online  |
 
-## Session 2: Foundations of Complex Systems (10)
+## (S5.2)Session 2: Foundations of Complex Systems (10)
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -41,7 +41,7 @@
 | 79 |    Robin Delabays, Saber Jafarpour and Francesco Bullo | Flow Network Problems on the n-torus with Asymmetric Couplings    |  onsite  |
 |  | Canceled | Canceled |  |
 
-## Session 3: Psychology, Neurosciences, Linguistics (3)
+## (S5.3)Session 3: Psychology, Neurosciences, Linguistics (3)
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -53,7 +53,7 @@
 | 205 |    Lluc Font, Angelo Piga, Marta Sales-Pardo, Roger Guimera  and Sergio Nasarre-Aznar | Quantitative methods for the analysis of judicial decisions    |  onsite  |
 | 332 |    Irene Ferri, Emanuele Cozzo, Albert Diaz-Guilera and Luce Prignano | A bounded confidence model of emotionally aroused integrate and fire oscillators.    |  online  |
 
-## Session 4: Economics and Finance (4)
+## (S5.4)Session 4: Economics and Finance (4)
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -65,7 +65,7 @@
 | 57 |    Andras Borsos, Christian Diem, Tobias Reisch, Janos Kertesz and Stefan Thurner | Quantifying firm-level economic systemic risk from nation-wide supply networks    |  onsite  |
 | 307 |    Katarina Mayer | Optimal Legal System in a Semi-Underground Economy    |  onsite  |
 
-## Session 5: Biological and (Bio)Medical Complexity (5)
+## (S5.5)Session 5: Biological and (Bio)Medical Complexity (5)
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -76,7 +76,7 @@
 | 251 |    Duilio Balsamo, Paolo Bajardi, Alberto Salomone and Rossano Schifanella | Nonmedical Opioid Consumption on Reddit: Patterns of Routes of Administration and Drug Tampering    |  onsite  |
 | 124 |    Iker Atienza and Luís F Seoane | Long- and Short-Term Effects of Cross-Immunity    |  onsite  |
 
-## Session 6: Social Complexity (8)
+## (S5.6)Session 6: Social Complexity (8)
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -88,7 +88,7 @@
 | 127 |    Chiara Zappalà, Alessandro Pluchino, Andrea Rapisarda, Alessio Biondo and Pawel Sobkowicz | The Role of Chance in Fencing Tournaments: an Agent-Based Approach    |  onsite  |
 | 81 |    Anne-Marie Grisogono, Roger Bradbury, John Finnigan, Brian Walker and Paul Oppenheimer | Evolution of Governance    |  onsite  |
 
-## Session 7: Social Complexity (9)
+## (S5.7)Session 7: Social Complexity (9)
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -100,7 +100,7 @@
 | 78 |    Nancy Li, Markus Luczak-Roesch and Flavia Donadelli | "We follow the science": Studying information dynamics across the science-policy interface    |  onsite  |
 | 265 |    Yasaman Asgari, Armin Pournaki, Eckehard Olbrich and Felix Gaisbauer | Dynamic communities and engagement in public debate about Covid-19 in the German Twittersphere    |  online  |
 
-## Session 8: COVID-19 (6)
+## (S5.8)Session 8: COVID-19 (6)
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -112,7 +112,7 @@
 | 36 |    Abbas K. Rizi, Ali Faqeeh, Arash Badie-Modiri and Mikko Kivelä | Epidemic Spreading and Digital Contact Tracing: Effects of Heterogeneous Mixing and Quarantine Failures    |  onsite  |
 | 116 |    Paul Churchyard, Ramani Peruvemba, Ajay Gupta and Christopher Woloshyn | Secondary Bacterial Infection Risk Index    |  onsite  |
 
-## Session 9: Transdisciplinary and Applied Complex Systems (2)
+## (S5.9)Session 9: Transdisciplinary and Applied Complex Systems (2)
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
