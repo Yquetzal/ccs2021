@@ -6,18 +6,16 @@ You can get information about the COVID situation in France on [the french gover
 
 TO ENTER FRANCE: the list of specific rules by countries (classified in Green, Orange, Red) can be seen on [the french government website](https://www.diplomatie.gouv.fr/en/coming-to-france/coronavirus-advice-for-foreign-nationals-in-france/#sommaire_1).
 
-ONCE YOU ARE IN FRANCE:
+ONCE YOU ARE IN FRANCE, to enter the venue:
 
 You can also find on this page (https://www.gouvernement.fr/en/coronavirus-covid-19) the information about special regulations regarding COVID management while you are in France, **especially in order to enter the conference venue**:
 * present a valid **HEALTH PASS** (interoperable with the EU Digital COVID Certificate) (see the definition on the linked URL above),
 * wear a MASK when indoor,
 * obey the various restrictions and requirements (e.g., Respect social distancing)
 
-**If you are not from a EU country, you will need to specifically ask for a health pass by applying online**: see 
+**If you are not from a EU country (or Andorra, Iceland, Liechtenstein, Monaco, Norway, Switzerland, UK), you will need to specifically ask for a health pass by applying online**: see 
 https://www.diplomatie.gouv.fr/fr/venir-en-france/demande-de-passe-sanitaire-en-cas-de-vaccination-a-l-etranger-procedure-pour/
-
 and
-
 https://www.demarches-simplifiees.fr/commencer/passe-sanitaire-etrangers?locale=en
 
 **If this case applies to you, you should request the pass as soon as possible as delays might occur.** A last minute solution would be to get tested in a pharmacy before getting to the venue.
