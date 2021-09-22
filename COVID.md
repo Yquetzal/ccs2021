@@ -19,5 +19,4 @@ We remind attendees that if they are not able to join us physically, it is still
 We are still working on the details of this organization and will keep you informed.
 
 
-**All regulations and restrictions might evolve, depending on the situation both in France and in other countries, so please check regularly this page and the above official government pages.
-**
+**All regulations and restrictions might evolve, depending on the situation both in France and in other countries, so please check regularly this page and the above official government pages.**
