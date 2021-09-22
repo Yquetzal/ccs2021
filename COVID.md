@@ -10,6 +10,15 @@ You can also find on this page (https://www.gouvernement.fr/en/coronavirus-covid
 * wear a MASK when indoor,
 * obey the various restrictions and requirements (e.g., Respect social distancing)
 
+If you are not from a EU country, you might need to specifically ask for a health pass by applying online: see 
+https://www.diplomatie.gouv.fr/fr/venir-en-france/demande-de-passe-sanitaire-en-cas-de-vaccination-a-l-etranger-procedure-pour/
+
+and
+
+https://www.demarches-simplifiees.fr/commencer/passe-sanitaire-etrangers?locale=en
+
+**If this case applies to you, you should request the pass as soon as possible as delays might occur.** A last minute solution would be to get tested in a pharmacy before getting to the venue.
+
 Additionaly, information provided by the conference venue: (French only for now)
 https://www.ccc-lyon.com/point-dinformation-coronavirus-covid-19
 
