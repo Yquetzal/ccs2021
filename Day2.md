@@ -97,9 +97,9 @@ Panelists:
 | 276 |   Hiroki Sayama | Detecting Transition Points in Adaptive Social Networks: Large-Scale Numerical Simulations and Neural Network-Based Visualization   | onsite  |
 | 318 |   Mathilde Jochaud du Plessix, Serge Fenet and Pierre-Yves Longaretti | Analysing the validity and robustness of the iconic World 3 global model: what can sensitivity and feedback loop analysis say?   | onsite  |
 | 185 |   Brian Hennessy and Malbor Asllani | Non-normality driven polarization in social dynamics   | onsite  |
-| 297 |   Remi Perrier, Hendrik Schawe and Laura Hernandez | On the resilience of extremism: the heterogeneous Hegselmann-Krause model in networks   | onsite  |
-| 161 |   Lilia Perfeito and Joana Goncalves-Sa | An evolutionary model for the spread of information on Twitter   | onsite  |
 | 204 |   Silvia Magnanini, Federica Guazzoni, Daniel Trabucchi, Tommaso Buganza and Roberto Verganti | What is your tendency to converge in a flock? Assessing the convergent behaviour of individuals collaborating as a complex system through self-reported measure   | onsite  |
+| 161 |   Lilia Perfeito and Joana Goncalves-Sa | An evolutionary model for the spread of information on Twitter   | onsite  |
+| 297 |   Remi Perrier, Hendrik Schawe and Laura Hernandez | On the resilience of extremism: the heterogeneous Hegselmann-Krause model in networks   | online  |
 
 ## (S3.8)Session 8: COVID-19 (4)
 ## ROOM: TBA
