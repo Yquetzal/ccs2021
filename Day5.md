@@ -25,7 +25,7 @@
 | 38 |    Daniele Notarmuzi, Claudio Castellano, Alessandro Flammini, Dario Mazzilli and Filippo Radicchi | Percolation Theory Of Self-Exciting Temporal Processes    |  onsite  |
 | 56 |    Jean-Francois de Kemmeter, Timoteo Carletti and Malbor Asllani | Emergence of functional communities in non-linear random walks on complex networks    |  onsite  |
 | 166 |    Abdul Quadir, Haider H Jafri and Avinash Chand Yadav | Critical avalanche properties in Neuronal Level Model    |  onsite  |
-| 6 |    Geza Odor and de Simoni Beatriz | Heterogeneous excitable systems exhibit Griffiths phases below hybrid phase transitions    |  onsite  |
+| 305 |    Iva Bačić, János Kertész, Albert-László Barabási and Márton Pósfai | Onset of physicality in a random network growth model    |  onsite  |
 | 338 |    Suman Acharyya, Baruch Barzel and Reuven Cohen | Cascade mitigation on complex networks of coupled second order Kuramoto Oscillators    |  onsite  |
 | 11 |    Kiyoshi Kanazawa and Didier Sornette | Classification of Power law Relations in the Intensity Distribution for a Large Class of Self-excited Nonlinear Hawkes Processes    |  online  |
 
