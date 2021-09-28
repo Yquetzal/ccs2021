@@ -12,7 +12,7 @@
 * [Cliometrics and complexity](https://cac2021.sciencesconf.org) - Room (TBA)
 * [Mobility and migration research in the digital era](https://sites.google.com/view/mimode2021/) - Room (TBA)
 * [Computational Social Science](https://sites.google.com/view/css-ccs21/home) - Room (TBA)
-* [Data-based diagnosis of networked dynamical systems](www.delabaysrobin.site/ccs-satellite) - Room (TBA)
+* [Data-based diagnosis of networked dynamical systems](https://www.delabaysrobin.site/ccs-satellite) - Room (TBA)
 * [ReACT: Robustness, Adaptability and Critical Transitions in Living Systems](https://liphlab.github.io/REACT2021) - Room (TBA)
 
 ## Online Satellite Workshops
