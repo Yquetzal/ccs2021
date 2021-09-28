@@ -83,10 +83,10 @@
 | ---: | :----: | :------: | :----:	|
 | 160 |    Aniello Lampo, Maria J. Palazzi, Javier Borge-Holthoefer and Albert Sole | Hybrid Structural Arrangements Mediate Stability and Feasibility in Mutualistic Networks    |  onsite  |
 | 250 |    Duilio Balsamo, Corrado Monti, Gianmarco De Francisci Morales, Paolo Bajardi and Rossano Schifanella | Opioid addiction recovery on Reddit: behavioral shift and social support    |  onsite  |
-| 330 |    Loredana Bellantuono, Alfonso Monaco, Sabina Tangaro, Nicola Amoroso, Vincenzo Aquaro and Roberto Bellotti | An Equity-Oriented Rethink Of Global Rankings With Complex Networks Mapping Development    |  online  |
 | 216 |    Johannes Stangl, Christian Diem, Tobias Reisch and Stefan Thurner | Identifying Decarbonization Leverage Points in Supply Networks with Network Measures that Quantify Systemic Relevance    |  onsite  |
 | 127 |    Chiara Zappalà, Alessandro Pluchino, Andrea Rapisarda, Alessio Biondo and Pawel Sobkowicz | The Role of Chance in Fencing Tournaments: an Agent-Based Approach    |  onsite  |
 | 81 |    Anne-Marie Grisogono, Roger Bradbury, John Finnigan, Brian Walker and Paul Oppenheimer | Evolution of Governance    |  onsite  |
+| 330 |    Loredana Bellantuono, Alfonso Monaco, Sabina Tangaro, Nicola Amoroso, Vincenzo Aquaro and Roberto Bellotti | An Equity-Oriented Rethink Of Global Rankings With Complex Networks Mapping Development    |  online  |
 
 ## (S5.7)Session 7: Social Complexity (9)
 ## Room: (TBA)
