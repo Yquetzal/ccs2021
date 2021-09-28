@@ -34,12 +34,12 @@
 [Complex Systems for the Most Vulnerable](#vulnerable)  
 [AMETHYST: gAME THeorY in complex SysTems](#amethyst)  
 [Brain Connectivity Networks: Quality and Reproducibility](#brainconnectivity)  
-[Complex Systems and Education: From Theory to Research to Practice](#cceducation)  
-[Machine learning Perspectives for Complex Networks: Part II](#mlperspectives)
-[Criticality on networks and socio-economic systems](#criticality)  
+[Criticality on networks and socio-economic systems](#criticality)
 
 ### Online
 [Complex-Space: Analysis and Modelling of Spatial Complex Systems](#complexspace)  
+[Complex Systems and Education: From Theory to Research to Practice](#cceducation)  
+[Machine learning Perspectives for Complex Networks: Part II](#mlperspectives)
 
 
 # In details
