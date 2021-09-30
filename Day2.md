@@ -175,13 +175,13 @@ Panelists:
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 231 |    Alberto Bracci, Jorn Boehnke, Abeer El Bahrawy, Nicola Perra, Alexander Teytelboym and Andrea Baronchelli | Macroscopic properties of buyer-seller networks in online marketplaces    |  onsite  |
 | 264 |    Carlo Campajola, Marco D'Errico and Claudio Tessone | MicroVelocity: Rethinking the Velocity of Money for Digital Currency Systems    |  onsite  |
 | 285 |    Toby Willis and Giuliano Punzo | Characteristics of Pure Nash Equilibria in a Strategic Multiplex Network Formation Game    |  onsite  |
 | 227 |    Nicola Amoroso, Loredana Bellantuono, Alfonso Monaco, Francesco De Nicola, Ernesto Somma and Roberto Bellotti | Economic Interplay Forecasting Business Success    |  online  |
 | 236 |    Francesco Bertolotti, Angela Locoro and Luca Mari | Emergence of Risk Sensitivity in a First-principles Agent-based model    |  onsite  |
 | 156 |    Sarah Soleiman and Julien Randon-Furling | Socio-Spatial Complexity: Cities As Neural Networks -- A Case Study of Housing Prices Estimations    |  onsite  |
 | 144 |    Joseph Hickey | Market-Share Structures of Competing Firms: A Simple Physics Model    |  online  |
+| 231 |    Alberto Bracci, Jorn Boehnke, Abeer El Bahrawy, Nicola Perra, Alexander Teytelboym and Andrea Baronchelli | Macroscopic properties of buyer-seller networks in online marketplaces    |  online  |
 
 ## Session 4.4: Biological and (Bio)Medical Complexity IV
 ## ROOM: TBA
@@ -242,11 +242,11 @@ Panelists:
 | ---: | :----: | :------: | :----:	|
 | 214 |    Bram Siebert and Malbor Asllani | Optimizing lock-down measures of epidemic spreading in mobility networks    |  onsite  |
 | 167 |    Viktoria Blavatska | Epidemic Spreading on Vaccinated Networks    |  onsite  |
-| 121 |    Matthieu Nadini, Alberto Bracci, Maxwell Aliapoulios, Damon McCoy, Ian Gray, Alexander Teytelboym, Angela Gallo and Andrea Baronchelli | Dark Web Marketplaces and COVID-19    |  onsite  |
 | 99 |    Samuel Heroy, Isabella Loaiza, Alex Pentland and Neave O'Clery | COVID-19 Policy Analysis: Labor structure dictates lockdown mobility behavior    |  onsite  |
 | 240 |    Marco Pangallo, Alberto Aleta, R. Maria del Rio-Chanona, Doyne Farmer, Francois Lafond, David Martin-Corral, Yamir Moreno, Esteban Moro, Anton Pichler and Alessandro Vespignani | Modeling the distributional epidemic-economic effects of the Covid-19 pandemic   |  onsite  |
 | 282 |    Daniel Rhoads, Albert Sole-Ribalta, Marta Gonzalez and Javier Borge-Holthoefer | A Sustainable Strategy for Open Streets in Post-Pandemic Cities    |  onsite  |
 | 175 |    Hadrien Salat, Anna Zanchetta, Fernando Benitez-Paez, Man Luo and Mark Birkin | National Scale Agent-Based Model for Epidemics    |  onsite  |
+| 121 |    Matthieu Nadini, Alberto Bracci, Maxwell Aliapoulios, Damon McCoy, Ian Gray, Alexander Teytelboym, Angela Gallo and Andrea Baronchelli | Dark Web Marketplaces and COVID-19    |  online  |
 
 ## Session 4.9: Methodology III
 ## ROOM: TBA
