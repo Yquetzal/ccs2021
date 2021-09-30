@@ -17,7 +17,7 @@
 
 # 10:45 - 11:15 Coffee Break
 # 11:15 - 12:45 Parallel Sessions 5
-## (S5.1)Session 1: Foundations of Complex Systems (9)
+## Session 5.1: Foundations of Complex Systems IX
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -29,7 +29,7 @@
 | 338 |    Suman Acharyya, Baruch Barzel and Reuven Cohen | Cascade mitigation on complex networks of coupled second order Kuramoto Oscillators    |  onsite  |
 | 11 |    Kiyoshi Kanazawa and Didier Sornette | Classification of Power law Relations in the Intensity Distribution for a Large Class of Self-excited Nonlinear Hawkes Processes    |  online  |
 
-## (S5.2)Session 2: Foundations of Complex Systems (10)
+## Session 5.2: Foundations of Complex Systems X
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -41,7 +41,7 @@
 | 79 |    Robin Delabays, Saber Jafarpour and Francesco Bullo | Flow Network Problems on the n-torus with Asymmetric Couplings    |  onsite  |
 |  | Canceled | Canceled |  |
 
-## (S5.3)Session 3: Psychology, Neurosciences, Linguistics (3)
+## Session 5.3: Psychology, Neurosciences, Linguistics III
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -53,7 +53,7 @@
 | 205 |    Lluc Font, Angelo Piga, Marta Sales-Pardo, Roger Guimera  and Sergio Nasarre-Aznar | Quantitative methods for the analysis of judicial decisions    |  onsite  |
 | 332 |    Irene Ferri, Emanuele Cozzo, Albert Diaz-Guilera and Luce Prignano | A bounded confidence model of emotionally aroused integrate and fire oscillators.    |  online  |
 
-## (S5.4)Session 4: Economics and Finance (4)
+## Session 5.4: Economics and Finance IV
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -65,7 +65,7 @@
 | 57 |    Andras Borsos, Christian Diem, Tobias Reisch, Janos Kertesz and Stefan Thurner | Quantifying firm-level economic systemic risk from nation-wide supply networks    |  onsite  |
 | 307 |    Katarina Mayer | Optimal Legal System in a Semi-Underground Economy    |  onsite  |
 
-## (S5.5)Session 5: Biological and (Bio)Medical Complexity (5)
+## Session 5.5: Biological and (Bio)Medical Complexity V
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -76,7 +76,7 @@
 | 251 |    Duilio Balsamo, Paolo Bajardi, Alberto Salomone and Rossano Schifanella | Nonmedical Opioid Consumption on Reddit: Patterns of Routes of Administration and Drug Tampering    |  onsite  |
 | 124 |    Iker Atienza and Luís F Seoane | Long- and Short-Term Effects of Cross-Immunity    |  onsite  |
 
-## (S5.6)Session 6: Social Complexity (8)
+## Session 5.6: Social Complexity VIII
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -88,7 +88,7 @@
 | 81 |    Anne-Marie Grisogono, Roger Bradbury, John Finnigan, Brian Walker and Paul Oppenheimer | Evolution of Governance    |  onsite  |
 | 330 |    Loredana Bellantuono, Alfonso Monaco, Sabina Tangaro, Nicola Amoroso, Vincenzo Aquaro and Roberto Bellotti | An Equity-Oriented Rethink Of Global Rankings With Complex Networks Mapping Development    |  online  |
 
-## (S5.7)Session 7: Social Complexity (9)
+## Session 5.7: Social Complexity IX
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -100,7 +100,7 @@
 | 78 |    Nancy Li, Markus Luczak-Roesch and Flavia Donadelli | "We follow the science": Studying information dynamics across the science-policy interface    |  onsite  |
 | 265 |    Yasaman Asgari, Armin Pournaki, Eckehard Olbrich and Felix Gaisbauer | Dynamic communities and engagement in public debate about Covid-19 in the German Twittersphere    |  online  |
 
-## (S5.8)Session 8: COVID-19 (6)
+## Session 5.8: COVID-19 VI
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
@@ -112,7 +112,7 @@
 | 36 |    Abbas K. Rizi, Ali Faqeeh, Arash Badie-Modiri and Mikko Kivelä | Epidemic Spreading and Digital Contact Tracing: Effects of Heterogeneous Mixing and Quarantine Failures    |  onsite  |
 | 116 |    Paul Churchyard, Ramani Peruvemba, Ajay Gupta and Christopher Woloshyn | Secondary Bacterial Infection Risk Index    |  onsite  |
 
-## (S5.9)Session 9: Transdisciplinary and Applied Complex Systems (2)
+## Session 5.9: Transdisciplinary and Applied Complex Systems II
 ## Room: (TBA)
 
 | ID  | Authors | Title | Mode|
