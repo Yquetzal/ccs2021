@@ -16,7 +16,7 @@
 # 10:45 - 11:30 Coffee Break / Poster Session 
 
 # 11:30 - 13:00 Parallel Sessions 1
-## (S1.1)Session 1: Foundations of Complex Systems (1) 
+## Session 1.1: Foundations of Complex Systems I 
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -28,7 +28,7 @@
 | 96| Leah A. Keating, James P. Gleeson and David J.P. O'Sullivan | A Multi-Type Branching Process Method for Modelling Complex Contagion on Clustered Networks		|	onsite |	
 | 123| Marta Tuninetti, Alberto Aleta, Daniela Paolotti, Yamir Moreno and Michele Starnini | Prediction of New Scientific Collaborations Through Multiplex Networks	|	online |	
 
-## (S1.2)Session 2: Foundations of Complex Systems (2)
+## Session 1.2: Foundations of Complex Systems II
 ## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -39,7 +39,7 @@
 | 68| Tuan Pham, Jan Korbel, Rudolf Hanel and Stefan Thurner | Balanced Triad Formation explained by Homophily-induced Dyadic Interactions		|	onsite |	
 | 210| Akylas Fotiadis, Ioannis Vlachos and Dimitrios Kugiumtzis | Information-based Measure of Partial Mutual Information from Mixed Embedding (PMIME) Revisited		|	onsite |	
 
-## (S1.3)Session 3: Economics and Finance (1)
+## Session 1.3: Economics and Finance I
 ## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -50,7 +50,7 @@
 |183   |	 Takayuki Mizuno, Shohei Doi, Takahiro Tsuchiya and Shuhei Kurizaki | Flow of corporate control power in the global ownership network	 |	onsite	|
 |188   |	 Anja Janischewski | Under which conditions would a post-growth transition trigger a financial market crash? Analysis via an heterogeneous agent model	 |	onsite	|
 
-## (S1.4)Session 4: Infrastructure, Planning and Environment (1)
+## Session 1.4: Infrastructure, Planning and Environment I
 ## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -61,7 +61,7 @@
 |334   |	 Megan Khoshyaran and Jean-Patrick Lebacque | Large scale transportation networks: complex behaviour induced by communication and multimodality	 |	online	|
 |268   |	 Aaron Bramson | Capturing Neighborhood Feel Using Local Graph Characteristics in Large Road Networks	 |	online	|
 
-## (S1.5)Session 5: Biological and (Bio)Medical Complexity (1)
+## Session 1.5: Biological and (Bio)Medical Complexity I
 ## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -72,7 +72,7 @@
 |125 |	Samir Suweis | Constrained proteome allocation affects coexistence in models of competitive microbial communities	 |	onsite	|
 |324 |	 Violeta Calleja Solanas, Emilio Hernandez-Garcia and Sandro Meloni | Structural Predictors for Species Survival in Ecological Networks	 |	onsite	|
 
-## (S1.6)Session 6: Social Complexity (1)
+## Session 1.6: Social Complexity I
 ## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -83,7 +83,7 @@
 |326 |	 Tomas Mussi Reyero, Mariano Beiro, José Ignacio Alvarez-Hamelin, Laura Hernandez and Dimitris Kotzinos | Tracking the political opinion landscape in Twitter during electoral periods	 |	onsite	|
 |71 |	 Orowa Sikder, Robert Smith, Pierpaolo Vivo and Giacomo Livan | A minimalistic model of bias, polarization and misinformation in social networks	|	online	|
 
-## (S1.7)Session 7: Social Complexity (2)
+## Session 1.7: Social Complexity II
 ## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -94,7 +94,7 @@
 |158 |	 Joomi Jun and Takayuki Mizuno | The impact of Ethnic Linkage in Global Trade	 |	online	|
 |275 |	 Naoki Igarashi, Yukihiko Okada and Yukie Sano | Collective Memory with Endogenous Recall Effects in Wikipedia	 |	online	|
 
-## (S1.8)Session 8: COVID-19 (1)
+## Session 1.8: COVID-19 I
 ## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -105,7 +105,7 @@
 |72 |	 Laura Di Domenico, Chiara E. Sabbatini, Giulia Pullano, Daniel Lévy-Bruhl and Vittoria Colizza | Impact of January 2021 curfew measures on SARSCoV-2 B.1.1.7 circulation in France	 |	onsite	|
 |26 |	 Takeshi Kano, Kotaro Yasui, Taishi Mikami, Munehiro Asally and Akio Ishiguro | How to Mitigate the COVID-19 Outbreak While Maintaining Economic Activities?	 |	online	|
 
-## (S1.9)Session 9: Methodology (1)
+## Session 1.9: Methodology I
 ## ROOM: TBA
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -135,7 +135,7 @@
 # 16:15 - 16:45 Coffee Break / Poster Session 
 
 # 16:45 - 18:00 Parallel Sessions 2
-## (S2.1)Session 1: Foundations of Complex Systems (3)
+## Session 2.1: Foundations of Complex Systems III
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -146,7 +146,7 @@
 | 30  |  Barbara Benigni, Riccardo Gallotti and Manlio De Domenico | Potential-driven random walks on complex networks  | onsite |
 | 41  |  Hugo Hourcade, Fatemeh Hamissi, Cedric Miachon and Binh-Minh Bui-Xuan | Behaviour Recognition Algorithms In Temporal Graphs  | online |
 
-## (S2.2)Session 2: Foundations of Complex Systems (4)
+## Session 2.2: Foundations of Complex Systems IV
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -157,7 +157,7 @@
 | 238  |  Giulia Bertagnolli and Manlio De Domenico | Diffusion geometry of multiplex and interdependent systems  | online |
 | 32  |  Stephany Rajeh, Marinette Savonnet, Eric Leclercq and Hocine Cherifi | An empirical study on classical and community-aware centrality measures in complex networks  | online |
 
-## (S2.3)Session 3: Psychology, Neurosciences, Linguistics (1)
+## Session 2.3: Psychology, Neurosciences, Linguistics I
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -168,7 +168,7 @@
 | 169  |  Massimo Stella, Trevor James Swanson, Ying Li, Szymon Talaga, Thomas Hills and Andreia Sofia Teixeira | Assessing the emotional structure of suicide letters and healthy recollections with cognitive network science  | onsite |
 | 162  |  Paweł Oświęcimka, Anna Ceglarek, Jeremi Ochab and Marcin Wątorek | Correlation Structure Between Brain Regions in Working-memory Tasks: fMRI Fractal and Spectral Analysis  | onsite |
 
-## (S2.4)Session 4: Infrastructure, Planning and Environment (2)
+## Session 2.4: Infrastructure, Planning and Environment II
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -179,7 +179,7 @@
 | 266  |  Rafiazka Hilman, Gerardo Iniguez and Marton Karsai | Urban mobility data uncovers socioeconomic segregation in the US  | onsite |
 | 35  |  Keith Burghardt, Johannes Uhl, Kristina Lerman and Stefan Leyk | The Evolution of City Infrastructure Scaling and Spatial Correlations in the United States: 1900-2015  | online |
 
-## (S2.5)Session 5: Biological and (Bio)Medical Complexity (2)
+## Session 2.5: Biological and (Bio)Medical Complexity II
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -190,7 +190,7 @@
 | 246  |  Maxime Lucas, Alex Townsend-Teague, Arthur Morris, Laurent Tichit, Bianca Habermann and Alain Barrat | Inferring cell cycle phases from a partially temporal network of protein interactions  | onsite |
 |   |  Canceled | Canceled  |  |
 
-## (S2.6)Session 6: Social Complexity (3)
+## Session 2.6: Social Complexity III
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -201,7 +201,7 @@
 | 189  |  Antoine Brias, Jean-Baptiste Pichancourt and Anne Bonis | How to organize and adapt collective action in a complex social-ecological landscape where global change pressures the sustainability of multiple ecosystem services: case study in a French urban area  | onsite |
 | 195  |  Vincent Verbavatz and Marc Barthelemy | Zipf's law for cities: the end  | onsite |
 
-## (S2.7)Session 7: COVID-19 (2)
+## Session 2.7: COVID-19 II
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -212,7 +212,7 @@
 | 203  |  Barbara Pascal, Nelly Pustelnik, Remi Gribonval, Stephane Roux, Patrick Flandrin and Patrice Abry | Robustness to outliers for Covid-19 Reproduction Number Estimation via NonSmooth Convex Proximal Optimization  | onsite |
 | 296  |  Joseph Lemaitre, Damiano Pasetto, Mario Zanon, Enrico Bertuzzo, Lorenzo Mari, Stefano Miccoli, Renato Casagrandi, Marino Gatto and Andrea Rinaldo | Optimal Control of the Spatial and Temporal Allocation of COVID-19 Vaccines: Italy as a Case Study  | onsite |
 
-## (S2.8)Session 8: COVID-19 (3)
+## Session 2.8: COVID-19 III
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
@@ -223,7 +223,7 @@
 | 107  |  Alessandro Pluchino, Martina Fazio, Giuseppe Inturri, Michela Le Pira, Nadia Giuffrida and Matteo Ignaccolo | Exploring the impact of mobility restrictions on the COVID-19 spreading through an agent-based approach  | onsite |
 | 280  |  Takayuki Hiraoka, Mikko Kivelä and Jari Saramäki | Vaccination strategies for minimizing the number of deaths from emerging diseases  | onsite |
 
-## (S2.9)Session 9: Transdisciplinary and Applied Complex Systems (1)
+## Session 2.9: Transdisciplinary and Applied Complex Systems I
 ## ROOM: TBA
 
 | ID  | Authors | Title | Mode|
