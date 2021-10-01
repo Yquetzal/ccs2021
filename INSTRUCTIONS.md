@@ -37,7 +37,7 @@ Web site : http://www.ccc-lyon.com/*
 
 Note that the venue cannot be entered without a green pass (https://www.gouvernement.fr/info-coronavirus/pass-sanitaire), and wearing masks will be mandatory during the event (except during catering sessions). Hand sanitizers will be provided at several locations at the venue.
 
-# Subject field and naming convention for submitted files
+### *Subject field and naming convention for submitted files
 To be able to manage the large number of submitted files of presentations, we would like to ask to indicate the presentation ID of your talk (see program on the conference website) in the subject field of your email and ask all presenters to rename the submitted files as:
 
 *PresentationID_LastNameOfPresenter.pdf (or mp4 in case of video format)*
