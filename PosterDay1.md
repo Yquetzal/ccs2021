@@ -50,7 +50,7 @@
 | 281 |	Todd Davies | Using Agent Based Modelling to Test Novel Remedies for Restoring Competition in Monetized Digital Markets   |  onsite
 | 294 |	Hao Cui and János Kertész | Emergence of Popular Hashtags and Ranking Dynamics on the Chinese Microblogging Complex System   |  onsite
 | 303 |	Rasha Shanaz and P Muruganandam | Exploring Coupled Map Lattices with Physical Reservoir Computing   |  onsite
-| 304 |	Hendrik Schawe, Sylvain Fontaine and Laura Hernandez | The bridges to consensus: Network effects in a bounded confidence opinion dynamics model   |  onsite
+| 304 |	Hendrik Schawe, Sylvain Fontaine and Laura Hernandez | The bridges to consensus: Network effects in a bounded confidence opinion dynamics model   |  online
 | 308 |	Malayaja Chutani, Bosiljka Tadic and Neelima Gupte | A Study of Collective Behaviour on Simplicial Complexes Using Higher-order Interactions   |  onsite
 | 309 |	Chantal Cherifi, Aurélie Charles and Guillaume Bouleux | Modelling the complex system of the response to a natural disaster by a multilayer network approach   |  onsite
 | 312 |	Rabindev Bishal, Gabriel Mindlin and Neelima Gupte | A recurrence study of the effects of early vocal development on the birdsong of a juvenile canary   |  onsite
