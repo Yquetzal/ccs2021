@@ -106,9 +106,9 @@ Panelists:
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 329 |   Hao Cui and János Kertész | Attention dynamics on the Chinese social media Sina Weibo during the COVID-19 pandemic   | onsite  |
 | 322 |   Taras Patsahan and Jaroslav Ilnytskyi | The Effects of the Quarantine and Vaccination on the COVID-19 Spread by Combining the Compartmental and Cellular Automaton Types of Modelling   | onsite  |
 | 302 |   Guillermo de Anda-Jauregui, Rodrigo Zepeda-Tello, Plinio Guzman, Mauricio Hernandez Avila, David Barros-Sierra, Amilcar Meneses, Alfredo Hernandez, Marisol Flores-Garrido and Maribel Hernandez Rosales | Predicting public health impact of COVID-19 in Mexico City using mobility and contact networks   | onsite  |
+| 121 |    Matthieu Nadini, Alberto Bracci, Maxwell Aliapoulios, Damon McCoy, Ian Gray, Alexander Teytelboym, Angela Gallo and Andrea Baronchelli | Dark Web Marketplaces and COVID-19    |  online  |
 | 154 |   Jun'Ichi Ozaki, Yohei Shida, Hideki Takayasu and Misako Takayasu | Infection rate analysis at each daily activity under COVID-19 pandemic using human mobility data   | online  |
 | 235 |   Valeria D'Andrea, Riccardo Gallotti, Nicola Castaldo and Manlio De Domenico | Individual Risk Perception and Empirical Social Structures Shape the Dynamics of Infectious Disease Outbreaks   | online  |
 | 262 |   Aleix Bassolas, Andrea Santoro, Sandro Sousa, Silvia Rognone and Vincenzo Nicosia | Optimising the mitigation of epidemic spreading through targeted adoption of contact tracing apps  | online  |
@@ -246,7 +246,7 @@ Panelists:
 | 240 |    Marco Pangallo, Alberto Aleta, R. Maria del Rio-Chanona, Doyne Farmer, Francois Lafond, David Martin-Corral, Yamir Moreno, Esteban Moro, Anton Pichler and Alessandro Vespignani | Modeling the distributional epidemic-economic effects of the Covid-19 pandemic   |  onsite  |
 | 282 |    Daniel Rhoads, Albert Sole-Ribalta, Marta Gonzalez and Javier Borge-Holthoefer | A Sustainable Strategy for Open Streets in Post-Pandemic Cities    |  onsite  |
 | 175 |    Hadrien Salat, Anna Zanchetta, Fernando Benitez-Paez, Man Luo and Mark Birkin | National Scale Agent-Based Model for Epidemics    |  onsite  |
-| 121 |    Matthieu Nadini, Alberto Bracci, Maxwell Aliapoulios, Damon McCoy, Ian Gray, Alexander Teytelboym, Angela Gallo and Andrea Baronchelli | Dark Web Marketplaces and COVID-19    |  online  |
+| 329 |   Hao Cui and János Kertész | Attention dynamics on the Chinese social media Sina Weibo during the COVID-19 pandemic   | onsite  |
 
 ## Session 4.9: Methodology III
 ## ROOM: TBA
