@@ -17,6 +17,7 @@
         "pic": "people-pics/dijkstra.jpg",
         "website": "https://webspace.science.uu.nl/~dijks101/",
         "twitter": "",
+        "abstract":"<h3>Climate as a Complex System</h3>",
         "BIO":"Henk A. Dijkstra is professor of Dynamical Oceanography at the Institute for Marine and Atmospheric research Utrecht and director of the Centre for Complex Systems Studies within the Department of Physics of Utrecht University. <br><br>He was trained as an applied mathematician and held positions at the University of Groningen,  Cornell University, and Colorado State University. <br><br>His main research interests are on climate variability, in particular climate transitions and climate change with a focus on the role of the oceans.  <br><br> Since 2002, he is a full member of the  Royal  Netherlands Academy of Arts and Sciences and since 2009 he is a Fellow of the Society for Industrial and Applied Mathematics. <br><br>In 2005, he  received the Lewis Fry  Richardson medal from the European Geosciences Union."
       },
       {
@@ -25,6 +26,7 @@
         "pic": "people-pics/kefi.jpg",
         "website": "http://sonia.kefi.fr",
         "twitter": "https://twitter.com/sonia_kefi",
+        "abstract":"<h3>Spatial signatures of ecosystem resilience</h3>",
         "BIO":"I am a researcher at the CNRS based in the BioDICée team at the Institut des Sciences de l'Evolution de Montpellier (ISEM), France.  <br><br>In an era of global change, my research aims at understanding how ecosystems persist and change under pressures from changing climate and land use. What makes ecosystems resilient to changes and what makes them fragile?<br><br>I combine mathematical modeling and data analysis to investigate the role of ecological interactions (in particular facilitation) in stabilizing and destabilizing ecosystems, but also to develop indicators of resilience that could warn us of approaching ecosystem shifts."
       },
       {
@@ -33,6 +35,8 @@
         "pic": "people-pics/lovasz.jpg",
         "website": "https://web.cs.elte.hu/~lovasz/",
         "twitter": "",
+        "abstract":"<h3>Disease propagation on networks and a switchover phenomenon</h3>",
+
         "BIO":"László Lovász is a Hungarian-American mathematician and professor emeritus at Eötvös Loránd University. He received the Abel Prize in 2021 jointly with Avi Wigderson for his work in combinatorics. He was the president of the International Mathematical Union from 2007 to 2010 and the president of the Hungarian Academy of Sciences from 2014 to 2020. <br><br>In graph theory, Lovász's notable contributions include the proofs of Kneser's conjecture and the Lovász local lemma, as well as the formulation of the Erdős–Faber–Lovász conjecture. <br><br>He is also one of the eponymous authors of the LLL lattice reduction algorithm.<br><br> Lovász was awarded the Brouwer Medal (1993), the Knuth Prize (1999), the Bolyai Prize (2007), and Hungary's Széchenyi Grand Prize (2008). He received the Advanced Grant of the European Research Council (2008). He was president of the International Mathematical Union between 2007 and 2010. He is member of the National Academy of Sciences (US), foreign member of the Royal Netherlands Academy of Arts and Sciences (2006) and Royal Swedish Academy of Sciences (2007), honorary member of the London Mathematical Society (2009), fellow of the American Mathematical Society (2012)."
       },
       {
@@ -40,6 +44,7 @@
         "affiliation": "Spanish National Centre for Biotechnology (CSIC), Spain",
         "pic": "people-pics/manrubia.jpg",
         "website": "https://auditore.cab.inta-csic.es/manrubia/home/",
+        "abstract":"<h3>How the architecture of genotype spaces shapes evolutionary dynamics  </h3>",
         "twitter": "",
               "BIO":"Susanna Manrubia studied physics at the Universitat de Barcelona, and received her doctoral degree in 1996. <br><br>She was a Humboldt fellow of the Max Planck Society at the Fritz-Haber-Institut in Berlin and a postdoctoral researcher at the MPI of Colloids and Interfaces in Golm. <br>After several years at the Center for Astrobiology in Madrid, she is since 2014 associate professor of Molecular Biology and Biotechnology at the National Centre for Biotechnology (CSIC, Madrid). <br><br>She focuses on developing theoretical and computational descriptions of biological phenomena, from the genome to large-scale evolution, and maintains close collaborations with experimentalists. <br><br> Her interests include as well the emergence of cultural patterns and collective social behaviour. <br><br>She has published over 130 peer reviewed articles and three books, was Section Editor for BMC Evolutionary Biology and is current member of the Editorial Board of Virus Evolution."  
       }
