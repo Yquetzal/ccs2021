@@ -4,7 +4,7 @@
 
 # 8:30-9:00 Registration
 # 9:00-9:45 Keynote Talk 4
-## Title: Spatial signatures of ecosystem resilience
+## Title: [Spatial signatures of ecosystem resilience](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sonia_Kefi)
 ## Speaker : [Sonia Kéfi](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sonia_Kefi)
 
 # 9:45-10:15 Invited Talk 6
@@ -128,7 +128,7 @@
 ## Room: (TBA) 
 
 # 13:45-14:30 Keynote Talk 5
-## Title: Climate as a Complex System 
+## Title: [Climate as a Complex System](https://ccs2021.univ-lyon1.fr/#SPEAKER_Henk_Dijkstra)
 ## Speaker : [Henk Dijkstra](https://ccs2021.univ-lyon1.fr/#SPEAKER_Henk_Dijkstra)
 
 # 14:30-15:00 Invited Talk 8
