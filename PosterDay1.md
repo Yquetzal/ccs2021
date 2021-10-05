@@ -44,7 +44,7 @@
 | 221 |	Nayana Mukherjee | Modeling species population spread   |  onsite
 | 222 |	Kemal Delic and Jeff Johnson | AI Morphing Into a Science of Complex Systems   |  onsite
 | 225 |	Sarika Jalan, Ajaydeep Kachhvah, Xiangfeng Dai and Stefano Boccaletti | Explosive sycnhronization in multilayer networks through Hebb's learing adpatation   |  onsite
-|247	| Sina Sajjadi, Pourya Toranj, Basak Taraktas, Mehrzad Shadmangohar, Ulya Bayram and Mavi Ruiz | Socioeconomic Status Resulting in Infection Rate Disparity, an Agent Based and Mean Field Model | Online
+|247	| Sina Sajjadi, Pourya Toranj, Basak Taraktas, Mehrzad Shadmangohar, Ulya Bayram and Mavi Ruiz | Socioeconomic Status Resulting in Infection Rate Disparity, an Agent Based and Mean Field Model | onsite
 | 256 |	Anna Pidnebesna, Stanislav Jiricek, Vlastimil Koudelka, Pavel Sanda, Kamil Vlcek, Jiri Hammer and Jaroslav Hlinka | Spatiotemporal dynamics characterization: brain connectivity similarity profiles   |  onsite
 | 273 |	Aurélien Hazan | Life Cycle Assesment-based Networks and Multiscale Representations   |  onsite
 | 279 |	Franziska Peter, Ronald Andres Cárdenas Sabando and Josep Perelló | Complex systems approach to social sciences empirical research – a pilot for future data acquisition and analysis   |  onsite
