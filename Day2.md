@@ -129,7 +129,7 @@ Panelists:
 ## ROOM: TBA 
 
 # 14:30-15:15 Keynote Talk 3
-## Title: TBA
+## Title: How the architecture of genotype spaces shapes evolutionary dynamics  
 ## Speaker : [Susanna Manrubia](https://ccs2021.univ-lyon1.fr/#SPEAKER_Susanna_Manrubia)
 
 
