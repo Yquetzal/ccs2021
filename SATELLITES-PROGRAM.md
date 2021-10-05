@@ -143,7 +143,7 @@
 **Organisers**: Matthijs Koopmans , Hiroki Sayama, Dimitrios Stamovlasis.  
 **Keywords**: Education.   
 **Mode**: hybrid.  
-**Date**: Thursday Oct 28.  
+**Date**: Thursday Oct 28 (afternoon).  
 **Website**: https://mkoopmans.wixsite.com/ccs-2021-education 
 
 --- 
