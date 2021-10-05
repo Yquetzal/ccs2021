@@ -5,7 +5,7 @@
 # 8:00-9:00 Registration
 # 9:00-9:30 Opening
 # 9:30-10:15 Keynote Talk 1
-## Title: Disease propagation on networks and a switchover phenomenon
+## Title: [Disease propagation on networks and a switchover phenomenon](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
 ## Speaker : [László Lovász](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
 
 
@@ -120,7 +120,7 @@
 ## ROOM: TBA 
 
 # 14:30-15:15 Keynote Talk 2
-## Title: The Geometry of Decision Making
+## Title: [The Geometry of Decision Making](https://ccs2021.univ-lyon1.fr/#SPEAKER_Iain_Couzin)
 ## Speaker : [Iain Couzin](https://ccs2021.univ-lyon1.fr/#SPEAKER_Iain_Couzin)
 
 
