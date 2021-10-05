@@ -259,4 +259,5 @@ Panelists:
 | 143 |    Mateusz Wilinski and Andrey Lokhov | Scalable Learning of Independent Cascade Dynamics from Partial Observations    |  onsite  |
 | 344 |    Tiago Peixoto | Disentangling homophily, community structure and triadic closure in networks    |  onsite  |
 | 5 |    Aleix Bassolas and Vincenzo Nicosia | First-passage times to quantify and compare structural correlations and heterogeneity in complex systems    |  online  |
-| - |  CANCELED | CANCELED    |    |
+|145 |	 Xue Gong, Higham Desmond and Konstantinos Zygalakis | Random graph interpretation of directed graph Laplacians	 |	online	|
+
