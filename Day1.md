@@ -114,7 +114,7 @@
 |311 |	 Jason Kim, Zhixin Lu and Danielle Bassett | Programming Memories and Computations in Recurrent Neural Networks Without Training	 |	onsite	|
 |25 |	 Daekyung Lee, Beom Jun Kim, Heetae Kim and Sang Hoon Lee | Mining Stochasticity of Community Detection to Refine Global and Local Organization of Networks	 |	online	|
 |150 |	 Andrea Zaccaria, Alessandro Carra, Luca Didomenicantonio and Giulio Cimini | Meta-validation of bipartite network projections	 |	onsite	|
-|145 |	 Xue Gong, Higham Desmond and Konstantinos Zygalakis | Random graph interpretation of directed graph Laplacians	 |	onsite	|
+| |	 CANCELED | CANCELED	 |		|
 
 # 13:00-14:30 Lunch Break - Poster Session 
 ## ROOM: TBA 
