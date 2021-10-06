@@ -75,6 +75,8 @@
 | 31 |    Elvia Ramírez-Carrillo, Isaac G-Santoyo, Oliver López Corona, Olga A. Rojas-Ramos and Javier Nieto | Diet influences both cerebral and gut microbiota networks connectivity in early ages, a case of study    |  onsite  |
 | 251 |    Duilio Balsamo, Paolo Bajardi, Alberto Salomone and Rossano Schifanella | Nonmedical Opioid Consumption on Reddit: Patterns of Routes of Administration and Drug Tampering    |  onsite  |
 | 124 |    Iker Atienza and Luís F Seoane | Long- and Short-Term Effects of Cross-Immunity    |  onsite  |
+|  |   Canceled | Canceled    |    |
+
 
 ## Session 5.6: Social Complexity VIII
 ## Room: (TBA)
