@@ -97,7 +97,7 @@
 | 317 |    Giulio Burgio, Benjamin Steinegger, Giacomo Rapisardi and Alex Arenas | The Impact of Homophily on Digital Proximity Tracing    |  onsite  |
 | 110  |  Akira Ishii and Nozomi Okano | Trust-Distrust Model on Multiple Network of Society as New Type of Opinion Dynamics | onsite |
 | 78 |    Nancy Li, Markus Luczak-Roesch and Flavia Donadelli | "We follow the science": Studying information dynamics across the science-policy interface    |  onsite  |
-| 321 |    Hao Cui and János Kertész | Relationship between repost network evolution of trending hashtags and their ranking dynamics in microblogging complex system    |  online  |
+| 267 |    Ludovico Napoli, Vedran Sekara, Manuel Garcia-Herranz and Marton Karsai | Social network reorganization during emergency lockdown    |  onsite  |
 | 265 |    Yasaman Asgari, Armin Pournaki, Eckehard Olbrich and Felix Gaisbauer | Dynamic communities and engagement in public debate about Covid-19 in the German Twittersphere    |  online  |
 
 ## Session 5.8: COVID-19 VI
