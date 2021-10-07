@@ -39,7 +39,7 @@
 | 328 |    Fabrizio Lombardi, Gasper Tkacik and Daniele De Martino | Emergent Dichotomy of Oscillations and Scale-free Avalanches in a Minimal Adaptive Neural Model near Criticality    |  onsite  |
 | 209 |    Akylas Fotiadis and Dimitrios Kugiumtzis | Information-based Estimation of Causality Networks from High Dimensional Multivariate Time Series    |  onsite  |
 | 79 |    Robin Delabays, Saber Jafarpour and Francesco Bullo | Flow Network Problems on the n-torus with Asymmetric Couplings    |  onsite  |
-|  | Canceled | Canceled |  |
+| 330 |    Loredana Bellantuono, Alfonso Monaco, Sabina Tangaro, Nicola Amoroso, Vincenzo Aquaro and Roberto Bellotti | An Equity-Oriented Rethink Of Global Rankings With Complex Networks Mapping Development    |  online  |
 
 ## Session 5.3: Psychology, Neurosciences, Linguistics III
 ## Room: (TBA)
@@ -88,7 +88,8 @@
 | 216 |    Johannes Stangl, Christian Diem, Tobias Reisch and Stefan Thurner | Identifying Decarbonization Leverage Points in Supply Networks with Network Measures that Quantify Systemic Relevance    |  onsite  |
 | 127 |    Chiara Zappalà, Alessandro Pluchino, Andrea Rapisarda, Alessio Biondo and Pawel Sobkowicz | The Role of Chance in Fencing Tournaments: an Agent-Based Approach    |  onsite  |
 | 42 |    Alain Barrat, Valeria Gelardi and Nicolas Claidiere | From temporal network data to the dynamics of social relationships    |  onsite  |
-| 330 |    Loredana Bellantuono, Alfonso Monaco, Sabina Tangaro, Nicola Amoroso, Vincenzo Aquaro and Roberto Bellotti | An Equity-Oriented Rethink Of Global Rankings With Complex Networks Mapping Development    |  online  |
+| 67 |    Thomas Louf, David Sanchez and Jose J. Ramasco | Capturing the Diversity of Multilingual Societies    |  onsite  |
+
 
 ## Session 5.7: Social Complexity IX
 ## Room: (TBA)
