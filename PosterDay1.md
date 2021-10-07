@@ -11,7 +11,6 @@
 | 51 |	Chavalarias David, Lobbé Quentin and Delanoë Alexandre | Multi-level and Multi-scale Reconstruction of Knowledge Dynamics with Phylomemies  |  online
 | 53 |	Iacopo Iacopini, Giovanni Petri, Andrea Baronchelli and Alain Barrat | Vanishing size of critical mass for tipping points in social convention  |  online
 | 59 |	Melanie Swan | Complexity and Quantum Information Science  |  online
-| 67 |	Thomas Louf, David Sanchez and Jose J. Ramasco | Capturing the Diversity of Multilingual Societies  |  online
 | 74 |	Andreas Paul Zischg | A complex systems perspective on flood risk management  |  online
 | 75 |	Karoline Wiesner | What science can do for democracy – A complexity science approach  |  online
 | 76 |	Shubhadeep Sadhukhan, Rohitashwa Chattopadhyay and Sagar Chakraborty | Coevolution of cooperation and synchronization: Averting migration dilemma  |  online
