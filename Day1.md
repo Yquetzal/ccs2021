@@ -137,7 +137,7 @@
 
 # 16:45 - 18:00 Parallel Sessions 2
 ## Session 2.1: Foundations of Complex Systems III
-## ROOM: TBA
+### ROOM: Rhône 2
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -148,7 +148,7 @@
 | 41  |  Hugo Hourcade, Fatemeh Hamissi, Cedric Miachon and Binh-Minh Bui-Xuan | Behaviour Recognition Algorithms In Temporal Graphs  | online |
 
 ## Session 2.2: Foundations of Complex Systems IV
-## ROOM: TBA
+### ROOM: Rhône 3A
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -159,7 +159,7 @@
 | 32  |  Stephany Rajeh, Marinette Savonnet, Eric Leclercq and Hocine Cherifi | An empirical study on classical and community-aware centrality measures in complex networks  | online |
 
 ## Session 2.3: Psychology, Neurosciences, Linguistics I
-## ROOM: TBA
+### ROOM: Rhône 4
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -170,7 +170,7 @@
 | 162  |  Paweł Oświęcimka, Anna Ceglarek, Jeremi Ochab and Marcin Wątorek | Correlation Structure Between Brain Regions in Working-memory Tasks: fMRI Fractal and Spectral Analysis  | onsite |
 
 ## Session 2.4: Infrastructure, Planning and Environment II
-## ROOM: TBA
+### ROOM: St Clair 4
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -181,7 +181,7 @@
 | 35  |  Keith Burghardt, Johannes Uhl, Kristina Lerman and Stefan Leyk | The Evolution of City Infrastructure Scaling and Spatial Correlations in the United States: 1900-2015  | online |
 
 ## Session 2.5: Biological and (Bio)Medical Complexity II
-## ROOM: TBA
+### ROOM: St Clair 3A
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -192,7 +192,7 @@
 |   |  Canceled | Canceled  |  |
 
 ## Session 2.6: Social Complexity III
-## ROOM: TBA
+### ROOM: Rhône 3B
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -203,7 +203,7 @@
 | 321 |    Hao Cui and János Kertész | Relationship between repost network evolution of trending hashtags and their ranking dynamics in microblogging complex system    |  online  |
 
 ## Session 2.7: COVID-19 II
-## ROOM: TBA
+### ROOM: Auditorium
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -214,7 +214,7 @@
 | 208  |  Hugo Artigas, Gersende Fort, Barbara Pascal, Nelly Pustelnik and Patrice Abry | Confidence intervals for Covid-19 Reproduction Number Estimation combining NonSmooth Convex Proximal Optimization and Stochastic Sampling  | onsite |
 
 ## Session 2.8: COVID-19 III
-## ROOM: TBA
+### ROOM: Rhône 1
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -225,7 +225,7 @@
 | 280  |  Takayuki Hiraoka, Mikko Kivelä and Jari Saramäki | Vaccination strategies for minimizing the number of deaths from emerging diseases  | onsite |
 
 ## Session 2.9: Transdisciplinary and Applied Complex Systems I
-## ROOM: TBA
+### ROOM: St Clair 3B
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
