@@ -18,7 +18,7 @@
 # 10:45 - 11:15 Coffee Break
 # 11:15 - 12:45 Parallel Sessions 5
 ## Session 5.1: Foundations of Complex Systems IX
-## Room: (TBA)
+### ROOM: Auditorium
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -30,7 +30,7 @@
 | 11 |    Kiyoshi Kanazawa and Didier Sornette | Classification of Power law Relations in the Intensity Distribution for a Large Class of Self-excited Nonlinear Hawkes Processes    |  online  |
 
 ## Session 5.2: Foundations of Complex Systems X
-## Room: (TBA)
+### ROOM: Rhône 1
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -42,7 +42,7 @@
 | 330 |    Loredana Bellantuono, Alfonso Monaco, Sabina Tangaro, Nicola Amoroso, Vincenzo Aquaro and Roberto Bellotti | An Equity-Oriented Rethink Of Global Rankings With Complex Networks Mapping Development    |  online  |
 
 ## Session 5.3: Psychology, Neurosciences, Linguistics III
-## Room: (TBA)
+### ROOM: Rhône 2
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -54,7 +54,7 @@
 | 332 |    Irene Ferri, Emanuele Cozzo, Albert Diaz-Guilera and Luce Prignano | A bounded confidence model of emotionally aroused integrate and fire oscillators.    |  online  |
 
 ## Session 5.4: Economics and Finance IV
-## Room: (TBA)
+### ROOM: St Clair 3B
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -66,7 +66,7 @@
 | 307 |    Katarina Mayer | Optimal Legal System in a Semi-Underground Economy    |  onsite  |
 
 ## Session 5.5: Biological and (Bio)Medical Complexity V
-## Room: (TBA)
+### ROOM: Rhône 3B
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -79,7 +79,7 @@
 
 
 ## Session 5.6: Social Complexity VIII
-## Room: (TBA)
+### ROOM: St Clair 3A
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -92,7 +92,7 @@
 
 
 ## Session 5.7: Social Complexity IX
-## Room: (TBA)
+### ROOM: St Clair 4
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -104,7 +104,7 @@
 | 265 |    Yasaman Asgari, Armin Pournaki, Eckehard Olbrich and Felix Gaisbauer | Dynamic communities and engagement in public debate about Covid-19 in the German Twittersphere    |  online  |
 
 ## Session 5.8: COVID-19 VI
-## Room: (TBA)
+### ROOM: Rhône 3A
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -116,7 +116,7 @@
 | 116 |    Paul Churchyard, Ramani Peruvemba, Ajay Gupta and Christopher Woloshyn | Secondary Bacterial Infection Risk Index    |  onsite  |
 
 ## Session 5.9: Transdisciplinary and Applied Complex Systems II
-## Room: (TBA)
+### ROOM: Rhône 4
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
