@@ -29,7 +29,7 @@
 # 14:30-18:00 Satellite Workshops
 
 ## Hybrid
-* [Econophysics Colloquium 2021](https://econophysics.ihu.gr/ec2021/) - Room: St Clair 3A  
+* [Econophysics Colloquium 2021](https://econophysics.ihu.gr/ec2021/) - Room: Rhône 1 
 * [Complex Systems for the Most Vulnerable](https://cs4v21.weebly.com/) - Room: Rhône 2   
 * [AMETHYST: gAME THeorY in complex SysTems](https://amethyst2021.weebly.com) - Room: St Clair 3B  
 * [Brain Connectivity Networks: Quality and Reproducibility](https://q-func.github.io/workshopCCS21-brain-connectivity/) - Room: Rhône 3B  
