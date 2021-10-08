@@ -37,7 +37,7 @@
 [Criticality on networks and socio-economic systems](#criticality)
 
 ### Online
-~~Complex-Space: Analysis and Modelling of Spatial Complex Systems (CANCELED)~
+~~Complex-Space: Analysis and Modelling of Spatial Complex Systems (CANCELED)~~  
 [Complex Systems and Education: From Theory to Research to Practice](#cceducation)  
 [Machine learning Perspectives for Complex Networks: Part II](#mlperspectives)
 
