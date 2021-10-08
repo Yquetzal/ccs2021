@@ -37,7 +37,7 @@
 [Criticality on networks and socio-economic systems](#criticality)
 
 ### Online
-[Complex-Space: Analysis and Modelling of Spatial Complex Systems](#complexspace)  
+~~Complex-Space: Analysis and Modelling of Spatial Complex Systems (CANCELED)~
 [Complex Systems and Education: From Theory to Research to Practice](#cceducation)  
 [Machine learning Perspectives for Complex Networks: Part II](#mlperspectives)
 
@@ -185,15 +185,7 @@
 **Mode**: Online.  
 **Date**: Friday before the conference
 **Website**: https://sites.google.com/view/compcogccs2021/
-    
---- 
-## Complex-Space: Analysis and Modelling of Spatial Complex Systems <a name="complexspace"></a>
-**Organisers**: Enzo Nicosia, Marc Barthelemy, George Bassel, Weini Huang.  
-**Keywords**: Space.   
-**Mode**: Online.  
-**Date**: Thursday Oct 28.  
-**Website**: https://ccs2021.complex-space.net. 
-    
+
 --- 
 ## Multiscale & Integrative complex networks: experiments & theories <a name="multiscaleintegrative"></a>
 **Organisers**: Oriol Artime, Barbara Benigni, Valeria d’Andrea, Sebastian Raimondo, Manlio De Domenico.  
