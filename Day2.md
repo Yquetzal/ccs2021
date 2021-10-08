@@ -5,6 +5,7 @@
 # 8:00 - 9:00 Registration
 
 # 9:00 - 10:45 COVID-19 Panel
+### ROOM: Auditorium
 In this Panel, various experts on the COVID-19 Pandemic will discuss about their experience takling it.
 Panelists:
 
@@ -18,7 +19,7 @@ Panelists:
 
 # 11:30 - 13:00 Parallel Sessions 3
 ## Session 3.1: Foundations of Complex Systems V
-## ROOM: TBA
+### ROOM: Rhône 1
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -30,7 +31,7 @@ Panelists:
 | 190 |   Sebastiano Bontorin and Manlio De Domenico | Multi-pathways temporal distance unravels the hidden geometry of network-driven processes   | online  |
 
 ## Session 3.2: Foundations of Complex Systems VI
-## ROOM: TBA
+### ROOM: Rhône 2
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -42,7 +43,7 @@ Panelists:
 | 21 |   Hildegard Meyer-Ortmanns and Maximilian Voit | Emerging criticality in heteroclinic dynamics   | onsite  |
 
 ## Session 3.3: Psychology, Neurosciences, Linguistics II
-## ROOM: TBA
+### ROOM: St Clair 4
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -54,7 +55,7 @@ Panelists:
 | 60 |   Hayato Misumi, Taiki Ogata and Tomomi Kito | Patterns of Cooperative Rhythm Production Between One Leader and Two Followers Through Auditory and Visual Information   | online  |
 
 ## Session 3.4: Economics and Finance II
-## ROOM: TBA
+### ROOM: St Clair 3B
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -66,7 +67,7 @@ Panelists:
 | 98 |   Lorenzo Lucchini, Laura Maria Alessandretti, Bruno Lepri, Angela Gallo and Andrea Baronchelli | From code to market: Network of developers and correlated returns of cryptocurrencies   | online  |
 
 ## Session 3.5: Biological and (Bio)Medical Complexity III
-## ROOM: TBA
+### ROOM: St Clair 3A
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -78,7 +79,7 @@ Panelists:
 | 173 |   Lena Takayasu | The laws behind the temporal change of gut microbiome   | online  |
 
 ## Session 3.6: Social complexity IV
-## ROOM: TBA
+### ROOM: Auditorium
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -90,7 +91,7 @@ Panelists:
 | 176 |   Masashi Shiraishi, Osamu Yamanaka and Hiraku Nishimori | Effect of Interaction Network Structure in Response Threshold Model on Task Allocation   | online  |
 
 ## Session 3.7: Social complexity V
-## ROOM: TBA
+### ROOM: Rhône 3B
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -102,7 +103,7 @@ Panelists:
 | 297 |   Remi Perrier, Hendrik Schawe and Laura Hernandez | On the resilience of extremism: the heterogeneous Hegselmann-Krause model in networks   | online  |
 
 ## Session 3.8: COVID-19 IV
-## ROOM: TBA
+### ROOM: Rhône 3A
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -114,7 +115,7 @@ Panelists:
 | 262 |   Aleix Bassolas, Andrea Santoro, Sandro Sousa, Silvia Rognone and Vincenzo Nicosia | Optimising the mitigation of epidemic spreading through targeted adoption of contact tracing apps  | online  |
 
 ## Session 3.9: Methodology II
-## ROOM: TBA
+### ROOM: Rhône 4
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -126,7 +127,7 @@ Panelists:
 | 178 |   Samuel Johnson, Dana Warmsley and Charles Martin | Mitigating Limited Observability via Proxy Utilities in Game Theoretic Control   | onsite  |
 
 # 13:00-14:30 Lunch Break - Poster Session 
-## ROOM: TBA 
+### ROOM: TBA 
 
 # 14:30-15:15 Keynote Talk 3
 ## Title: [How the architecture of genotype spaces shapes evolutionary dynamics](https://ccs2021.univ-lyon1.fr/#SPEAKER_Susanna_Manrubia)
@@ -145,7 +146,7 @@ Panelists:
 
 # 16:45 - 18:30 Parallel Sessions 4
 ## Session 4.1: Foundations of Complex Systems VII
-## ROOM: TBA
+### ROOM: Rhône 1
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -158,7 +159,7 @@ Panelists:
 | 298 |    Eric Peña and Hiroki Sayama | Life Worth Mentioning: Complexity in Life-Like Cellular Automata    |  online  |
 
 ## Session 4.2: Foundations of Complex Systems VIII
-## ROOM: TBA
+### ROOM: Rhône 2
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -171,7 +172,7 @@ Panelists:
 | 300 |    Rico Berner, Serhiy Yanchuk and Eckehard Scholl | Generalized splay states: Dynamics on and in the vicinity of the splay manifold    |  online  |
 
 ## Session 4.3: Economics and Finance III
-## ROOM: TBA
+### ROOM: St Clair 3B
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -184,7 +185,7 @@ Panelists:
 | 231 |    Alberto Bracci, Jorn Boehnke, Abeer El Bahrawy, Nicola Perra, Alexander Teytelboym and Andrea Baronchelli | Macroscopic properties of buyer-seller networks in online marketplaces    |  online  |
 
 ## Session 4.4: Biological and (Bio)Medical Complexity IV
-## ROOM: TBA
+### ROOM: St Clair 3A
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -197,7 +198,7 @@ Panelists:
 | 228 |    Manh Hong Duong and The Anh Han | Statistics of equilibria points in pairwise social dilemmas under replicator-mutator dynamics    |  onsite  |
 
 ## Session 4.5: Social Complexity VI
-## ROOM: TBA
+### ROOM: Rhône 3B
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -210,7 +211,7 @@ Panelists:
 | 243 |    Andrea Civilini, Nejat Anbarci and Vito Latora | Evolutionary game model of risk propensity in group decision making    |  onsite  |
 
 ## Session 4.6: Social complexity VII
-## ROOM: TBA
+### ROOM: St Clair 4
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -223,7 +224,7 @@ Panelists:
 | 336 |    Sriniwas Pandey and Hiroki Sayama | Dynamics of User Eccentricity on GAB Social Media    |  online  |
 
 ## Session 4.7: Complexity in Physics and Chemistry I
-## ROOM: TBA
+### ROOM: Auditorium
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -236,7 +237,7 @@ Panelists:
 | 73 |    Ankit Mishra and Sarika Jalan | Eigenvalue ratio spacing statistics of complex networks: Disorder vs Randomness    |  onsite  |
 
 ## Session 4.8: COVID-19 V
-## ROOM: TBA
+### ROOM: Rhône 3A
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -249,7 +250,7 @@ Panelists:
 | 329 |   Hao Cui and János Kertész | Attention dynamics on the Chinese social media Sina Weibo during the COVID-19 pandemic   | onsite  |
 
 ## Session 4.9: Methodology III
-## ROOM: TBA
+### ROOM: Rhône 4
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
