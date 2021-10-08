@@ -37,7 +37,7 @@
 * [Criticality on networks and socio-economic systems](https://yerali.github.io/criticalitysystems2/) - Room: Auditorium  
 
 ## Online
- ~~Complex-Space: Analysis and Modelling of Spatial Complex Systems(Canceled)~~ 
+* ~~Complex-Space: Analysis and Modelling of Spatial Complex Systems(Canceled)~~ 
 * [Machine learning Perspectives for Complex Networks: Part II](https://sites.google.com/view/ccs2021-ml-network) - Room: Rhône 3A
 
 # 16:15 - 16:45 Coffee Break / Poster Session 
