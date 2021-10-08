@@ -15,7 +15,6 @@
 * [Complex Systems for the Most Vulnerable](https://cs4v21.weebly.com/) - Room: Rhône 2  
 * [AMETHYST: gAME THeorY in complex SysTems](https://amethyst2021.weebly.com) - Room: St Clair 3B  
 * [Brain Connectivity Networks: Quality and Reproducibility](https://q-func.github.io/workshopCCS21-brain-connectivity/) - Room: Rhône 3B  
-* [Complex Systems and Education: From Theory to Research to Practice](https://mkoopmans.wixsite.com/ccs-2021-education) - Room:   
 
 ## Online
 * ~~Complex-Space: Analysis and Modelling of Spatial Complex Systems~~ (Canceled) 
