@@ -120,8 +120,8 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
+| 316 |    Valerian Jacques-Dumas, Francesco Ragone, Freddy Bouchet, Pierre Borgnat and Patrice Abry | Deep Learning based Extreme Heatwave Forecast    |  online  |
 | 319 |    Sabin Roman | Peak Oil and the Minimum EROI for Society    |  onsite  |
-| 316 |    Valerian Jacques-Dumas, Francesco Ragone, Freddy Bouchet, Pierre Borgnat and Patrice Abry | Deep Learning based Extreme Heatwave Forecast    |  onsite  |
 | 259 |    Mariko Ito, Yoshifumi Amamoto and Takaaki Ohnishi | Change of network structure of elastomers under elongation    |  online  |
 | 88 |    Ana Teixeira de Melo and Leo Simon Dominic Caves | Outreach in Complexity Studies for transforming 'everyday' modes of thinking: The Complex Thinking Academy    |  online  |
 | 47 |    Lin Zhang, Ling Feng, Kan Chen and Choy Heng Lai | Scaling relations of training hyper-parameters in deep learning    |  online  |
