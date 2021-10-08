@@ -7,18 +7,18 @@
 # 9:30-10:15 Keynote Talk 1 
 ## Title: [Disease propagation on networks and a switchover phenomenon](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
 ## Speaker: [László Lovász](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
-## ROOM: Auditorium
+### ROOM: Auditorium
 
 # 10:15-10:45 Invited Talk 1
 ## Title: TBA
 ## Speaker : [Meeyoung Cha](https://ccs2021.univ-lyon1.fr/#SPEAKER_Meeyoung_Cha)
-## ROOM: Auditorium
+### ROOM: Auditorium
 
 # 10:45 - 11:30 Coffee Break / Poster Session 
 
 # 11:30 - 13:00 Parallel Sessions 1
 ## Session 1.1: Foundations of Complex Systems I 
-## ROOM: Auditorium
+### ROOM: Auditorium
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -30,7 +30,7 @@
 | 123| Marta Tuninetti, Alberto Aleta, Daniela Paolotti, Yamir Moreno and Michele Starnini | Prediction of New Scientific Collaborations Through Multiplex Networks	|	online |	
 
 ## Session 1.2: Foundations of Complex Systems II
-## ROOM: Rhône 2
+### ROOM: Rhône 2
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |128|	 Gerardo Iñiguez, Carlos Pineda, Carlos Gershenson and Albert-László Barabási | Universal dynamics of ranking | 	onsite  |
@@ -41,7 +41,7 @@
 | 210| Akylas Fotiadis, Ioannis Vlachos and Dimitrios Kugiumtzis | Information-based Measure of Partial Mutual Information from Mixed Embedding (PMIME) Revisited		|	onsite |	
 
 ## Session 1.3: Economics and Finance I
-## ROOM: St Clair 3B
+### ROOM: St Clair 3B
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |46 |	 Jonathan Barlow and Irena Vodenska | The effect of a public health crisis on economic outputs: The case of Covid-19 distress propagation and recovery |	onsite	|
@@ -52,7 +52,7 @@
 |188   |	 Anja Janischewski | Under which conditions would a post-growth transition trigger a financial market crash? Analysis via an heterogeneous agent model	 |	onsite	|
 
 ## Session 1.4: Infrastructure, Planning and Environment I
-## ROOM: St Clair 4
+### ROOM: St Clair 4
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |283 |	 Hanae El Gouj and Claire Lagesse | Road network analysis based on geohistorical data	 |	onsite	|
@@ -63,7 +63,7 @@
 |268   |	 Aaron Bramson | Capturing Neighborhood Feel Using Local Graph Characteristics in Large Road Networks	 |	online	|
 
 ## Session 1.5: Biological and (Bio)Medical Complexity I
-## ROOM: St Clair 3A
+### ROOM: St Clair 3A
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |242 |	 Jorge P. Rodríguez-García, Juan Fernández-Gracia, Carlos M. Duarte, Xabier Irigoien and Víctor M. Eguíluz | Fishing at the High Seas: the Global Network Connecting Ports to Fishing Areas	 |	onsite	|
@@ -74,7 +74,7 @@
 |324 |	 Violeta Calleja Solanas, Emilio Hernandez-Garcia and Sandro Meloni | Structural Predictors for Species Survival in Ecological Networks	 |	onsite	|
 
 ## Session 1.6: Social Complexity I
-## ROOM: Rhône 3A
+### ROOM: Rhône 3A
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |254 |	 Victor Chomel, David Chavalarias and Maziyar Panahi | Modelling network dynamics with Markov chains to understand structures in online communities: cross comparison of climate change and vaccine	 |	onsite	|
@@ -85,7 +85,7 @@
 |71 |	 Orowa Sikder, Robert Smith, Pierpaolo Vivo and Giacomo Livan | A minimalistic model of bias, polarization and misinformation in social networks	|	online	|
 
 ## Session 1.7: Social Complexity II
-## ROOM: Rhône 3B
+### ROOM: Rhône 3B
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |115 |	 Ryohto Sawada | Ising Model Simulation of Epidemic Control by Influencers on Social Networks	 |	onsite	|
@@ -96,7 +96,7 @@
 |275 |	 Naoki Igarashi, Yukihiko Okada and Yukie Sano | Collective Memory with Endogenous Recall Effects in Wikipedia	 |	online	|
 
 ## Session 1.8: COVID-19 I
-## ROOM: Rhône 1
+### ROOM: Rhône 1
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |335 |	 Brennan Klein, Nicholas Generous, Samuel Scarpino and Alessandro Vespignani | Higher Education Responses to COVID-19 in the United States: The Crucial Role of On-Campus Diagnostic Testing for Students and Staff	 |	onsite	|
@@ -107,7 +107,7 @@
 |26 |	 Takeshi Kano, Kotaro Yasui, Taishi Mikami, Munehiro Asally and Akio Ishiguro | How to Mitigate the COVID-19 Outbreak While Maintaining Economic Activities?	 |	online	|
 
 ## Session 1.9: Methodology I
-## ROOM: Rhône 4
+### ROOM: Rhône 4
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |286 |	 Yacouba Kaloga, Pierre Borgnat, Sundeep Prabahkar Chepuri, Patrice Abry and Amaury Habrard | Variational Graph Autoencoders for Multiview Canonical Correlation Analysis	 |	onsite	|
