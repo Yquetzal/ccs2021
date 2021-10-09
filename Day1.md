@@ -3,6 +3,8 @@
 -----
 
 # 8:00-9:00 Registration
+### ROOM: Foyer Lumiere
+
 # 9:00-9:30 Opening
 # 9:30-10:15 Keynote Talk 1 
 ## Title: [Disease propagation on networks and a switchover phenomenon](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
