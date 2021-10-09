@@ -130,15 +130,18 @@ Panelists:
 ### ROOM: TBA 
 
 # 14:30-15:15 Keynote Talk 3
+### ROOM: Auditorium
 ## Title: [How the architecture of genotype spaces shapes evolutionary dynamics](https://ccs2021.univ-lyon1.fr/#SPEAKER_Susanna_Manrubia)
 ## Speaker : [Susanna Manrubia](https://ccs2021.univ-lyon1.fr/#SPEAKER_Susanna_Manrubia)
 
 
 # 15:15-15:45 Invited Talk 4
+### ROOM: Auditorium
 ## Title: TBA
 ## Speaker : [Eric D. Kolaczyk](https://ccs2021.univ-lyon1.fr/#SPEAKER_Eric_D__Kolaczyk)
 
 # 15:45-16:15 Invited Talk 5
+### ROOM: Auditorium
 ## Title: TBA
 ## Speaker : [Hyejin Youn](https://ccs2021.univ-lyon1.fr/#SPEAKER_Hyejin_Youn)
 
