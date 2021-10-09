@@ -16,6 +16,7 @@ Panelists:
 ## 10:00 - 10:45 Panel discussion
 
 # 10:45 - 11:30 Coffee Break / Poster Session 
+### Poster Room: Forum 2 & 3
 
 # 11:30 - 13:00 Parallel Sessions 3
 ## Session 3.1: Foundations of Complex Systems V
@@ -127,7 +128,7 @@ Panelists:
 | 178 |   Samuel Johnson, Dana Warmsley and Charles Martin | Mitigating Limited Observability via Proxy Utilities in Game Theoretic Control   | onsite  |
 
 # 13:00-14:30 Lunch Break - Poster Session 
-### ROOM: TBA 
+### Room: Forum 2 & 3
 
 # 14:30-15:15 Keynote Talk 3
 ### ROOM: Auditorium
