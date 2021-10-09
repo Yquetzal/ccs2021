@@ -4,14 +4,17 @@
 
 # 8:30-9:00 Registration
 # 9:00-9:45 Keynote Talk 4
+### ROOM: Auditorium
 ## Title: [Spatial signatures of ecosystem resilience](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sonia_Kefi)
 ## Speaker : [Sonia Kéfi](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sonia_Kefi)
 
 # 9:45-10:15 Invited Talk 6
+### ROOM: Auditorium
 ## Title: (TBA)
 ## Speaker : [Irene Giardina](https://ccs2021.univ-lyon1.fr/#SPEAKER_Irene_Giardina)
 
 # 10:15-10:45 Invited Talk 7
+### ROOM: Auditorium
 ## Title: (TBA)
 ## Speaker : [Sundeep Chepuri](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sundeep_Chepuri)
 
@@ -131,14 +134,17 @@
 ## Room: (TBA) 
 
 # 13:45-14:30 Keynote Talk 5
+### ROOM: Auditorium
 ## Title: [Climate as a Complex System](https://ccs2021.univ-lyon1.fr/#SPEAKER_Henk_Dijkstra)
 ## Speaker : [Henk Dijkstra](https://ccs2021.univ-lyon1.fr/#SPEAKER_Henk_Dijkstra)
 
 # 14:30-15:00 Invited Talk 8
+### ROOM: Auditorium
 ## Title: (TBA)
 ## Speaker : [Petra Vertes](https://ccs2021.univ-lyon1.fr/#SPEAKER_Petra_Vertes)
 
 # 15:00 - 15:45 CSS Awards Ceremony
+### ROOM: Auditorium
 
 # 15:45 - 16:15 Coffee Break
 
