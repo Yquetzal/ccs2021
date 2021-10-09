@@ -15,6 +15,7 @@
 ### ROOM: Auditorium
 
 # 10:45 - 11:30 Coffee Break / Poster Session 
+### Poster Room: Forum 2 & 3
 
 # 11:30 - 13:00 Parallel Sessions 1
 ## Session 1.1: Foundations of Complex Systems I 
@@ -118,7 +119,7 @@
 | |	 CANCELED | CANCELED	 |		|
 
 # 13:00-14:30 Lunch Break - Poster Session 
-## ROOM: TBA 
+### Room: Forum 2 & 3
 
 # 14:30-15:15 Keynote Talk 2
 ### ROOM: Auditorium
@@ -137,6 +138,7 @@
 ## Speaker : [Manuel Garcia-Herranz](https://ccs2021.univ-lyon1.fr/#SPEAKER_Manuel_Garcia-Herranz)
 
 # 16:15 - 16:45 Coffee Break / Poster Session 
+### Poster Room: Forum 2 & 3
 
 # 16:45 - 18:00 Parallel Sessions 2
 ## Session 2.1: Foundations of Complex Systems III
