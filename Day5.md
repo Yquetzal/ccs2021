@@ -131,7 +131,7 @@
 | 239 |    Makoto Takeuchi and Yukie Sano | Burstiness and 1/f noise in the physical activities of children and adults    |  online  |
 
 # 12:45-13:45 Lunch Break
-## Room: (TBA) 
+## Room: Forum 2 & 3 
 
 # 13:45-14:30 Keynote Talk 5
 ### ROOM: Auditorium
