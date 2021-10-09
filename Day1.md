@@ -121,15 +121,18 @@
 ## ROOM: TBA 
 
 # 14:30-15:15 Keynote Talk 2
+### ROOM: Auditorium
 ## Title: [The Geometry of Decision Making](https://ccs2021.univ-lyon1.fr/#SPEAKER_Iain_Couzin)
 ## Speaker : [Iain Couzin](https://ccs2021.univ-lyon1.fr/#SPEAKER_Iain_Couzin)
 
 
 # 15:15-15:45 Invited Talk 2
+### ROOM: Auditorium
 ## Title: TBA
 ## Speaker : [Daniela Paolotti](https://ccs2021.univ-lyon1.fr/#SPEAKER_Daniela_Paolotti_)
 
 # 15:45-16:15 Invited Talk 3
+### ROOM: Auditorium
 ## Title: TBA
 ## Speaker : [Manuel Garcia-Herranz](https://ccs2021.univ-lyon1.fr/#SPEAKER_Manuel_Garcia-Herranz)
 
