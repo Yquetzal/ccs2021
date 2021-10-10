@@ -99,10 +99,10 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 108 |    John Fitzgerald | Investigating the changing structure of research collaborations between institutions in Latin America & the Caribbean using multilayered networks    |  onsite  |
 | 317 |    Giulio Burgio, Benjamin Steinegger, Giacomo Rapisardi and Alex Arenas | The Impact of Homophily on Digital Proximity Tracing    |  onsite  |
 | 78 |    Nancy Li, Markus Luczak-Roesch and Flavia Donadelli | "We follow the science": Studying information dynamics across the science-policy interface    |  onsite  |
 | 267 |    Ludovico Napoli, Vedran Sekara, Manuel Garcia-Herranz and Marton Karsai | Social network reorganization during emergency lockdown    |  onsite  |
+| 297 |   Remi Perrier, Hendrik Schawe and Laura Hernandez | On the resilience of extremism: the heterogeneous Hegselmann-Krause model in networks   | online  |
 | 110  |  Akira Ishii and Nozomi Okano | Trust-Distrust Model on Multiple Network of Society as New Type of Opinion Dynamics | online |
 | 265 |    Yasaman Asgari, Armin Pournaki, Eckehard Olbrich and Felix Gaisbauer | Dynamic communities and engagement in public debate about Covid-19 in the German Twittersphere    |  online  |
 
