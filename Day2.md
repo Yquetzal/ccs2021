@@ -101,7 +101,7 @@ Panelists:
 | 185 |   Brian Hennessy and Malbor Asllani | Non-normality driven polarization in social dynamics   | onsite  |
 | 204 |   Silvia Magnanini, Federica Guazzoni, Daniel Trabucchi, Tommaso Buganza and Roberto Verganti | What is your tendency to converge in a flock? Assessing the convergent behaviour of individuals collaborating as a complex system through self-reported measure   | onsite  |
 | 161 |   Lilia Perfeito and Joana Goncalves-Sa | An evolutionary model for the spread of information on Twitter   | onsite  |
-| 297 |   Remi Perrier, Hendrik Schawe and Laura Hernandez | On the resilience of extremism: the heterogeneous Hegselmann-Krause model in networks   | online  |
+| 108 |    John Fitzgerald | Investigating the changing structure of research collaborations between institutions in Latin America & the Caribbean using multilayered networks    |  onsite  |
 
 ## Session 3.8: COVID-19 IV
 ### ROOM: Rhône 3A
