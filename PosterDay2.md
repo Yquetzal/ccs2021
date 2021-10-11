@@ -1,5 +1,4 @@
 # Tuesday, 26th October 2021
-### Poster Session P2
 Note that posters can be presented online and onsite. The mode of presentation change from one day to the other
 
 
