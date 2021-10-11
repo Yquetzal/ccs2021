@@ -237,7 +237,6 @@
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 | 151  |  Aniello Lampo, Javier Borge-Holthoefer, Sergio Gómez and Albert Solé-Ribalta | Emergence of Abrupt Phase Transitions in Urban Congestion Localization  | onsite |
-| 92  |  Ai Linh Nguyen, Wenyuan Liu, Khiam Aik Khor, Andrea Nanetti and Siew Ann Cheong | The emergence of graphene research topics through interactions within and beyond  | onsite |
 | 194  |  Diana L. Monroy and Gerardo G. Naumis | Description of mesoscale pattern formation in shallow convective cloud fields by using time-dependent Ginzburg-Landau and Swift-Hohenberg stochastic equations | onsite |
 | 140  |  Blas Kolic, Mateo Tonatiuh Rodríguez Cervantes, Pablo Padilla Longoria and Francis Knight | Rhythm and form in music: A complex systems approach  | online |
 | 142  |  Alberto Alcala and Pablo Padilla | A Proposal for Measuring and Visualizing Complexity of Musical Information Using Networks  | online |
