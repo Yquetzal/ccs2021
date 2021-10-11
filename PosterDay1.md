@@ -1,4 +1,6 @@
 # Monday, 25th October 2021
+Note that posters can be presented online and onsite. The mode of presentation change from one day to the other
+
 ## Online / onsite poster presentations
 | ID  | Authors | Title | Mode |
 | ---: | :----: | :------: | :----:	|
