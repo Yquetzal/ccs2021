@@ -36,12 +36,12 @@ Panelists:
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 2 |   Matthijs Koopmans | Fractal and Seasonal Patterns in Long-Range Time Series   | onsite  |
 | 77 |   Konstantin Avrachenkov, Maximilien Dreveton and Lasse Leskela | Estimation of static community memberships from multiplex and temporal network data   | onsite  |
 | 7 |   Timoteo Carletti and Riccardo Muolo | Turing Instability In Coupled Nonlinear Relativistic Heat Equations   | onsite  |
 | 9 |   Riccardo Muolo | Effects of non-normal networks on nonlinear dynamics   | onsite  |
 | 295 |   Remi Perrier, Yerali Gandica and Laura Hernandez | The consequences of hesitation: Axelrod model with intrinsic noise   | onsite  |
 | 21 |   Hildegard Meyer-Ortmanns and Maximilian Voit | Emerging criticality in heteroclinic dynamics   | onsite  |
+| 2 |   Matthijs Koopmans | Fractal and Seasonal Patterns in Long-Range Time Series   | online  |
 
 ## Session 3.3: Psychology, Neurosciences, Linguistics II
 ### ROOM: St Clair 4
