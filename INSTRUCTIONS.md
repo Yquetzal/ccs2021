@@ -21,6 +21,13 @@ All posters and video presentations should be submitted by following file naming
 
 ** As we are building a virtual space for the poster, it is important to leave us some time between this deadline and the event. **
 
+# Naming convention for submitted files, and for Subject field for email correspondence
+
+To be able to manage the large number of submitted files of presentations, we would like to ask to indicate the Presentation ID number for your talk (see program on the conference website) in the subject field of your email and ask all presenters to rename the submitted files as:
+
+*PresentationID_LastNameOfPresenter.pdf (or mp4 in case of video format)*
+
+
 # Satellite workshops
 There will be online and hybrid satellite workshops. Some online workshops will take place on the 22nd October, the last Friday before the week of the main conference. Other satellite workshops will be organized on the 27th and 28th October (Wednesday and Thursday, respectively). To follow the schedule and program of the workshops please visit their websites, whose list cna be found at: https://ccs2021.univ-lyon1.fr/#SATELLITES-PROGRAM
 
@@ -39,9 +46,6 @@ Web site : http://www.ccc-lyon.com/*
 
 Note that the venue cannot be entered without a green pass (https://www.gouvernement.fr/info-coronavirus/pass-sanitaire), and wearing masks will be mandatory during the event (except during catering sessions). Hand sanitizers will be provided at several locations at the venue.
 
-### *Subject field and naming convention for submitted files
-To be able to manage the large number of submitted files of presentations, we would like to ask to indicate the presentation ID of your talk (see program on the conference website) in the subject field of your email and ask all presenters to rename the submitted files as:
-
-*PresentationID_LastNameOfPresenter.pdf (or mp4 in case of video format)*
+# Further questions ?
 
 In case of any questions please do not hesitate to contact us via ccs2021organizers@gmail.com
