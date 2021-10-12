@@ -245,13 +245,14 @@ Panelists:
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 214 |    Bram Siebert and Malbor Asllani | Optimizing lock-down measures of epidemic spreading in mobility networks    |  onsite  |
 | 167 |    Viktoria Blavatska | Epidemic Spreading on Vaccinated Networks    |  onsite  |
 | 99 |    Samuel Heroy, Isabella Loaiza, Alex Pentland and Neave O'Clery | COVID-19 Policy Analysis: Labor structure dictates lockdown mobility behavior    |  onsite  |
 | 240 |    Marco Pangallo, Alberto Aleta, R. Maria del Rio-Chanona, Doyne Farmer, Francois Lafond, David Martin-Corral, Yamir Moreno, Esteban Moro, Anton Pichler and Alessandro Vespignani | Modeling the distributional epidemic-economic effects of the Covid-19 pandemic   |  onsite  |
 | 282 |    Daniel Rhoads, Albert Sole-Ribalta, Marta Gonzalez and Javier Borge-Holthoefer | A Sustainable Strategy for Open Streets in Post-Pandemic Cities    |  onsite  |
 | 175 |    Hadrien Salat, Anna Zanchetta, Fernando Benitez-Paez, Man Luo and Mark Birkin | National Scale Agent-Based Model for Epidemics    |  onsite  |
 | 329 |   Hao Cui and János Kertész | Attention dynamics on the Chinese social media Sina Weibo during the COVID-19 pandemic   | onsite  |
+| 214 |    Bram Siebert and Malbor Asllani | Optimizing lock-down measures of epidemic spreading in mobility networks    |  online  |
+
 
 ## Session 4.9: Methodology III
 ### ROOM: Rhône 4
