@@ -240,6 +240,8 @@
 | 194  |  Diana L. Monroy and Gerardo G. Naumis | Description of mesoscale pattern formation in shallow convective cloud fields by using time-dependent Ginzburg-Landau and Swift-Hohenberg stochastic equations | onsite |
 | 140  |  Blas Kolic, Mateo Tonatiuh Rodríguez Cervantes, Pablo Padilla Longoria and Francis Knight | Rhythm and form in music: A complex systems approach  | online |
 | 142  |  Alberto Alcala and Pablo Padilla | A Proposal for Measuring and Visualizing Complexity of Musical Information Using Networks  | online |
+|   | Canceled | Canceled  |  |
+
 
 
 # 18:00-20:00 Welcome reception
