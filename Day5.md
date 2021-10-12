@@ -37,11 +37,11 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 220 |    Linda Tillert, Luis Gomez-Nava and Pawel Romanczuk | The Role Of Speed Adaptation In Collective Motion    |  onsite  |
 | 70 |    The Anh Han, Tom Lenaerts, Francisco C. Santos and Luis Moniz Pereira | Voluntary safety commitments provide an escape from over-regulation in AI development    |  onsite  |
 | 328 |    Fabrizio Lombardi, Gasper Tkacik and Daniele De Martino | Emergent Dichotomy of Oscillations and Scale-free Avalanches in a Minimal Adaptive Neural Model near Criticality    |  onsite  |
 | 209 |    Akylas Fotiadis and Dimitrios Kugiumtzis | Information-based Estimation of Causality Networks from High Dimensional Multivariate Time Series    |  onsite  |
 | 79 |    Robin Delabays, Saber Jafarpour and Francesco Bullo | Flow Network Problems on the n-torus with Asymmetric Couplings    |  onsite  |
+| 220 |    Linda Tillert, Luis Gomez-Nava and Pawel Romanczuk | The Role Of Speed Adaptation In Collective Motion    |  online  |
 | 330 |    Loredana Bellantuono, Alfonso Monaco, Sabina Tangaro, Nicola Amoroso, Vincenzo Aquaro and Roberto Bellotti | An Equity-Oriented Rethink Of Global Rankings With Complex Networks Mapping Development    |  online  |
 
 ## Session 5.3: Psychology, Neurosciences, Linguistics III
