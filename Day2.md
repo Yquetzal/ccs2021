@@ -193,12 +193,12 @@ Panelists:
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 315 |    Renaud Bastien and Pawel Romanczuk | A model of collective behavior based purely on vision    |  onsite  |
 | 198 |    Matteo Di Volo, Goldobin Debnis and Alessandro Torcini | Emergence of collective oscillations in balanced neural networks due to endogeneous fluctuations    |  onsite  |
 | 120 |    Giorgio Nicoletti, Leonardo Saravia and Samir Suweis | Modeling The Emergence Of Scale-Free Fire Outbreaks In Australia    |  onsite  |
 | 93 |    Pachka Hammami, Stefan Widgren, Vladimir Grosbois, Andrea Apolloni, Nicolas Rose and Mathieu Andraud | Multi-levels Hepatitis E Virus Spread In Various Epidemiological Contexts: Combining Complex Network Analysis & Disease     |  onsite  |
 | 62 |    Zakariya Ghalmane, Bastien Mérigot, Roberto Interdonato, Dino Ienco and Pascal Poncelet | A new framework for measuring diversity in temporal ecological networks    |  onsite  |
 | 228 |    Manh Hong Duong and The Anh Han | Statistics of equilibria points in pairwise social dilemmas under replicator-mutator dynamics    |  onsite  |
+| 315 |    Renaud Bastien and Pawel Romanczuk | A model of collective behavior based purely on vision    |  online  |
 | 313 |    Parisa Rahmani, Fernando Peruani and Pawel Romanczuk | Flocking in complex environments-attention trade-offs in collective information processing    |  online  |
 
 ## Session 4.5: Social Complexity VI
