@@ -27,6 +27,7 @@ Note that posters can be presented online and onsite. The mode of presentation c
 | 118 |	Giorgio Nicoletti, Daniel Maria Busiello, Samir Suweis, Sandro Azaele and Amos Maritan | Disentangling Internal Interactions From Noisy Environments Through Mutual Information  |  online
 | 126 |	Samir Suweis | Neutral theory for competing attention in social networks  |  online
 | 130 |	Xiaohong Chen | More Complexity and Less Difficulty in Music Assisted Language Learning  |  online
+| 147 | Mariano Gastón Beiró, Ning Ning Chung, Lock-Yue Chew, Steve Lansing, Stefan Thurner and Yerali Gandica | Sign of a common pattern in social explosions | online |
 | 139 |	Theodor Cimpeanu, The Anh Han, Francisco C. Santos, Luís Moniz Pereira and Tom Lenaerts | Heterogeneous Interactions in Artificial Intelligence Development Races  |  online
 | 149 |	Tanushree Roy, Sudhanshu Shekhar Chaurasia, Punit Parmananda, José Manuel Cruz and Veronique Pimienta | Synchronized behavior of self-propelled Pentanol Drops  |  online
 | 159 |	Pradip Laha, S. Lakshmibala and V. Balakrishnan | Recurrence Network Analysis of the Dynamics of Quantum Observables: Comparison with Classical Dynamics  |  online
