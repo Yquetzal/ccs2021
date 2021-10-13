@@ -27,7 +27,7 @@
 | ---: | :----: | :------: | :----:	|
 |3| Sarika Jalan| Explosive synchronization in interlayer phase-shifted Kuramoto oscillators on multiplex networks| 	onsite  |
 |213 |	Malbor Asllani, Bram Siebert, Alex Arenas and James Gleeson|	 Symmetry-breaking Mechanism for the Formation of Cluster Chimera Patterns	| onsite	| 
-|181		|	Cedric Simal, Bram Siebert, Timoteo Carletti, James Gleeson and Malbor Asllani | Effects of local interactions in epidemics outbreaks in networks of structured populations|	onsite	|
+|181		|	Cedric Simal, Bram Siebert, Timoteo Carletti, James Gleeson and Malbor Asllani | Effects of local interactions in epidemics outbreaks in networks of structured populations|	online	|
 | 10| Riccardo Muolo, Joseph D. O'Brien, Timoteo Carletti, James Gleeson and Malbor Asllani | Synchronization dynamics in real-world networks	|	onsite |	
 | 96| Leah A. Keating, James P. Gleeson and David J.P. O'Sullivan | A Multi-Type Branching Process Method for Modelling Complex Contagion on Clustered Networks		|	onsite |	
 | 123| Marta Tuninetti, Alberto Aleta, Daniela Paolotti, Yamir Moreno and Michele Starnini | Prediction of New Scientific Collaborations Through Multiplex Networks	|	online |	
