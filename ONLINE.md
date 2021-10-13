@@ -19,6 +19,7 @@ You can join it at any time, however you can expect to encounter the most people
 ###Parallel Sessions:
 
 |D1|D2|D5|
+| ---: | :----: | :------: |
 |Session 1.1: Foundations of Complex Systems I|...|...|
 |Session 1.2: Foundations of Complex Systems II|...|...|
 |Session 1.3: Economics and Finance I|...|...|
