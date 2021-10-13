@@ -111,7 +111,7 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 135 |    Jesús Arturo Moreno López, Alberto Hernando, Sandro Meloni and José Javier Ramasco Sukia | Critical Interventions: Mobility-Based Thresholds for Epidemic Containment.    |  onsite  |
+| 135 |    Jesús Arturo Moreno López, Alberto Hernando, Sandro Meloni and José Javier Ramasco Sukia | Critical Interventions: Mobility-Based Thresholds for Epidemic Containment.    |  online  |
 | 117 |    Lalita Meena, Carissa Kwan, Ajay Gupta and Christopher Woloshyn | Developing a Business Risk Index for COVID-19 Transmission based on Mobility Networks    |  onsite  |
 | 14 |    Giulia Cencetti, Gabriele Santin, Antonio Longa, Emanuele Pigani, Alain Barrat, Ciro Cattuto, Sune Lehmann, Marcel Salathe and Bruno Lepri | Digital proximity tracing on empirical contact networks for pandemic control    |  onsite  |
 | 83 |    Chiara Elisa Sabbatini, Laura Di Domenico, Pierre-Yves Boelle, Chiara Poletto, Pascal Crepey, Juliette Paireau, Simon Cauchemez, Francois Beck, Harold Noel, Daniel Levy-Bruhl and Vittoria Colizza | Adherence and sustainability of interventions informing optimal control against COVID-19 pandemic   |  onsite  |
