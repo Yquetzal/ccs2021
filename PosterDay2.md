@@ -30,6 +30,7 @@ Note that posters can be presented online and onsite. The mode of presentation c
 | 126 |	Samir Suweis | Neutral theory for competing attention in social networks  |  onsite
 | 130 |	Xiaohong Chen | More Complexity and Less Difficulty in Music Assisted Language Learning  |  onsite
 | 139 |	Theodor Cimpeanu, The Anh Han, Francisco C. Santos, Luís Moniz Pereira and Tom Lenaerts | Heterogeneous Interactions in Artificial Intelligence Development Races  |  onsite
+| 147 | Mariano Gastón Beiró, Ning Ning Chung, Lock-Yue Chew, Steve Lansing, Stefan Thurner and Yerali Gandica | Sign of a common pattern in social explosions | onsite |
 | 149 |	Tanushree Roy, Sudhanshu Shekhar Chaurasia, Punit Parmananda, José Manuel Cruz and Veronique Pimienta | Synchronized behavior of self-propelled Pentanol Drops  |  onsite
 | 159 |	Pradip Laha, S. Lakshmibala and V. Balakrishnan | Recurrence Network Analysis of the Dynamics of Quantum Observables: Comparison with Classical Dynamics  |  onsite
 | 164 |	Yohei Shida, Jun’ichi Ozaki, Hideki Takayasu and Misako Takayasu | Derivation of the potential field of collective human flow as an analogy of electric circuits  |  onsite
