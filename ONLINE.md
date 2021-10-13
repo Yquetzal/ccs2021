@@ -17,6 +17,7 @@ You can join it at any time, however you can expect to encounter the most people
 ##Quick Access to Zoom sessions:
 
 ###Parallel Sessions:
+
 |D1|D2|D5|
 |Session 1.1: Foundations of Complex Systems I|...|...|
 |Session 1.2: Foundations of Complex Systems II|...|...|
