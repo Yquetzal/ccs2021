@@ -225,11 +225,11 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 40  |  Bosiljka Tadic and Roderick Melnik | High-resolution stochastic dynamics underlying SARS-CoV-2 infection transmission and evolution  | online |
 | 323  |  Taras Patsahan and Jaroslav Ilnytskyi | Modeling the Spatiotemporal Spread of the COVID-19 in an Urban Area  | onsite |
 | 342  |  Alexandre Nicolas, Willy Garcia, Baptiste Fray and Simon Mendez | Field study of the network of interactions between pedestrians and associated risks of viral spread in non-confined crowds  | onsite |
 | 107  |  Alessandro Pluchino, Martina Fazio, Giuseppe Inturri, Michela Le Pira, Nadia Giuffrida and Matteo Ignaccolo | Exploring the impact of mobility restrictions on the COVID-19 spreading through an agent-based approach  | onsite |
 | 280  |  Takayuki Hiraoka, Mikko Kivelä and Jari Saramäki | Vaccination strategies for minimizing the number of deaths from emerging diseases  | onsite |
+| 40  |  Bosiljka Tadic and Roderick Melnik | High-resolution stochastic dynamics underlying SARS-CoV-2 infection transmission and evolution  | online |
 
 ## Session 2.9: Transdisciplinary and Applied Complex Systems I
 ### ROOM: St Clair 3B
