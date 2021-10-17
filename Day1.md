@@ -172,9 +172,9 @@
 | ---: | :----: | :------: | :----:	|
 | 58  |  Luis F Seoane, Victor Eguiluz and Lluis Barcelo-Coblijn | Typical and Atypical Development in a Morphospace of Syntax Networks  | onsite |
 | 233  |  Ivan G. Torre, Antoni Hernandez, Bartolo Luque, Lucas Lacasa and C. T. Kello | Linguistic laws in speech  | onsite |
-| 169  |  Massimo Stella, Trevor James Swanson, Ying Li, Szymon Talaga, Thomas Hills and Andreia Sofia Teixeira | Assessing the emotional structure of suicide letters and healthy recollections with cognitive network science  | onsite |
 | 162  |  Paweł Oświęcimka, Anna Ceglarek, Jeremi Ochab and Marcin Wątorek | Correlation Structure Between Brain Regions in Working-memory Tasks: fMRI Fractal and Spectral Analysis  | onsite |
 | 211  |  Ioannis Vlachos, Dimitris Kugiumtzis and Vasilios Kimiskidis | TMS-induced brain connectivity modulation in Genetic Generalized Epilepsy  | onsite |
+| 169  |  Massimo Stella, Trevor James Swanson, Ying Li, Szymon Talaga, Thomas Hills and Andreia Sofia Teixeira | Assessing the emotional structure of suicide letters and healthy recollections with cognitive network science  | online |
 
 ## Session 2.4: Infrastructure, Planning and Environment II
 ### ROOM: St Clair 4
