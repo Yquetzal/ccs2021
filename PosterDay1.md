@@ -7,7 +7,6 @@ Note that posters can be presented online and onsite. The mode of presentation c
 | 4 |	Raphael Aybar | Predictive Processing as a Cybernetic model of Cognition  |  online
 | 13 |	Simone Righi, Shirsendu Podder and Francesca Pancotto | Reputation and punishment sustain cooperation in the Optional Public Goods Game  |  online
 | 34 |	Jisu Kim, Alina Sîrbu, Giulio Rossetti and Fosca Giannotti | Characterising different communities of Twitter users: Migrants and natives  |  online
-| 39 |	Siew Ann Cheong, Peter Tsung-Wen Yen and Kelin Xia | Topological and Ricci Curvature Analysis of Stock Market Crashes  |  online
 | 44 |	Tanu Raghav and Sarika Jalan | Random Matrix Analysis Of Multiplex Networks  |  online
 | 48 |	Gil Ariel | Self-driven criticality in a stochastic epidemic model  |  online
 | 51 |	Chavalarias David, Lobbé Quentin and Delanoë Alexandre | Multi-level and Multi-scale Reconstruction of Knowledge Dynamics with Phylomemies  |  online
