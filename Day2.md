@@ -75,7 +75,6 @@ Panelists:
 | 271 |   Johan Dubbeldam, Carsten van de Kamp, George Dadunashvili and Timon Idema | Emergent Order in a Continuous State Adaptive Network Model of Living Systems   | onsite  |
 | 234 |   Victor Boussange and Loic Pellissier | Graph topology and habitat assortativity drive phenotypic differentiation in an eco-evolutionary model   | onsite  |
 | 113 |   Guillaume Beslon, Vincent Liard and Jonathan Rouzaud-Cornabas | The complexity ratchet   | onsite  |
-| 343 |   Luis Olivares-Quiroz and Gabriel Aguilar Pineda | Catalytic and binding sites prediction in globular proteins via discrete Markov chains and network centrality measures   | onsite  |
 | 155 |   Alexander Gates, Rion Brattig Correia, Xuan Wang and Luis M. Rocha | The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling   | onsite  |
 | 173 |   Lena Takayasu | The laws behind the temporal change of gut microbiome   | online  |
 
