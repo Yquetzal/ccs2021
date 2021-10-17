@@ -148,9 +148,9 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
+| 207  |  Maria Papapetrou, Elsa Siggiridou and Dimitris Kugiumtzis | Information-based Granger Causality in High-Dimensional Discrete Time Series and Application to World Financial Markets  | onsite |
 | 148  |  Vasundhara Rathore, Ajaydeep Kachhvah and Sarika Jalan | Inhibition Induced Explosive Synchronization In Multiplex Networks  | onsite |
 | 112  |  Chris Jones and Karoline Wiesner | Clarifying the Link Between Degree Entropies, Degree-Degree Correlations and Robustness of Complex Networks  | onsite |
-| 207  |  Maria Papapetrou, Elsa Siggiridou and Dimitris Kugiumtzis | Information-based Granger Causality in High-Dimensional Discrete Time Series and Application to World Financial Markets  | onsite |
 | 30  |  Barbara Benigni, Riccardo Gallotti and Manlio De Domenico | Potential-driven random walks on complex networks  | onsite |
 | 41  |  Hugo Hourcade, Fatemeh Hamissi, Cedric Miachon and Binh-Minh Bui-Xuan | Behaviour Recognition Algorithms In Temporal Graphs  | online |
 
@@ -171,10 +171,10 @@
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 | 58  |  Luis F Seoane, Victor Eguiluz and Lluis Barcelo-Coblijn | Typical and Atypical Development in a Morphospace of Syntax Networks  | onsite |
-| 211  |  Ioannis Vlachos, Dimitris Kugiumtzis and Vasilios Kimiskidis | TMS-induced brain connectivity modulation in Genetic Generalized Epilepsy  | onsite |
 | 233  |  Ivan G. Torre, Antoni Hernandez, Bartolo Luque, Lucas Lacasa and C. T. Kello | Linguistic laws in speech  | onsite |
 | 169  |  Massimo Stella, Trevor James Swanson, Ying Li, Szymon Talaga, Thomas Hills and Andreia Sofia Teixeira | Assessing the emotional structure of suicide letters and healthy recollections with cognitive network science  | onsite |
 | 162  |  Paweł Oświęcimka, Anna Ceglarek, Jeremi Ochab and Marcin Wątorek | Correlation Structure Between Brain Regions in Working-memory Tasks: fMRI Fractal and Spectral Analysis  | onsite |
+| 211  |  Ioannis Vlachos, Dimitris Kugiumtzis and Vasilios Kimiskidis | TMS-induced brain connectivity modulation in Genetic Generalized Epilepsy  | onsite |
 
 ## Session 2.4: Infrastructure, Planning and Environment II
 ### ROOM: St Clair 4
