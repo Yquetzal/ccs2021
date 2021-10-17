@@ -77,6 +77,7 @@ Panelists:
 | 113 |   Guillaume Beslon, Vincent Liard and Jonathan Rouzaud-Cornabas | The complexity ratchet   | onsite  |
 | 155 |   Alexander Gates, Rion Brattig Correia, Xuan Wang and Luis M. Rocha | The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling   | onsite  |
 | 173 |   Lena Takayasu | The laws behind the temporal change of gut microbiome   | online  |
+|  |   CANCELED | CANCELED  |   |
 
 ## Session 3.6: Social complexity IV
 ### ROOM: Auditorium
