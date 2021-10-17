@@ -84,7 +84,8 @@
         "pic": "people-pics/garcia.jpg",
         "website": "https://manuelherranz.com",
         "twitter": "",
-        "BIO":"I am currently the chief scientist at UNICEF Office of Innovation (NY). Previously I’ve worked as assistant professor with the Department of Computer Science of the Universidad Autónoma de Madrid (Spain) from which I received a Ph.D. in CS in 2009.<br><br>I am deeply interested in human behavior and dynamics, particularly in the study of computational social networks, complex systems and behavioral dynamics and in how new types of data and analysis can be used for human development, to reach the hardest to reach and provide humanitarian awareness of places in which traditionally there is little or none."
+        "BIO":"I am currently the chief scientist at UNICEF Office of Innovation (NY). Previously I’ve worked as assistant professor with the Department of Computer Science of the Universidad Autónoma de Madrid (Spain) from which I received a Ph.D. in CS in 2009.<br><br>I am deeply interested in human behavior and dynamics, particularly in the study of computational social networks, complex systems and behavioral dynamics and in how new types of data and analysis can be used for human development, to reach the hardest to reach and provide humanitarian awareness of places in which traditionally there is little or none.",
+                        "abstract":"<h3>Towards Complexity Science for Humanitarian and Development work</h3>"   
       },
       {
         "name": "Irene Giardina",
@@ -137,9 +138,6 @@
         "twitter": "",
         "BIO":"Petra Vertes is an MQ fellow at the University of Cambridge. <br><br>She gained her MSci in theoretical physics and a PhD in artificial neural networks from the University of Cambridge. She then moved to the Brain Mapping Unit in the Department of Psychiatry for her postdoctoral work. <br><br>In 2014 she was awarded an MRC fellowship in bioinformatics, followed by an MQ fellowship in 2018. <br><br>Petra is also one of the co-founders and organisers of the Cambridge Networks Network (CNN) - a forum of over 450 academics across different disciplines who share an interest in network science (http://www.cnn.group.cam.ac.uk/).",
                 "abstract":"<h3>Layers of complexity in network neuroscience</h3>"
-
-        
-
       },
       {
         "name": "Thierry Walzer",
