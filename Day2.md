@@ -24,8 +24,8 @@ Panelists:
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 66 |   Julian Fritzsch | Long Wavelength Coherence in Well-Connected Power Grids   | onsite  |
 | 168 |   Tiago Simas, Rion Brattig Correia and Luis M. Rocha | The distance backbone of complex networks   | onsite  |
+| 66 |   Julian Fritzsch | Long Wavelength Coherence in Well-Connected Power Grids   | onsite  |
 | 325 |   Magda Cardoso, Leandro Magno Correia da Silva, Roberto Ribeiro Neli and Wyrllen Everson Soouza | Universal Relation for Electorate Involvement Disorder Amplitude in Second Round of Brazilian Presidential Election   | onsite  |
 | 292 |   Lucia Soledad Ramirez, Maxi San Miguel and Tobias Galla | Ordering Dynamics and the Path to Consensus in Multi-State Voter Models  | onsite  |
 | 249 |   Sneha Srikanth, Samadhan A. Pawar, Krishna Manoj and R. I. Sujith | Suppression of Thermoacoustic Oscillations through Self-Coupling   | online  |
@@ -75,8 +75,8 @@ Panelists:
 | 271 |   Johan Dubbeldam, Carsten van de Kamp, George Dadunashvili and Timon Idema | Emergent Order in a Continuous State Adaptive Network Model of Living Systems   | onsite  |
 | 234 |   Victor Boussange and Loic Pellissier | Graph topology and habitat assortativity drive phenotypic differentiation in an eco-evolutionary model   | onsite  |
 | 113 |   Guillaume Beslon, Vincent Liard and Jonathan Rouzaud-Cornabas | The complexity ratchet   | onsite  |
-| 155 |   Alexander Gates, Rion Brattig Correia, Xuan Wang and Luis M. Rocha | The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling   | onsite  |
 | 343 |   Luis Olivares-Quiroz and Gabriel Aguilar Pineda | Catalytic and binding sites prediction in globular proteins via discrete Markov chains and network centrality measures   | onsite  |
+| 155 |   Alexander Gates, Rion Brattig Correia, Xuan Wang and Luis M. Rocha | The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling   | onsite  |
 | 173 |   Lena Takayasu | The laws behind the temporal change of gut microbiome   | online  |
 
 ## Session 3.6: Social complexity IV
