@@ -88,6 +88,7 @@ Panelists:
 | 163 |   Gabriele Di Bona, Enrico Ubaldi, Iacopo Iacopini, Bernardo Monechi, Vito Latora and Vittorio Loreto | How social interactions influence the discovery of novel music in online platforms   | onsite  |
 | 33 |   Stephany Rajeh, Marinette Savonnet, Eric Leclercq and Hocine Cherifi | A comparison of community-aware centrality measures in online social networks   | online  |
 | 176 |   Masashi Shiraishi, Osamu Yamanaka and Hiraku Nishimori | Effect of Interaction Network Structure in Response Threshold Model on Task Allocation   | online  |
+|  |   CANCELED | CANCELED  |   |
 
 ## Session 3.7: Social complexity V
 ### ROOM: Rhône 3B
