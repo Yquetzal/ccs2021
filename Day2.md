@@ -83,7 +83,6 @@ Panelists:
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 184 |   Dries Daems | A new framework for understanding resilience and change in long-term trajectories of social complexity using archaeological data   | onsite  |
 | 105 |   Antoine Lucquiaud and Julien Randon-Furling | Analytical Derivations of Critical Tolerance Thresholds in the Schelling Model   | onsite  |
 | 218 |   Guillermo Romero Moreno, Sukankana Chakraborty and Markus Brede | Shadowing and shielding: Effective heuristics for continuous influence maximisation in the voting dynamics   | onsite  |
 | 163 |   Gabriele Di Bona, Enrico Ubaldi, Iacopo Iacopini, Bernardo Monechi, Vito Latora and Vittorio Loreto | How social interactions influence the discovery of novel music in online platforms   | onsite  |
