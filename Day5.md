@@ -54,7 +54,7 @@
 | 293 |    Jaroslav Hlinka, Luigi Caputi and Anna Pidnebesna | Directed Persistent Homology: testing sensitivity to brain network disorders    |  onsite  |
 | 223 |    Angelo Piga, Marta Sales-Pardo and Roger Guimera  | Tracking the evolution of topics in text corpora: a quantitative approach    |  onsite  |
 | 205 |    Lluc Font, Angelo Piga, Marta Sales-Pardo, Roger Guimera  and Sergio Nasarre-Aznar | Quantitative methods for the analysis of judicial decisions    |  onsite  |
-| 332 |    Irene Ferri, Emanuele Cozzo, Albert Diaz-Guilera and Luce Prignano | A bounded confidence model of emotionally aroused integrate and fire oscillators.    |  online  |
+| 332 |    Irene Ferri, Emanuele Cozzo, Albert Diaz-Guilera and Luce Prignano | A bounded confidence model of emotionally aroused integrate and fire oscillators.    |  onsite  |
 
 ## Session 5.4: Economics and Finance IV
 ### ROOM: St Clair 3B
