@@ -155,11 +155,11 @@ Panelists:
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 | 114 |    Georgi Georgiev and Travis Butler | Self-Organization In Stellar Evolution: Size-Complexity and Rate-Complexity Rules    |  onsite  |
-| 277 |    Arash Roostaei, Hadi Barzegar and Fakhteh Ghanbarnejad | Hopf bifurcation in SIHR dynamics    |  onsite  |
 | 6 |    Geza Odor and de Simoni Beatriz | Heterogeneous excitable systems exhibit Griffiths phases below hybrid phase transitions    |  onsite  |
 | 341 |    Fausti Giordano, Elsen Tjhung, Michael Cates and Cesare Nardini | Capillary interfacial tension in active phase separation    |  onsite  |
 | 17 |    Karel Devriendt, Samuel Martin-Gutierrez and Renaud Lambiotte | Variance and covariance of distributions on graphs    |  onsite  |
 | 101 |    Mousumi Roy, Swarup Poria and Chittaranjan Hens | Explosive synchronization in assortative neuronal network    |  onsite  |
+| 277 |    Arash Roostaei, Hadi Barzegar and Fakhteh Ghanbarnejad | Hopf bifurcation in SIHR dynamics    |  online  |
 | 298 |    Eric Peña and Hiroki Sayama | Life Worth Mentioning: Complexity in Life-Like Cellular Automata    |  online  |
 
 ## Session 4.2: Foundations of Complex Systems VIII
