@@ -122,7 +122,7 @@ Panelists:
 | ---: | :----: | :------: | :----:	|
 | 61 |   Eugenio Dacrema and Antonio Zotti | Modelling IR: An Agent-Based Model Approach to The Emergence of International Orders   | onsite  |
 | 226 |   Giuseppe Torrisi, Reimer Kuhn and Alessia Annibale | Unlocking heterogeneous node activation in Boolean networks through dynamic programming   | onsite  |
-| 141 |   Blas Kolic | Microstates estimation from noisy macro data using localised ensemble Kalman filters   | onsite  |
+| 141 |   Blas Kolic | Latent state estimation using localised ensemble Kalman filters  | onsite  |
 | 263 |   Carlo Campajola, Domenico Di Gangi, Fabrizio Lillo and Daniele Tantari | Modelling Time-Varying Interactions in Complex Systems: the Score-Driven Kinetic Ising Model   | onsite  |
 | 288 |   Maria Palazzi, Albert Sole and Javier Borge-Holthoefer | On the use of Null Models to Assess Statistical Significance in Bipartite Networks   | onsite  |
 | 178 |   Samuel Johnson, Dana Warmsley and Charles Martin | Mitigating Limited Observability via Proxy Utilities in Game Theoretic Control   | onsite  |
