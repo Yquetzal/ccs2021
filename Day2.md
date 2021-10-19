@@ -211,8 +211,8 @@ Panelists:
 | 133 |    Buddhika Nettasinghe, Nazanin Alipourfard, Vikram Krishnamurthy and Kristina Lerman | Emergence of Structural Inequalities in Scientific Citation Networks    |  onsite  |
 | 217 |    María J. Palazzi, Carlos Plata, Violeta Calleja, Sandro Meloni, Albert Sole, Samir Suweis and Javier Borge-Holthoefer | An Ecological Approach to Structural Flexibility in Online Communication Systems.    |  onsite  |
 | 337 |    Emma Zajdela, Daniel Abrams, Andrew Feig and Richard Wiener | Catalyzing Collaborations: A Model for the Dynamics of Team Formation at Conferences    |  onsite  |
-| 219 |    Pietro Gravino, Giulio Prevedello, Martina Galletti and Vittorio Loreto | Assessing disinformation through the dynamics of supply and demand in the news ecosystem    |  onsite  |
 | 243 |    Andrea Civilini, Nejat Anbarci and Vito Latora | Evolutionary game model of risk propensity in group decision making    |  onsite  |
+| 219 |    Pietro Gravino, Giulio Prevedello, Martina Galletti and Vittorio Loreto | Assessing disinformation through the dynamics of supply and demand in the news ecosystem    |  online  |
 
 ## Session 4.6: Social complexity VII
 ### ROOM: St Clair 4
