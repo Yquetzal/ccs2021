@@ -58,7 +58,6 @@ Note that posters can be presented online and onsite. The mode of presentation c
 | 312 |	Rabindev Bishal, Gabriel Mindlin and Neelima Gupte | A recurrence study of the effects of early vocal development on the birdsong of a juvenile canary   |  onsite
 | 314 |	Marcela Lopes Alves and Odemir Martinez Bruno | Measuring Randomness Quality Applying Complex Networks and Computational Geometry   |  onsite
 | 327 |	Thi Kim Nhung Dang, Doina Bucur, Berk Atıl, Guillaume Pitel, Frank Ruis and Nelly Litvak | Prediction of New Outlinks on the World Wide Web   |  onsite
-| 331 |	Mikhail Sirenko, Raphael Klein and Daniel Teodoro Morales | Keeping The City Going: How The Most Vulnerable Helped The Hague Get Through The Pandemic   |  onsite
 | 340 |	Gautam Thakur | Similarity in Place-based Networks Through a Rural-Urban Perspective   |  onsite
 | 346 |	Nishit Narang | Overlapping Community Detection in Temporal Text Networks   |  onsite
 | 347 |	Juste Raimbault | Morphogenesis, Evolution and Co-evolution of Cities   |  onsite
