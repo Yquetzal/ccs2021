@@ -9,7 +9,8 @@
         "website": "https://collectivebehaviour.com/people/couzin-iain/",
         "abstract":"<h3>The Geometry of Decision Making</h3>",
         "twitter": "",
-        "BIO":"Iain Couzin is Director of the Max Planck Institute of Animal Behavior in Konstanz, Germany. <br><br>Previously he was an Assistant- and then Full-Professor in the Department of Ecology and Evolutionary Biology at Princeton University, and prior to that a Royal Society University Research Fellow in the Department of Zoology, University of Oxford, and a Junior Research Fellow in the Sciences at Balliol College, Oxford. <br><br>His work aims to reveal the fundamental principles that underlie evolved collective behavior, and consequently his research includes the study of a wide range of biological systems, from neural collectives to insect swarms, fish schools and primate groups. <br><br>In recognition of his research he has been recipient of the Searle Scholar Award in 2008, top 5 most cited papers of the decade in animal behavior research 1999-2010, the Mohammed Dahleh Award in 2009, Popular Science's Brilliant 10 Award in 2010, National Geographic Emerging Explorer Award in 2012, the Scientific Medal of the Zoological Society of London in 2013, Web of Science Global Highly Cited Researcher in 2018, 2019 and 2020, and the Lagrange Prize for his contributions to complexity science in 2019."
+        "BIO":"Iain Couzin is Director of the Max Planck Institute of Animal Behavior in Konstanz, Germany. <br><br>Previously he was an Assistant- and then Full-Professor in the Department of Ecology and Evolutionary Biology at Princeton University, and prior to that a Royal Society University Research Fellow in the Department of Zoology, University of Oxford, and a Junior Research Fellow in the Sciences at Balliol College, Oxford. <br><br>His work aims to reveal the fundamental principles that underlie evolved collective behavior, and consequently his research includes the study of a wide range of biological systems, from neural collectives to insect swarms, fish schools and primate groups. <br><br>In recognition of his research he has been recipient of the Searle Scholar Award in 2008, top 5 most cited papers of the decade in animal behavior research 1999-2010, the Mohammed Dahleh Award in 2009, Popular Science's Brilliant 10 Award in 2010, National Geographic Emerging Explorer Award in 2012, the Scientific Medal of the Zoological Society of London in 2013, Web of Science Global Highly Cited Researcher in 2018, 2019 and 2020, and the Lagrange Prize for his contributions to complexity science in 2019.",
+        "abstract":"<h3>The Geometry of Decision Making</h3>"
       },
       {
         "name": "Henk Dijkstra",
@@ -68,6 +69,7 @@
         "website": "https://ece.iisc.ac.in/~spchepuri",
         "twitter": "",
         "sponsor":"Talk sponsored by Capital Fund Management ",
+        "abstract":"<h3>Powerful Graph Neural Networks with Parallel Local Aggregations</h3>",
         "BIO":"I received the M.Sc. degree (cum laude) in Electrical Engineering and the Ph.D. degree (cum laude) from TU Delft, in July 2011 and January 2016, respectively. <br><br>Currently, I am an Assistant Professor at the Electrical Communication Engineering department at IISc. I was an Associate Editor of the EURASIP Journal on Advances in Signal Processing (2016 - 2020). <br><br>I am an elected member of the IEEE SPS Society's Sensor Array and Multichannel Technical Committee (2021 - ) and EURASIP Signal Processing for Multisensor Systems’ Special Area Team (2019 - ).<br><br>My research interests include mathematical signal processing, statistical inference and learning, applied to communication systems, network sciences, and computational imaging. The main themes of my research are computational sensing, sparse sampling, signal processing and machine learning for communications, graph signal processing, and machine learning over graphs."
       },
       {
@@ -76,6 +78,7 @@
         "pic": "people-pics/colizza.jpg",
         "website": "https://www.epicx-lab.com/vittoria-colizza.html",
         "twitter": "",
+        "abstract":"<h3>Infectious disease modeling informing policies against COVID-19 pandemic</h3>",
         "BIO":"Vittoria Colizza completed her undergraduate studies in Physics at the University of Rome Sapienza, Italy, in 2001 and received her PhD in Statistical and Biological Physics at the International School for Advanced Studies in Trieste, Italy, in 2004. She then spent 3 years at the Indiana University School of Informatics in Bloomington, IN, USA, first as a post-doc and then as a Visiting Assistant Professor. <br><br>In 2007 she joined the ISI Foundation in Turin, Italy, where she started a new lab after being awarded a Starting Independent Career Grant in Life Sciences by the European Research Council Ideas Program (more info on the EpiFor project webpage).<br><br> In 2011 Vittoria joined the INSERM (French National Institute for Health and Medical Research) in Paris where she leads the EPIcx lab within the Equipe 1 Surveillance and modeling of communicable diseases of the Pierre Louis Institute of Epidemiology and Public Health (IPLESP). <br><br>She works on the characterization and modeling of the spread of emerging infectious diseases, by integrating methods of complex systems with statistical physics approaches, computational sciences, geographic information systems, and mathematical epidemiology. <br><br>In 2017 she was promoted Research Director at INSERM. <br><br>Since 2020, she is also Visiting Professor at Tokyo Institute of Technology."
       },
       {
@@ -94,7 +97,9 @@
         "website": "http://chimera.roma1.infn.it/IRENE/",
         "twitter": "",
         "sponsor":"Talk sponsored by Springer Complexity Lecture",
-        "BIO":"Irene Giardina is Associate Professor of theoretical physics at the Department of Physics, Sapienza University of Rome. <br><br>She received her M.S. in 1994 from the University of Pavia and her Ph.D. in 1998 from the Sapienza University of Rome. After postdoctoral stays at the Department of Theoretical Physics, Oxford and at Institut de Physique Théorique, CEA Saclay, she moved to the Institute for Complex Systems, CNR in Rome. In 2013 she joined the faculty of the Department of Physics, Sapienza, where she currently coordinates the Master program in Biophysics.  <br><br>After working for several years on the statistical physics of glassy behavior, Dr Giardina's research focused on the physics of biological systems. In 2005 she founded with Andrea Cavagna the COBBS lab (Collective Behavior in Biological Systems), the first lab to collect 3D large-scale experimental data in the field on flocking and swarming behavior, and to build theory starting directly from the data. <br><br>In her research, she applies a statistical physics approach to understand how collective behavior emerges in animal groups and – more broadly – in biological systems. <br><br>In 2021 she was awarded, together with A. Cavagna, the Delbruck prize in Biological Physics of the American Physical Society."
+        "BIO":"Irene Giardina is Associate Professor of theoretical physics at the Department of Physics, Sapienza University of Rome. <br><br>She received her M.S. in 1994 from the University of Pavia and her Ph.D. in 1998 from the Sapienza University of Rome. After postdoctoral stays at the Department of Theoretical Physics, Oxford and at Institut de Physique Théorique, CEA Saclay, she moved to the Institute for Complex Systems, CNR in Rome. In 2013 she joined the faculty of the Department of Physics, Sapienza, where she currently coordinates the Master program in Biophysics.  <br><br>After working for several years on the statistical physics of glassy behavior, Dr Giardina's research focused on the physics of biological systems. In 2005 she founded with Andrea Cavagna the COBBS lab (Collective Behavior in Biological Systems), the first lab to collect 3D large-scale experimental data in the field on flocking and swarming behavior, and to build theory starting directly from the data. <br><br>In her research, she applies a statistical physics approach to understand how collective behavior emerges in animal groups and – more broadly – in biological systems. <br><br>In 2021 she was awarded, together with A. Cavagna, the Delbruck prize in Biological Physics of the American Physical Society.",
+                                "abstract":"<h3>Collective behavior in animal groups: a statistical physics perspective </h3>"   
+
       },
       {
         "name": "Eric D. Kolaczyk",
@@ -103,7 +108,9 @@
         "website": "http://sites.bu.edu/kolaczyk/",
         "twitter": "",
         "sponsor": "Talk sponsored by Mathematics Journal",
-        "BIO":"Eric Kolaczyk is a Professor of Statistics, in the Department of Mathematics and Statistics, a founding member of the Faculty of Computing and Data Sciences, and Director of the Hariri Institute for Computing at Boston University. <br><br>He is also affiliated with the Division of Systems Engineering, the Programs in Bioinformatics and in Computational Neuroscience, and the BU URBAN program.  <br><br> His research is focused at the point where statistical theory and methods support human endeavors enabled by computing and engineered systems, frequently from a network-based perspective of systems science. <br><br> He develops novel methodologies for design, representation, modeling, inference, prediction, and uncertainty quantification foundational to new paradigms for data measurement and analysis. <br><br> He has published nearly 100 articles, including several books on the topic of network analysis. As an associate editor, he has served on the boards of JASA and JRSS-B in statistics, IEEE IP and TNSE in engineering, and SIMODS in mathematics. <br><br> He formerly served as co-chair of the NAS Roundtable on Data Science Education. He is an elected fellow of the AAAS, ASA, and IMS, an elected senior member of the IEEE, and an elected member of the ISI."
+        "BIO":"Eric Kolaczyk is a Professor of Statistics, in the Department of Mathematics and Statistics, a founding member of the Faculty of Computing and Data Sciences, and Director of the Hariri Institute for Computing at Boston University. <br><br>He is also affiliated with the Division of Systems Engineering, the Programs in Bioinformatics and in Computational Neuroscience, and the BU URBAN program.  <br><br> His research is focused at the point where statistical theory and methods support human endeavors enabled by computing and engineered systems, frequently from a network-based perspective of systems science. <br><br> He develops novel methodologies for design, representation, modeling, inference, prediction, and uncertainty quantification foundational to new paradigms for data measurement and analysis. <br><br> He has published nearly 100 articles, including several books on the topic of network analysis. As an associate editor, he has served on the boards of JASA and JRSS-B in statistics, IEEE IP and TNSE in engineering, and SIMODS in mathematics. <br><br> He formerly served as co-chair of the NAS Roundtable on Data Science Education. He is an elected fellow of the AAAS, ASA, and IMS, an elected senior member of the IEEE, and an elected member of the ISI.",
+     "abstract":"<h3>Accounting for Network Noise: Counting, Epidemic Control, and Experiments </h3>"   
+
       },
       {
         "name": "Alessia Melegaro",
@@ -111,7 +118,10 @@
         "pic": "people-pics/melegaro.jpg",
         "website": "http://didattica.unibocconi.eu/docenti/cv.php?rif=92665",
         "twitter": "",
-              "BIO":""  
+              "BIO":"",
+             "abstract":"<h3>The role of demographic structure and social contact patterns in an uncontrolled SARS-CoV-2 pandemic</h3>"   
+
+        
       },
       {
         "name": "Daniela Paolotti ",
@@ -120,7 +130,9 @@
         "website": "https://danielapaolotti.squarespace.com",
         "twitter": "",
         "sponsor": "Talk Sponsored by Springer Complexity Lecture",
-        "BIO":"Dr. Daniela Paolotti (F) has a background in Physics (Bsc, MSc, Ph.D.). <br><br>She is a Senior Research Scientist at ISI Foundation in Turin, Italy. Her work has a strong interdisciplinary approach. For more than ten years, she has been working on applying tools from complex systems and networks science, applied mathematics, computer science, data science, behavioral sciences to study infectious disease spreading. <br><br>Since 2008, she has been developing and coordinating a Europe-wide network of Web-based platforms for participatory surveillance of Influenza-like Illness. <br><br>More recently, at ISI she has co-founded a research area devoted to themes related to Data Science and Social Impact."
+        "BIO":"Dr. Daniela Paolotti (F) has a background in Physics (Bsc, MSc, Ph.D.). <br><br>She is a Senior Research Scientist at ISI Foundation in Turin, Italy. Her work has a strong interdisciplinary approach. For more than ten years, she has been working on applying tools from complex systems and networks science, applied mathematics, computer science, data science, behavioral sciences to study infectious disease spreading. <br><br>Since 2008, she has been developing and coordinating a Europe-wide network of Web-based platforms for participatory surveillance of Influenza-like Illness. <br><br>More recently, at ISI she has co-founded a research area devoted to themes related to Data Science and Social Impact.",
+                     "abstract":"<h3>Having an impact: the challenge of using complex systems science to make a difference in the humanitarian sector</h3>"   
+
       },
       {
         "name": "Marcel Salathé",
@@ -128,7 +140,9 @@
         "pic": "people-pics/salathe.jpg",
         "website": "https://www.epfl.ch/labs/salathelab/",
         "twitter": "",
-        "BIO":"Marcel Salathé is a digital epidemiologist working at the interface of health and computer science. <br>He obtained his PhD at ETH Zurich and spent two years as a postdoc in Stanford before joining the faculty at Penn State University in 2010 at the Center for Infectious Disease Dynamics.<br> In 2014, he spent half a year at Stanford as visiting assistant professor. <br><br>In the summer of 2015, he became an Associate Professor at EPFL where he heads the Digital Epidemiology Lab at the Campus Biotech in Geneva. <br><br>In 2016, he founded the EPFL Extension School, whose mission is to provide high quality online education in digital technology, and where he is the Academic Director."
+        "BIO":"Marcel Salathé is a digital epidemiologist working at the interface of health and computer science. <br>He obtained his PhD at ETH Zurich and spent two years as a postdoc in Stanford before joining the faculty at Penn State University in 2010 at the Center for Infectious Disease Dynamics.<br> In 2014, he spent half a year at Stanford as visiting assistant professor. <br><br>In the summer of 2015, he became an Associate Professor at EPFL where he heads the Digital Epidemiology Lab at the Campus Biotech in Geneva. <br><br>In 2016, he founded the EPFL Extension School, whose mission is to provide high quality online education in digital technology, and where he is the Academic Director.",
+             "abstract":"<h3>Digital proximity tracing</h3>"   
+
       },
       {
         "name": "Petra Vertes",
@@ -145,7 +159,9 @@
         "pic": "people-pics/walzer.jpg",
         "website": "http://joriss.ens-lyon.fr/thierry-walzer-365408.kjsp?RH=JORISS-PROJECTS",
         "twitter": "",
-        "BIO":""
+        "BIO":"",
+        "abstract":"<h3>Immune functions and disfunctions in the defense against COVID-19</h3>"   
+
       },
       {
         "name": "Hyejin Youn",
@@ -153,7 +169,9 @@
         "pic": "people-pics/youn.jpg",
         "website": "http://hyoun.me",
         "twitter": "",
-        "BIO":"I am an assistant professor at Kellogg School of Management at Northwestern University, and Northwestern Institute on Complex Systems (NICO). <br><br>I was a research fellow at Santa Fe Institute and Harvard Kennedy School, and visiting scientist at MIT Media Lab. Before that, I was a senior research fellow at Mathematical Institute at University of Oxford , and Institute for New Economic Thinking at the Oxford Martin School; and ran a National Science Foundation grant (USA) to study Technological Change from the Map of Capabilities with Aaron Cluaset, the University of Colorado at Boulder [link]. <br><br>My PhD is in Statistical Physics at KAIST. <br><br>I serve on the editorial board of PLOS One. <br><br>My research aims to develop a mathematical and computational framework to understand complex systems. These include: Science of Cities, Pathway of Innovation, Linguistics (Semantic shift)"
+        "BIO":"I am an assistant professor at Kellogg School of Management at Northwestern University, and Northwestern Institute on Complex Systems (NICO). <br><br>I was a research fellow at Santa Fe Institute and Harvard Kennedy School, and visiting scientist at MIT Media Lab. Before that, I was a senior research fellow at Mathematical Institute at University of Oxford , and Institute for New Economic Thinking at the Oxford Martin School; and ran a National Science Foundation grant (USA) to study Technological Change from the Map of Capabilities with Aaron Cluaset, the University of Colorado at Boulder [link]. <br><br>My PhD is in Statistical Physics at KAIST. <br><br>I serve on the editorial board of PLOS One. <br><br>My research aims to develop a mathematical and computational framework to understand complex systems. These include: Science of Cities, Pathway of Innovation, Linguistics (Semantic shift)",
+                "abstract":"<h3>TBA</h3>"   
+
       }
     ]
   }
