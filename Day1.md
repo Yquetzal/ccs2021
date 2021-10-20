@@ -12,7 +12,7 @@
 ### ROOM: Auditorium
 
 # 10:15-10:45 Invited Talk 1
-## Title: TBA
+## Title: [Data Science for Social Impact](https://ccs2021.univ-lyon1.fr/#SPEAKER_Meeyoung_Cha)
 ## Speaker : [Meeyoung Cha](https://ccs2021.univ-lyon1.fr/#SPEAKER_Meeyoung_Cha)
 ### ROOM: Auditorium
 
@@ -146,12 +146,12 @@
 
 # 15:15-15:45 Invited Talk 2
 ### ROOM: Auditorium
-## Title: TBA
+## Title: [Having an impact: the challenge of using complex systems science to make a difference in the humanitarian sector](https://ccs2021.univ-lyon1.fr/#SPEAKER_Daniela_Paolotti_)
 ## Speaker : [Daniela Paolotti](https://ccs2021.univ-lyon1.fr/#SPEAKER_Daniela_Paolotti_)
 
 # 15:45-16:15 Invited Talk 3
 ### ROOM: Auditorium
-## Title: TBA
+## Title: [Towards Complexity Science for Humanitarian and Development work](https://ccs2021.univ-lyon1.fr/#SPEAKER_Manuel_Garcia-Herranz)
 ## Speaker : [Manuel Garcia-Herranz](https://ccs2021.univ-lyon1.fr/#SPEAKER_Manuel_Garcia-Herranz)
 
 # 16:15 - 16:45 Coffee Break / Poster Session 
