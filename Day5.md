@@ -22,6 +22,7 @@
 # 11:15 - 12:45 Parallel Sessions 5
 ## Session 5.1: Foundations of Complex Systems IX
 ### ROOM: Auditorium
+### Chair: Jose Mendes
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -34,6 +35,7 @@
 
 ## Session 5.2: Foundations of Complex Systems X
 ### ROOM: Rhône 1
+### Chair: Timoteo Carletti
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -46,6 +48,7 @@
 
 ## Session 5.3: Psychology, Neurosciences, Linguistics III
 ### ROOM: Rhône 2
+### Chair: Jean-Philippe Mague
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -58,6 +61,7 @@
 
 ## Session 5.4: Economics and Finance IV
 ### ROOM: St Clair 3B
+### Chair: Alberto Antonioni
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -70,6 +74,7 @@
 
 ## Session 5.5: Biological and (Bio)Medical Complexity V
 ### ROOM: Rhône 3B
+### Chair: Paulo Gonçalves
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -83,6 +88,7 @@
 
 ## Session 5.6: Social Complexity VIII
 ### ROOM: St Clair 3A
+### Chair: Márton Karsai
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -96,6 +102,7 @@
 
 ## Session 5.7: Social Complexity IX
 ### ROOM: St Clair 4
+### Chair: Michele Tizzoni
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -108,6 +115,7 @@
 
 ## Session 5.8: COVID-19 VI
 ### ROOM: Rhône 3A
+### Chair: Eugenio Valdano
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -120,6 +128,7 @@
 
 ## Session 5.9: Transdisciplinary and Applied Complex Systems II
 ### ROOM: Rhône 4
+### Chair: Elisa Omodei
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
