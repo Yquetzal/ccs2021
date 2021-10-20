@@ -9,6 +9,7 @@ The links to attend each session can be found below. Note that they will be acti
 
 ## Gather.town
 Gather.town is a way to recreate the social aspect of conferences in an online setting. You can join the gather.town space of CCS2021 by following this link (Coming Soon). 
+Posters will be viewable in Gather.town.
 
 You can join it at any time, however you can expect to encounter the most people during breaks.
 
