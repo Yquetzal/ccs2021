@@ -160,6 +160,7 @@
 # 16:45 - 18:00 Parallel Sessions 2
 ## Session 2.1: Foundations of Complex Systems III
 ### ROOM: Rhône 2
+### Chair: János Kertész
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -171,6 +172,7 @@
 
 ## Session 2.2: Foundations of Complex Systems IV
 ### ROOM: Rhône 3A
+### Chair: Laetitia Gauvin
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -182,6 +184,7 @@
 
 ## Session 2.3: Psychology, Neurosciences, Linguistics I
 ### ROOM: Rhône 4
+### Chair: Sophie Achard 
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -193,6 +196,7 @@
 
 ## Session 2.4: Infrastructure, Planning and Environment II
 ### ROOM: St Clair 4
+### Chair: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -204,6 +208,7 @@
 
 ## Session 2.5: Biological and (Bio)Medical Complexity II
 ### ROOM: St Clair 3A
+### Chair: Susanna Manrubia 
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -215,6 +220,7 @@
 
 ## Session 2.6: Social Complexity III
 ### ROOM: Rhône 3B
+### Chair: Júlia Koltai
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -226,6 +232,7 @@
 
 ## Session 2.7: COVID-19 II
 ### ROOM: Auditorium
+### Chair: Vittoria Colizza
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -237,6 +244,7 @@
 
 ## Session 2.8: COVID-19 III
 ### ROOM: Rhône 1
+### Chair: Daniela Paolotti
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -248,6 +256,7 @@
 
 ## Session 2.9: Transdisciplinary and Applied Complex Systems I
 ### ROOM: St Clair 3B
+### Chair: Sandro Meloni
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
