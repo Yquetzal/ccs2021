@@ -269,4 +269,4 @@
 
 
 # 18:00-20:00 Welcome reception
-## Venue
+### Location: At the conference Venue
