@@ -35,7 +35,7 @@
 
 ## Session 5.2: Foundations of Complex Systems X
 ### ROOM: Rhône 1
-### Chair: Timoteo Carletti
+### Chair: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
