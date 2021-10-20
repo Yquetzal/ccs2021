@@ -10,12 +10,12 @@
 
 # 9:45-10:15 Invited Talk 6
 ### ROOM: Auditorium
-## Title: (TBA)
+## Title: [Collective behavior in animal groups: a statistical physics perspective](https://ccs2021.univ-lyon1.fr/#SPEAKER_Irene_Giardina)
 ## Speaker : [Irene Giardina](https://ccs2021.univ-lyon1.fr/#SPEAKER_Irene_Giardina)
 
 # 10:15-10:45 Invited Talk 7
 ### ROOM: Auditorium
-## Title: (TBA)
+## Title: [Powerful Graph Neural Networks with Parallel Local Aggregations](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sundeep_Chepuri)
 ## Speaker : [Sundeep Chepuri](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sundeep_Chepuri)
 
 # 10:45 - 11:15 Coffee Break
@@ -149,7 +149,7 @@
 
 # 14:30-15:00 Invited Talk 8
 ### ROOM: Auditorium
-## Title: (TBA)
+## Title: [Layers of complexity in network neuroscience](https://ccs2021.univ-lyon1.fr/#SPEAKER_Petra_Vertes)
 ## Speaker : [Petra Vertes](https://ccs2021.univ-lyon1.fr/#SPEAKER_Petra_Vertes)
 
 # 15:00 - 15:45 CSS Awards Ceremony
