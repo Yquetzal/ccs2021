@@ -42,4 +42,5 @@
 ### ROOM: Rhône 4
 
 # 19:00 - 21:00 Social Dinner
-## Venue: (TBA)
+## Venue: [Hotel de ville de Lyon (Lyon city hall)](https://goo.gl/maps/6bWuMtVWjjZVCwxs8)
+
