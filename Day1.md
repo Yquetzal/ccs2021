@@ -22,7 +22,7 @@
 # 11:30 - 13:00 Parallel Sessions 1
 ## Session 1.1: Foundations of Complex Systems I 
 ### ROOM: Auditorium
-
+### Chair: Mikko Kivela 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |3| Sarika Jalan| Explosive synchronization in interlayer phase-shifted Kuramoto oscillators on multiplex networks| 	onsite  |
@@ -34,6 +34,7 @@
 
 ## Session 1.2: Foundations of Complex Systems II
 ### ROOM: Rhône 2
+### Chair: Jose Ramasco 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |128|	 Gerardo Iñiguez, Carlos Pineda, Carlos Gershenson and Albert-László Barabási | Universal dynamics of ranking | 	onsite  |
@@ -45,6 +46,8 @@
 
 ## Session 1.3: Economics and Finance I
 ### ROOM: St Clair 3B
+### Chair: Guido Caldarelli 
+
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |46 |	 Jonathan Barlow and Irena Vodenska | The effect of a public health crisis on economic outputs: The case of Covid-19 distress propagation and recovery |	onsite	|
@@ -56,6 +59,8 @@
 
 ## Session 1.4: Infrastructure, Planning and Environment I
 ### ROOM: St Clair 4
+### Chair: Rémy Cazabet
+
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |283 |	 Hanae El Gouj and Claire Lagesse | Road network analysis based on geohistorical data	 |	onsite	|
@@ -67,6 +72,8 @@
 
 ## Session 1.5: Biological and (Bio)Medical Complexity I
 ### ROOM: St Clair 3A
+### Chair: Guillaume Beslon 
+
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |242 |	 Jorge P. Rodríguez-García, Juan Fernández-Gracia, Carlos M. Duarte, Xabier Irigoien and Víctor M. Eguíluz | Fishing at the High Seas: the Global Network Connecting Ports to Fishing Areas	 |	onsite	|
@@ -78,6 +85,8 @@
 
 ## Session 1.6: Social Complexity I
 ### ROOM: Rhône 3A
+### Chair: David Chavalarias 
+
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |254 |	 Victor Chomel, David Chavalarias and Maziyar Panahi | Modelling network dynamics with Markov chains to understand structures in online communities: cross comparison of climate change and vaccine	 |	onsite	|
@@ -89,6 +98,8 @@
 
 ## Session 1.7: Social Complexity II
 ### ROOM: Rhône 3B
+### Chair: Fariba Karimi
+
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |115 |	 Ryohto Sawada | Ising Model Simulation of Epidemic Control by Influencers on Social Networks	 |	onsite	|
@@ -100,6 +111,8 @@
 
 ## Session 1.8: COVID-19 I
 ### ROOM: Rhône 1
+### Chair: Patrice Abry 
+
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |335 |	 Brennan Klein, Nicholas Generous, Samuel Scarpino and Alessandro Vespignani | Higher Education Responses to COVID-19 in the United States: The Crucial Role of On-Campus Diagnostic Testing for Students and Staff	 |	onsite	|
@@ -111,6 +124,8 @@
 
 ## Session 1.9: Methodology I
 ### ROOM: Rhône 4
+### Chair: Stéphane Roux 
+
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |286 |	 Yacouba Kaloga, Pierre Borgnat, Sundeep Prabahkar Chepuri, Patrice Abry and Amaury Habrard | Variational Graph Autoencoders for Multiview Canonical Correlation Analysis	 |	onsite	|
