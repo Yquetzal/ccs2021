@@ -21,6 +21,7 @@ Panelists:
 # 11:30 - 13:00 Parallel Sessions 3
 ## Session 3.1: Foundations of Complex Systems V
 ### ROOM: Rhône 1
+### Chair: Marta Sales-Pardo 
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -33,6 +34,7 @@ Panelists:
 
 ## Session 3.2: Foundations of Complex Systems VI
 ### ROOM: Rhône 2
+### Chair: Sofia Teixeira Andreia
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -45,6 +47,7 @@ Panelists:
 
 ## Session 3.3: Psychology, Neurosciences, Linguistics II
 ### ROOM: St Clair 4
+### Chair: Adrien Meynard 
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -57,6 +60,7 @@ Panelists:
 
 ## Session 3.4: Economics and Finance II
 ### ROOM: St Clair 3B
+### Chair: Tiziana Di Matteo
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -69,6 +73,7 @@ Panelists:
 
 ## Session 3.5: Biological and (Bio)Medical Complexity III
 ### ROOM: St Clair 3A
+### Chair: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -81,6 +86,7 @@ Panelists:
 
 ## Session 3.6: Social complexity IV
 ### ROOM: Auditorium
+### Chair: Anxo Sanchez
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -93,6 +99,7 @@ Panelists:
 
 ## Session 3.7: Social complexity V
 ### ROOM: Rhône 3B
+### Chair: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -105,6 +112,7 @@ Panelists:
 
 ## Session 3.8: COVID-19 IV
 ### ROOM: Rhône 3A
+### Chair: Marcel Salathé
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -117,6 +125,7 @@ Panelists:
 
 ## Session 3.9: Methodology II
 ### ROOM: Rhône 4
+### Chair: Christophe Crespelle 
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -151,6 +160,7 @@ Panelists:
 # 16:45 - 18:30 Parallel Sessions 4
 ## Session 4.1: Foundations of Complex Systems VII
 ### ROOM: Rhône 1
+### Chair: Javier Borge Holthoefer
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -164,6 +174,7 @@ Panelists:
 
 ## Session 4.2: Foundations of Complex Systems VIII
 ### ROOM: Rhône 2
+### Chair: Iacopo Iacopini
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -177,6 +188,7 @@ Panelists:
 
 ## Session 4.3: Economics and Finance III
 ### ROOM: St Clair 3B
+### Chair: Cécile Bastidon
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -190,6 +202,7 @@ Panelists:
 
 ## Session 4.4: Biological and (Bio)Medical Complexity IV
 ### ROOM: St Clair 3A
+### Chair: TBA
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -203,6 +216,7 @@ Panelists:
 
 ## Session 4.5: Social Complexity VI
 ### ROOM: Rhône 3B
+### Chair: Bertrand Jouve
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -216,6 +230,7 @@ Panelists:
 
 ## Session 4.6: Social complexity VII
 ### ROOM: St Clair 4
+### Chair: Carlos Gershenson
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -229,6 +244,7 @@ Panelists:
 
 ## Session 4.7: Complexity in Physics and Chemistry I
 ### ROOM: Auditorium
+### Chair: Maxi San Miguel
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -242,6 +258,7 @@ Panelists:
 
 ## Session 4.8: COVID-19 V
 ### ROOM: Rhône 3A
+### Chair: Chiara Poletto
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -256,6 +273,7 @@ Panelists:
 
 ## Session 4.9: Methodology III
 ### ROOM: Rhône 4
+### Chair: Pierre Borgnat
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
