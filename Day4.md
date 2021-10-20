@@ -41,5 +41,4 @@
 
 # 16:15 - 16:45 Coffee Break / Poster Session 
 
-# 18:00 - 19:00 Young Researchers of the Complex System Society Panel
-## Room: (TBA)
+# ~~18:00 - 19:00 Young Researchers of the Complex System Society Panel~~ (Canceled)
