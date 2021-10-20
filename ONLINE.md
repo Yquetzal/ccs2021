@@ -2,16 +2,18 @@
 
 All hybrid cessions of CCS 2021 can be attended online by using Zoom videoconference system.
 
-Zoom sessions are protected by a password, that was sent to you by e-mail. If you have not received it, please check your spam folder, first, and if you cannot find it, you can send an email, including your name, to the organizers to receive it again, at (ccs2021organizers@gmail.com).
+Zoom sessions are protected by a password, that all registerd attendees will receive by e-mail.
 
 ## Attending online talks:
-The link to attend each session can be found in the Day by Day program. All links are also summarized below (Details coming soon).
+The link to attend each session can be found below.
 
 ## Gather.town
-Gather.town is a way to recreate the social aspect of conferences in an online setting. You can join the gather.town space of CCS2021 by following this link(Coming Soon). 
+Gather.town is a way to recreate the social aspect of conferences in an online setting. You can join the gather.town space of CCS2021 by following this link (Coming Soon). 
 
 You can join it at any time, however you can expect to encounter the most people during breaks.
 
+## Attending Workshops
+You can attend workshops online using Zoom too. A [dedicated page](https://ccs2021.univ-lyon1.fr/zoom_satellites.php) centralize zoom links for all workshops. Note however that this page is protected by a password, that you will also receive in due time.
 
 # Quick Access to Zoom sessions:
 
