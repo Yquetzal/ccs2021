@@ -5,7 +5,7 @@ All hybrid cessions of CCS 2021 can be attended online by using Zoom videoconfer
 Zoom sessions are protected by a password, that all registerd attendees will receive by e-mail.
 
 ## Attending online talks:
-The link to attend each session can be found below.
+The links to attend each session can be found below. Note that they will be active only when the sessions start.
 
 ## Gather.town
 Gather.town is a way to recreate the social aspect of conferences in an online setting. You can join the gather.town space of CCS2021 by following this link (Coming Soon). 
