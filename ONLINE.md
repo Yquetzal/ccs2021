@@ -12,7 +12,6 @@ Gather.town is a way to recreate the social aspect of conferences in an online s
 
 You can join it at any time, however you can expect to encounter the most people during breaks.
 
-## Posters
 
 # Quick Access to Zoom sessions:
 
@@ -65,6 +64,20 @@ You can join it at any time, however you can expect to encounter the most people
 | vendredi 29 | 11:00 - 12:45  | Session 5.7: Social Complexity IX                             | https://us02web.zoom.us/s/82325259051 |
 | vendredi 29 | 11:00 - 12:45  | Session 5.8: COVID-19 VI                                      | https://us02web.zoom.us/s/89954888135 |
 | vendredi 29 | 11:00 - 12:45  | Session 5.9: Transdisciplinary and Applied Complex Systems II | https://us02web.zoom.us/s/86065194945 |
-## Posters
 
-## Keynotes
+
+## Plenary Sessions
+| Date        | Hour          | Session               | Link                                  |
+|-------------|---------------|-----------------------|---------------------------------------|
+| lundi 25    | 8h45 - 11h00  | CCS21 - Plenary 25 AM | https://us02web.zoom.us/s/83424157307 |
+| lundi 25    | 14h15 - 16h15 | CCS21 - Plenary 25 PM | https://us02web.zoom.us/s/81172291142 |
+| mardi 26    | 8h45 - 11h00  | CCS21 - Plenary 26 AM | https://us02web.zoom.us/s/3765359110  |
+| mardi 26    | 14h15 - 16h15 | CCS21 - Plenary 26 PM | https://us02web.zoom.us/s/81592038467 |
+| jeudi 28    | 8h45 - 11h00  | CCS21 - Plenary 29 AM | https://us02web.zoom.us/s/87861430914 |
+| vendredi 29 | 13h30 - 17h15 | CCS21 - Plenary 29 PM | https://us02web.zoom.us/s/87294701285 |
+
+## Misc.
+| Date        | Hour          | Session                                   | Link                                  |
+|-------------|---------------|-------------------------------------------|---------------------------------------|
+| jeudi 28    | 9:00 - 13:00  | CCS21 - CSS Chapters Workshop (CSSC 2021) | https://us02web.zoom.us/s/85652304639 |
+| mercredi 27 | 14:30 - 15:30 | CCS21 - Meet the editors                  | https://us02web.zoom.us/s/84694772685 |
