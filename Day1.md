@@ -14,7 +14,7 @@
 # 10:15-10:45 Invited Talk 1
 ## Title: [Data Science for Social Impact](https://ccs2021.univ-lyon1.fr/#SPEAKER_Meeyoung_Cha)
 ## Speaker : [Meeyoung Cha](https://ccs2021.univ-lyon1.fr/#SPEAKER_Meeyoung_Cha)
-### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/83424157307)(same as previous)
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/83424157307) (same as previous)
 
 # 10:45 - 11:30 Coffee Break / Poster Session 
 ### Poster Room: Forum 2 & 3
