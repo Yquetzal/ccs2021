@@ -4,17 +4,17 @@
 
 # 8:30-9:00 Registration
 # 9:00-9:45 Keynote Talk 4
-### ROOM: Auditorium
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/87861430914)
 ## Title: [Spatial signatures of ecosystem resilience](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sonia_Kefi)
 ## Speaker : [Sonia Kéfi](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sonia_Kefi)
 
 # 9:45-10:15 Invited Talk 6
-### ROOM: Auditorium
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/87861430914) (Same as previous)
 ## Title: [Collective behavior in animal groups: a statistical physics perspective](https://ccs2021.univ-lyon1.fr/#SPEAKER_Irene_Giardina)
 ## Speaker : [Irene Giardina](https://ccs2021.univ-lyon1.fr/#SPEAKER_Irene_Giardina)
 
 # 10:15-10:45 Invited Talk 7
-### ROOM: Auditorium
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/87861430914) (Same as previous)
 ## Title: [Powerful Graph Neural Networks with Parallel Local Aggregations](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sundeep_Chepuri)
 ## Speaker : [Sundeep Chepuri](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sundeep_Chepuri)
 
@@ -143,12 +143,12 @@
 ## Room: Forum 2 & 3 
 
 # 13:45-14:30 Keynote Talk 5
-### ROOM: Auditorium
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/87294701285)
 ## Title: [Climate as a Complex System](https://ccs2021.univ-lyon1.fr/#SPEAKER_Henk_Dijkstra)
 ## Speaker : [Henk Dijkstra](https://ccs2021.univ-lyon1.fr/#SPEAKER_Henk_Dijkstra)
 
 # 14:30-15:00 Invited Talk 8
-### ROOM: Auditorium
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/87294701285) (Same as previous)
 ## Title: [Layers of complexity in network neuroscience](https://ccs2021.univ-lyon1.fr/#SPEAKER_Petra_Vertes)
 ## Speaker : [Petra Vertes](https://ccs2021.univ-lyon1.fr/#SPEAKER_Petra_Vertes)
 
