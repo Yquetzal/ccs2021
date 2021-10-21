@@ -107,4 +107,4 @@
 | Dashun            | Wang              | Northwestern University                                                                 |
 | Taha              | Yasseri           | University College Dublin                                                               |
 | Arkaitz           | Zubiaga           | Queen Mary University of London                                                         |
-| Χαρίτων           | Πολάτογλου        | Aristotle University of Thessaloniki                                                    |
+| Χαρίτων           | Πολάτογλου        | Aristotle University of Thessaloniki                                                  |
