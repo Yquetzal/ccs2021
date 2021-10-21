@@ -34,7 +34,7 @@
 | 123| Marta Tuninetti, Alberto Aleta, Daniela Paolotti, Yamir Moreno and Michele Starnini | Prediction of New Scientific Collaborations Through Multiplex Networks	|	online |	
 
 ## Session 1.2: Foundations of Complex Systems II
-### ROOM: Rhône 2
+### ROOM: Rhône 2 - [Zoom link](https://us02web.zoom.us/j/87497338406)
 ### Chair: Jose Ramasco 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -46,7 +46,7 @@
 | 210| Akylas Fotiadis, Ioannis Vlachos and Dimitrios Kugiumtzis | Information-based Measure of Partial Mutual Information from Mixed Embedding (PMIME) Revisited		|	onsite |	
 
 ## Session 1.3: Economics and Finance I
-### ROOM: St Clair 3B
+### ROOM: St Clair 3B - [Zoom link](https://us02web.zoom.us/j/86446107522)
 ### Chair: Guido Caldarelli 
 
 | ID  | Authors | Title | Mode|
@@ -59,7 +59,7 @@
 |188   |	 Anja Janischewski | Under which conditions would a post-growth transition trigger a financial market crash? Analysis via an heterogeneous agent model	 |	onsite	|
 
 ## Session 1.4: Infrastructure, Planning and Environment I
-### ROOM: St Clair 4
+### ROOM: St Clair 4 - [Zoom link](https://us02web.zoom.us/j/82347390356)
 ### Chair: Rémy Cazabet
 
 | ID  | Authors | Title | Mode|
@@ -72,7 +72,7 @@
 |268   |	 Aaron Bramson | Capturing Neighborhood Feel Using Local Graph Characteristics in Large Road Networks	 |	online	|
 
 ## Session 1.5: Biological and (Bio)Medical Complexity I
-### ROOM: St Clair 3A
+### ROOM: St Clair 3A - [Zoom link](https://us02web.zoom.us/j/84332149514)
 ### Chair: Guillaume Beslon 
 
 | ID  | Authors | Title | Mode|
@@ -85,7 +85,7 @@
 |324 |	 Violeta Calleja Solanas, Emilio Hernandez-Garcia and Sandro Meloni | Structural Predictors for Species Survival in Ecological Networks	 |	onsite	|
 
 ## Session 1.6: Social Complexity I
-### ROOM: Rhône 3A
+### ROOM: Rhône 3A - [Zoom link](https://us02web.zoom.us/j/87440744495)
 ### Chair: David Chavalarias 
 
 | ID  | Authors | Title | Mode|
@@ -98,7 +98,7 @@
 |71 |	 Orowa Sikder, Robert Smith, Pierpaolo Vivo and Giacomo Livan | A minimalistic model of bias, polarization and misinformation in social networks	|	online	|
 
 ## Session 1.7: Social Complexity II
-### ROOM: Rhône 3B
+### ROOM: Rhône 3B - [Zoom link](https://us02web.zoom.us/j/81789416615)
 ### Chair: Fariba Karimi
 
 | ID  | Authors | Title | Mode|
@@ -111,7 +111,7 @@
 |275 |	 Naoki Igarashi, Yukihiko Okada and Yukie Sano | Collective Memory with Endogenous Recall Effects in Wikipedia	 |	online	|
 
 ## Session 1.8: COVID-19 I
-### ROOM: Rhône 1
+### ROOM: Rhône 1 - [Zoom link](https://us02web.zoom.us/j/82535579846)
 ### Chair: Patrice Abry 
 
 | ID  | Authors | Title | Mode|
@@ -124,7 +124,7 @@
 |26 |	 Takeshi Kano, Kotaro Yasui, Taishi Mikami, Munehiro Asally and Akio Ishiguro | How to Mitigate the COVID-19 Outbreak While Maintaining Economic Activities?	 |	online	|
 
 ## Session 1.9: Methodology I
-### ROOM: Rhône 4
+### ROOM: Rhône 4 - [Zoom link](https://us02web.zoom.us/j/84424020810)
 ### Chair: Stéphane Roux 
 
 | ID  | Authors | Title | Mode|
@@ -160,7 +160,7 @@
 
 # 16:45 - 18:00 Parallel Sessions 2
 ## Session 2.1: Foundations of Complex Systems III
-### ROOM: Rhône 2
+### ROOM: Rhône 2 - [Zoom link](https://us02web.zoom.us/j/88000428798)
 ### Chair: János Kertész
 
 | ID  | Authors | Title | Mode|
@@ -172,7 +172,7 @@
 | 41  |  Hugo Hourcade, Fatemeh Hamissi, Cedric Miachon and Binh-Minh Bui-Xuan | Behaviour Recognition Algorithms In Temporal Graphs  | online |
 
 ## Session 2.2: Foundations of Complex Systems IV
-### ROOM: Rhône 3A
+### ROOM: Rhône 3A - [Zoom link](https://us02web.zoom.us/j/83639078803)
 ### Chair: Laetitia Gauvin
 
 | ID  | Authors | Title | Mode|
@@ -184,7 +184,7 @@
 | 32  |  Stephany Rajeh, Marinette Savonnet, Eric Leclercq and Hocine Cherifi | An empirical study on classical and community-aware centrality measures in complex networks  | online |
 
 ## Session 2.3: Psychology, Neurosciences, Linguistics I
-### ROOM: Rhône 4
+### ROOM: Rhône 4 - [Zoom link](https://us02web.zoom.us/j/85871700526)
 ### Chair: Sophie Achard 
 
 | ID  | Authors | Title | Mode|
@@ -196,7 +196,7 @@
 | 169  |  Massimo Stella, Trevor James Swanson, Ying Li, Szymon Talaga, Thomas Hills and Andreia Sofia Teixeira | Assessing the emotional structure of suicide letters and healthy recollections with cognitive network science  | online |
 
 ## Session 2.4: Infrastructure, Planning and Environment II
-### ROOM: St Clair 4
+### ROOM: St Clair 4 - [Zoom link](https://us02web.zoom.us/j/89513028853)
 ### Chair: TBA
 
 | ID  | Authors | Title | Mode|
@@ -208,7 +208,7 @@
 | 35  |  Keith Burghardt, Johannes Uhl, Kristina Lerman and Stefan Leyk | The Evolution of City Infrastructure Scaling and Spatial Correlations in the United States: 1900-2015  | online |
 
 ## Session 2.5: Biological and (Bio)Medical Complexity II
-### ROOM: St Clair 3A
+### ROOM: St Clair 3A - [Zoom link](https://us02web.zoom.us/j/89813234119)
 ### Chair: Susanna Manrubia 
 
 | ID  | Authors | Title | Mode|
@@ -220,7 +220,7 @@
 |   |  Canceled | Canceled  |  |
 
 ## Session 2.6: Social Complexity III
-### ROOM: Rhône 3B
+### ROOM: Rhône 3B - [Zoom link](https://us02web.zoom.us/j/87103316793)
 ### Chair: Júlia Koltai
 
 | ID  | Authors | Title | Mode|
@@ -232,7 +232,7 @@
 | 321 |    Hao Cui and János Kertész | Relationship between repost network evolution of trending hashtags and their ranking dynamics in microblogging complex system    |  online  |
 
 ## Session 2.7: COVID-19 II
-### ROOM: Auditorium
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/84039569289)
 ### Chair: Vittoria Colizza
 
 | ID  | Authors | Title | Mode|
@@ -244,7 +244,7 @@
 | 208  |  Hugo Artigas, Gersende Fort, Barbara Pascal, Nelly Pustelnik and Patrice Abry | Confidence intervals for Covid-19 Reproduction Number Estimation combining NonSmooth Convex Proximal Optimization and Stochastic Sampling  | onsite |
 
 ## Session 2.8: COVID-19 III
-### ROOM: Rhône 1
+### ROOM: Rhône 1 - [Zoom link](https://us02web.zoom.us/j/85770592704)
 ### Chair: Daniela Paolotti
 
 | ID  | Authors | Title | Mode|
@@ -256,7 +256,7 @@
 | 40  |  Bosiljka Tadic and Roderick Melnik | High-resolution stochastic dynamics underlying SARS-CoV-2 infection transmission and evolution  | online |
 
 ## Session 2.9: Transdisciplinary and Applied Complex Systems I
-### ROOM: St Clair 3B
+### ROOM: St Clair 3B - [Zoom link](https://us02web.zoom.us/j/84851454669)
 ### Chair: Sandro Meloni
 
 | ID  | Authors | Title | Mode|
