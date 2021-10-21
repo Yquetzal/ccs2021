@@ -140,19 +140,19 @@ Panelists:
 # 13:00-14:30 Lunch Break - Poster Session 
 ### Room: Forum 2 & 3
 
-# 14:30-15:15 Keynote Talk 3
+# 14:30-16:15 Keynote and Invited Talks
 ### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/81592038467)
+### Chair: Pierre Borgnat
+
+## 14:30-15:15 Keynote Talk 3
 ## Title: [How the architecture of genotype spaces shapes evolutionary dynamics](https://ccs2021.univ-lyon1.fr/#SPEAKER_Susanna_Manrubia)
 ## Speaker : [Susanna Manrubia](https://ccs2021.univ-lyon1.fr/#SPEAKER_Susanna_Manrubia)
 
-
-# 15:15-15:45 Invited Talk 4
-### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/81592038467) (Same as previous)
+## 15:15-15:45 Invited Talk 4
 ## Title: [Accounting for Network Noise: Counting, Epidemic Control, and Experiments](https://ccs2021.univ-lyon1.fr/#SPEAKER_Eric_D__Kolaczyk)
 ## Speaker : [Eric D. Kolaczyk](https://ccs2021.univ-lyon1.fr/#SPEAKER_Eric_D__Kolaczyk)
 
-# 15:45-16:15 Invited Talk 5
-### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/81592038467) (Same as previous)
+## 15:45-16:15 Invited Talk 5
 ## Title: TBA
 ## Speaker : [Hyejin Youn](https://ccs2021.univ-lyon1.fr/#SPEAKER_Hyejin_Youn)
 
