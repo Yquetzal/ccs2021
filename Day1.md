@@ -12,13 +12,13 @@
 ### Chair: Márton Karsai
 
 ## 9:30-10:15 Keynote Talk 1
-### Title: [Disease propagation on networks and a switchover phenomenon](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
-### Speaker: [László Lovász](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
+## Title: [Disease propagation on networks and a switchover phenomenon](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
+## Speaker: [László Lovász](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
 
 
 ## 10:15-10:45 Invited Talk 1
-### Title: [Data Science for Social Impact](https://ccs2021.univ-lyon1.fr/#SPEAKER_Meeyoung_Cha)
-### Speaker : [Meeyoung Cha](https://ccs2021.univ-lyon1.fr/#SPEAKER_Meeyoung_Cha)
+## Title: [Data Science for Social Impact](https://ccs2021.univ-lyon1.fr/#SPEAKER_Meeyoung_Cha)
+## Speaker : [Meeyoung Cha](https://ccs2021.univ-lyon1.fr/#SPEAKER_Meeyoung_Cha)
 
 # 10:45 - 11:30 Coffee Break / Poster Session 
 ### Poster Room: Forum 2 & 3
@@ -148,16 +148,16 @@
 ### Chair: Guido Caldarelli
 
 ## 14:30-15:15 Keynote Talk 2
-### Title: [The Geometry of Decision Making](https://ccs2021.univ-lyon1.fr/#SPEAKER_Iain_Couzin)
-### Speaker : [Iain Couzin](https://ccs2021.univ-lyon1.fr/#SPEAKER_Iain_Couzin)
+## Title: [The Geometry of Decision Making](https://ccs2021.univ-lyon1.fr/#SPEAKER_Iain_Couzin)
+## Speaker : [Iain Couzin](https://ccs2021.univ-lyon1.fr/#SPEAKER_Iain_Couzin)
 
 ## 15:15-15:45 Invited Talk 2 
-### Title: [Having an impact: the challenge of using complex systems science to make a difference in the humanitarian sector](https://ccs2021.univ-lyon1.fr/#SPEAKER_Daniela_Paolotti_)
-### Speaker : [Daniela Paolotti](https://ccs2021.univ-lyon1.fr/#SPEAKER_Daniela_Paolotti_)
+## Title: [Having an impact: the challenge of using complex systems science to make a difference in the humanitarian sector](https://ccs2021.univ-lyon1.fr/#SPEAKER_Daniela_Paolotti_)
+## Speaker : [Daniela Paolotti](https://ccs2021.univ-lyon1.fr/#SPEAKER_Daniela_Paolotti_)
 
-# 15:45-16:15 Invited Talk 3
-### Title: [Towards Complexity Science for Humanitarian and Development work](https://ccs2021.univ-lyon1.fr/#SPEAKER_Manuel_Garcia-Herranz)
-### Speaker : [Manuel Garcia-Herranz](https://ccs2021.univ-lyon1.fr/#SPEAKER_Manuel_Garcia-Herranz)
+## 15:45-16:15 Invited Talk 3
+## Title: [Towards Complexity Science for Humanitarian and Development work](https://ccs2021.univ-lyon1.fr/#SPEAKER_Manuel_Garcia-Herranz)
+## Speaker : [Manuel Garcia-Herranz](https://ccs2021.univ-lyon1.fr/#SPEAKER_Manuel_Garcia-Herranz)
 
 # 16:15 - 16:45 Coffee Break / Poster Session 
 ### Poster Room: Forum 2 & 3
@@ -201,7 +201,7 @@
 
 ## Session 2.4: Infrastructure, Planning and Environment II
 ### ROOM: St Clair 4 - [Zoom link](https://us02web.zoom.us/j/89513028853)
-### Chair: TBA
+### Chair: Claire Lagesse
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
