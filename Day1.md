@@ -133,7 +133,7 @@
 |289 |	 Bernard Ricca | Identifying Phase Transitions in Categorical Time-Series Data	 |	onsite	|
 |311 |	 Jason Kim, Zhixin Lu and Danielle Bassett | Programming Memories and Computations in Recurrent Neural Networks Without Training	 |	onsite	|
 |25 |	 Daekyung Lee, Beom Jun Kim, Heetae Kim and Sang Hoon Lee | Mining Stochasticity of Community Detection to Refine Global and Local Organization of Networks	 |	onsite	|
-|150 |	 Andrea Zaccaria, Alessandro Carra, Luca Didomenicantonio and Giulio Cimini | Meta-validation of bipartite network projections	 |	**online**	|
+|150 |	 Andrea Zaccaria, Alessandro Carra, Luca Didomenicantonio and Giulio Cimini | Meta-validation of bipartite network projections	 |	onsite	|
 | |	 CANCELED | CANCELED	 |		|
 
 # 13:00-14:30 Lunch Break - Poster Session 
