@@ -6,6 +6,7 @@
 
 # 9:00 - 10:45 COVID-19 Panel
 ### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/3765359110)
+### Chair: Ciro Cattuto
 In this Panel, various experts on the COVID-19 Pandemic will discuss about their experience takling it.
 Panelists:
 
@@ -73,7 +74,7 @@ Panelists:
 
 ## Session 3.5: Biological and (Bio)Medical Complexity III
 ### ROOM: St Clair 3A - [Zoom link](https://us02web.zoom.us/j/88112089286)
-### Chair: TBA
+### Chair: Samir Suweis
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -99,7 +100,7 @@ Panelists:
 
 ## Session 3.7: Social complexity V
 ### ROOM: Rhône 3B - [Zoom link](https://us02web.zoom.us/j/81669383526)
-### Chair: TBA
+### Chair: Manuel Garcia Herranz
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
@@ -202,7 +203,7 @@ Panelists:
 
 ## Session 4.4: Biological and (Bio)Medical Complexity IV
 ### ROOM: St Clair 3A - [Zoom link](https://us02web.zoom.us/j/84742331177)
-### Chair: TBA
+### Chair: Sonia Kéfi
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
