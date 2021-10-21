@@ -273,7 +273,7 @@ Panelists:
 
 ## Session 4.9: Methodology III
 ### ROOM: Rhône 4 - [Zoom link](https://us02web.zoom.us/j/89628210315)
-### Chair: Pierre Borgnat
+### Chair: Benjamin Audit
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
