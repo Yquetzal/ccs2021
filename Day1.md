@@ -21,9 +21,8 @@
 
 # 11:30 - 13:00 Parallel Sessions 1
 ## Session 1.1: Foundations of Complex Systems I 
-### ROOM: Auditorium
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/87662354892)
 ### Chair: Mikko Kivela 
-### [Zoom link](https://us02web.zoom.us/j/87662354892)
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
