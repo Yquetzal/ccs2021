@@ -41,6 +41,6 @@
 # 16:45 - 18:00 Meet the Editor
 ### ROOM: Rhône 4
 
-# 19:00 - 21:00 Social Dinner
+# 19:00 - 22:30 Social Dinner
 ## Venue: [Hotel de ville de Lyon (Lyon city hall)](https://goo.gl/maps/6bWuMtVWjjZVCwxs8)
-
+### Note that the Social Dinner is now full (as of October 20) and reserved to onsite participants to the full conference (excepted if withdrawals of some attendants).
