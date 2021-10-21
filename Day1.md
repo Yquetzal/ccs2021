@@ -169,7 +169,7 @@
 | 148  |  Vasundhara Rathore, Ajaydeep Kachhvah and Sarika Jalan | Inhibition Induced Explosive Synchronization In Multiplex Networks  | onsite |
 | 112  |  Chris Jones and Karoline Wiesner | Clarifying the Link Between Degree Entropies, Degree-Degree Correlations and Robustness of Complex Networks  | onsite |
 | 30  |  Barbara Benigni, Riccardo Gallotti and Manlio De Domenico | Potential-driven random walks on complex networks  | onsite |
-| 41  |  Hugo Hourcade, Fatemeh Hamissi, Cedric Miachon and Binh-Minh Bui-Xuan | Behaviour Recognition Algorithms In Temporal Graphs  | online |
+| 41  |  Hugo Hourcade, Fatemeh Hamissi, Cedric Miachon and Binh-Minh Bui-Xuan | Behaviour Recognition Algorithms In Temporal Graphs  | **online** |
 
 ## Session 2.2: Foundations of Complex Systems IV
 ### ROOM: Rhône 3A - [Zoom link](https://us02web.zoom.us/j/83639078803)
@@ -180,8 +180,8 @@
 | 1  |  Hanlin Sun and Ginestra Bianconi | Higher-order percolation processes on multiplex hypergraphs  | onsite |
 | 287  |  Atish Panday, Woo Seok Lee, Subhasanket Dutta and Sarika Jalan | Machine learning assisted network classification using symbolic time-series  | onsite |
 | 91  |  Arash Badie-Modiri, Abbas Karimi Rizi, Márton Karsai and Mikko Kivelä | Directed Percolation in Temporal Networks  | onsite |
-| 238  |  Giulia Bertagnolli and Manlio De Domenico | Diffusion geometry of multiplex and interdependent systems  | online |
-| 32  |  Stephany Rajeh, Marinette Savonnet, Eric Leclercq and Hocine Cherifi | An empirical study on classical and community-aware centrality measures in complex networks  | online |
+| 238  |  Giulia Bertagnolli and Manlio De Domenico | Diffusion geometry of multiplex and interdependent systems  | **online** |
+| 32  |  Stephany Rajeh, Marinette Savonnet, Eric Leclercq and Hocine Cherifi | An empirical study on classical and community-aware centrality measures in complex networks  | **online** |
 
 ## Session 2.3: Psychology, Neurosciences, Linguistics I
 ### ROOM: Rhône 4 - [Zoom link](https://us02web.zoom.us/j/85871700526)
@@ -193,7 +193,7 @@
 | 233  |  Ivan G. Torre, Antoni Hernandez, Bartolo Luque, Lucas Lacasa and C. T. Kello | Linguistic laws in speech  | onsite |
 | 162  |  Paweł Oświęcimka, Anna Ceglarek, Jeremi Ochab and Marcin Wątorek | Correlation Structure Between Brain Regions in Working-memory Tasks: fMRI Fractal and Spectral Analysis  | onsite |
 | 211  |  Ioannis Vlachos, Dimitris Kugiumtzis and Vasilios Kimiskidis | TMS-induced brain connectivity modulation in Genetic Generalized Epilepsy  | onsite |
-| 169  |  Massimo Stella, Trevor James Swanson, Ying Li, Szymon Talaga, Thomas Hills and Andreia Sofia Teixeira | Assessing the emotional structure of suicide letters and healthy recollections with cognitive network science  | online |
+| 169  |  Massimo Stella, Trevor James Swanson, Ying Li, Szymon Talaga, Thomas Hills and Andreia Sofia Teixeira | Assessing the emotional structure of suicide letters and healthy recollections with cognitive network science  | **online** |
 
 ## Session 2.4: Infrastructure, Planning and Environment II
 ### ROOM: St Clair 4 - [Zoom link](https://us02web.zoom.us/j/89513028853)
@@ -205,7 +205,7 @@
 | 345  |  Javier Aguilar | Impact of Urban Structure on Infectious Disease Spreading  | onsite |
 | 138  |  Leonardo Castro-Gonzalez | Understanding and Forecasting the Illicit Drug Distribution in England: a Data-Centric Approach to the County Lines  | onsite |
 | 266  |  Rafiazka Hilman, Gerardo Iniguez and Marton Karsai | Urban mobility data uncovers socioeconomic segregation in the US  | onsite |
-| 35  |  Keith Burghardt, Johannes Uhl, Kristina Lerman and Stefan Leyk | The Evolution of City Infrastructure Scaling and Spatial Correlations in the United States: 1900-2015  | online |
+| 35  |  Keith Burghardt, Johannes Uhl, Kristina Lerman and Stefan Leyk | The Evolution of City Infrastructure Scaling and Spatial Correlations in the United States: 1900-2015  | **online** |
 
 ## Session 2.5: Biological and (Bio)Medical Complexity II
 ### ROOM: St Clair 3A - [Zoom link](https://us02web.zoom.us/j/89813234119)
@@ -229,7 +229,7 @@
 | 102  |  Charlie Pilgrim, Weisi Guo and Thomas T Hills | Attention Ecology  | onsite |
 | 189  |  Antoine Brias, Jean-Baptiste Pichancourt and Anne Bonis | How to organize and adapt collective action in a complex social-ecological landscape where global change pressures the sustainability of multiple ecosystem services: case study in a French urban area  | onsite |
 | 195  |  Vincent Verbavatz and Marc Barthelemy | Zipf's law for cities: the end  | onsite |
-| 321 |    Hao Cui and János Kertész | Relationship between repost network evolution of trending hashtags and their ranking dynamics in microblogging complex system    |  online  |
+| 321 |    Hao Cui and János Kertész | Relationship between repost network evolution of trending hashtags and their ranking dynamics in microblogging complex system    |  **online**  |
 
 ## Session 2.7: COVID-19 II
 ### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/84039569289)
@@ -253,7 +253,7 @@
 | 342  |  Alexandre Nicolas, Willy Garcia, Baptiste Fray and Simon Mendez | Field study of the network of interactions between pedestrians and associated risks of viral spread in non-confined crowds  | onsite |
 | 107  |  Alessandro Pluchino, Martina Fazio, Giuseppe Inturri, Michela Le Pira, Nadia Giuffrida and Matteo Ignaccolo | Exploring the impact of mobility restrictions on the COVID-19 spreading through an agent-based approach  | onsite |
 | 280  |  Takayuki Hiraoka, Mikko Kivelä and Jari Saramäki | Vaccination strategies for minimizing the number of deaths from emerging diseases  | onsite |
-| 40  |  Bosiljka Tadic and Roderick Melnik | High-resolution stochastic dynamics underlying SARS-CoV-2 infection transmission and evolution  | online |
+| 40  |  Bosiljka Tadic and Roderick Melnik | High-resolution stochastic dynamics underlying SARS-CoV-2 infection transmission and evolution  | **online** |
 
 ## Session 2.9: Transdisciplinary and Applied Complex Systems I
 ### ROOM: St Clair 3B - [Zoom link](https://us02web.zoom.us/j/84851454669)
@@ -263,8 +263,8 @@
 | ---: | :----: | :------: | :----:	|
 | 151  |  Aniello Lampo, Javier Borge-Holthoefer, Sergio Gómez and Albert Solé-Ribalta | Emergence of Abrupt Phase Transitions in Urban Congestion Localization  | onsite |
 | 194  |  Diana L. Monroy and Gerardo G. Naumis | Description of mesoscale pattern formation in shallow convective cloud fields by using time-dependent Ginzburg-Landau and Swift-Hohenberg stochastic equations | onsite |
-| 140  |  Blas Kolic, Mateo Tonatiuh Rodríguez Cervantes, Pablo Padilla Longoria and Francis Knight | Rhythm and form in music: A complex systems approach  | online |
-| 142  |  Alberto Alcala and Pablo Padilla | A Proposal for Measuring and Visualizing Complexity of Musical Information Using Networks  | online |
+| 140  |  Blas Kolic, Mateo Tonatiuh Rodríguez Cervantes, Pablo Padilla Longoria and Francis Knight | Rhythm and form in music: A complex systems approach  | **online** |
+| 142  |  Alberto Alcala and Pablo Padilla | A Proposal for Measuring and Visualizing Complexity of Musical Information Using Networks  | **online** |
 |   | Canceled | Canceled  |  |
 
 
