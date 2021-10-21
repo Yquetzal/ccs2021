@@ -239,7 +239,7 @@ Panelists:
 | 37 |    Riccardo Gallotti, Elisa Leonardelli, Stefano Menini, Pierluigi Sacco, Sara Tonelli and Manlio De Domenico | Behavioural patterns of hate speech and misinformation on Twitter    |  onsite  |
 | 182 |    Michał B. Paradowski, Chih-Chun Chen, Jeremi Ochab, Agnieszka Cierpich, Magdalena Jelińska, Karolina Czopek and Andrzej Jarynowski | Social Network Analysis in Second Language Acquisition    |  onsite  |
 | 69 |    Cedric Perret, Marcus Krellner and The Anh Han | The evolution of moral rules in a model of indirect reciprocity with private assessment    |  onsite  |
-| 24 |    Shirsendu Podder, Simone Righi and Karoly Takacs | Local Reputation, Local Selection, and the Leading Eight Norms    |  onsite  |
+| 24 |    Shirsendu Podder, Simone Righi and Karoly Takacs | Local Reputation, Local Selection, and the Leading Eight Norms    |  **online**  |
 | 81 |    Anne-Marie Grisogono, Roger Bradbury, John Finnigan, Brian Walker and Paul Oppenheimer | Evolution of Governance    |  **online**  |
 | 336 |    Sriniwas Pandey and Hiroki Sayama | Dynamics of User Eccentricity on GAB Social Media    |  **online**  |
 
