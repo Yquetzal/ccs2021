@@ -242,7 +242,7 @@
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 | 165  |  Mattia Mazzoli, Eugenio Valdano, Zachary Susswein, Shweta Bansal and Vittoria Colizza | Mobility induces a network interpretation of the Reproductive Number that explains COVID-19 spatial spread and informs surveillance  | onsite |
-| 203  |  Barbara Pascal, Nelly Pustelnik, Remi Gribonval, Stephane Roux, Patrick Flandrin and Patrice Abry | Robustness to outliers for Covid-19 Reproduction Number Estimation via NonSmooth Convex Proximal Optimization  | onsite |
+| 203  |  Barbara Pascal, Nelly Pustelnik, Remi Gribonval, Stephane Roux, Patrick Flandrin and Patrice Abry | Robustness to outliers for Covid-19 Reproduction Number Estimation via NonSmooth Convex Proximal Optimization  | **online** |
 | 245  |  Benjamin Faucher, Rania Assab, Jonathan Roux, Daniel Levy-Bruhl, Cécile Tran-Kiem, Simon Cauchemez, Laura Zanetti, Vittoria Colizza, Pierre-Yves Boelle and Chiara Poletto | Agent-based model analysis of reactive vaccination against COVID-19 epidemic  | onsite |
 | 296  |  Joseph Lemaitre, Damiano Pasetto, Mario Zanon, Enrico Bertuzzo, Lorenzo Mari, Stefano Miccoli, Renato Casagrandi, Marino Gatto and Andrea Rinaldo | Optimal Control of the Spatial and Temporal Allocation of COVID-19 Vaccines: Italy as a Case Study  | onsite |
 | 208  |  Hugo Artigas, Gersende Fort, Barbara Pascal, Nelly Pustelnik and Patrice Abry | Confidence intervals for Covid-19 Reproduction Number Estimation combining NonSmooth Convex Proximal Optimization and Stochastic Sampling  | onsite |
