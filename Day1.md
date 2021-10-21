@@ -23,6 +23,8 @@
 ## Session 1.1: Foundations of Complex Systems I 
 ### ROOM: Auditorium
 ### Chair: Mikko Kivela 
+### [Zoom link](https://us02web.zoom.us/j/87662354892)
+
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 |3| Sarika Jalan| Explosive synchronization in interlayer phase-shifted Kuramoto oscillators on multiplex networks| 	onsite  |
