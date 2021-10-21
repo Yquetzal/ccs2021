@@ -29,8 +29,8 @@ Panelists:
 | 66 |   Julian Fritzsch | Long Wavelength Coherence in Well-Connected Power Grids   | onsite  |
 | 325 |   Magda Cardoso, Leandro Magno Correia da Silva, Roberto Ribeiro Neli and Wyrllen Everson Soouza | Universal Relation for Electorate Involvement Disorder Amplitude in Second Round of Brazilian Presidential Election   | onsite  |
 | 292 |   Lucia Soledad Ramirez, Maxi San Miguel and Tobias Galla | Ordering Dynamics and the Path to Consensus in Multi-State Voter Models  | onsite  |
-| 249 |   Sneha Srikanth, Samadhan A. Pawar, Krishna Manoj and R. I. Sujith | Suppression of Thermoacoustic Oscillations through Self-Coupling   | online  |
-| 190 |   Sebastiano Bontorin and Manlio De Domenico | Multi-pathways temporal distance unravels the hidden geometry of network-driven processes   | online  |
+| 249 |   Sneha Srikanth, Samadhan A. Pawar, Krishna Manoj and R. I. Sujith | Suppression of Thermoacoustic Oscillations through Self-Coupling   | **online**  |
+| 190 |   Sebastiano Bontorin and Manlio De Domenico | Multi-pathways temporal distance unravels the hidden geometry of network-driven processes   | **online**  |
 
 ## Session 3.2: Foundations of Complex Systems VI
 ### ROOM: Rhône 2 - [Zoom link](https://us02web.zoom.us/j/83561810934)
@@ -43,7 +43,7 @@ Panelists:
 | 9 |   Riccardo Muolo | Effects of non-normal networks on nonlinear dynamics   | onsite  |
 | 295 |   Remi Perrier, Yerali Gandica and Laura Hernandez | The consequences of hesitation: Axelrod model with intrinsic noise   | onsite  |
 | 21 |   Hildegard Meyer-Ortmanns and Maximilian Voit | Emerging criticality in heteroclinic dynamics   | onsite  |
-| 2 |   Matthijs Koopmans | Fractal and Seasonal Patterns in Long-Range Time Series   | online  |
+| 2 |   Matthijs Koopmans | Fractal and Seasonal Patterns in Long-Range Time Series   | **online**  |
 
 ## Session 3.3: Psychology, Neurosciences, Linguistics II
 ### ROOM: St Clair 4 - [Zoom link](https://us02web.zoom.us/j/82311065687)
@@ -53,10 +53,10 @@ Panelists:
 | ---: | :----: | :------: | :----:	|
 | 260 |   Alessandro Londei and Vittorio Loreto | Dreaming Neural Networks  | onsite  |
 | 50 |   Jingmeng Cui, Merlijn Olthof, Anna Lichtwarck-Aschoff, Fred Hasselman and Tiejun Li | Simlandr: Potential landscape methods for psychological formal models   | onsite  |
-| 201 |   Osnat Mokryn, David Bodoff and Joel Lanir | Intentionality of emotions enables to detect the 'emotions of the crowd'   | online  |
-| 291 |   Dhrubajyoti Biswas, Samana Pranesh and Sayan Gupta | Effects Of Noise On Ageing Transitions In Network Of Rulkov Neurons   | online  |
-| 290 |   Osnat Mokryn and Hagit Ben-Shoshan | Domain-based Latent Personal Analysis and its uses for online Impersonation Detection   | online  |
-| 60 |   Hayato Misumi, Taiki Ogata and Tomomi Kito | Patterns of Cooperative Rhythm Production Between One Leader and Two Followers Through Auditory and Visual Information   | online  |
+| 201 |   Osnat Mokryn, David Bodoff and Joel Lanir | Intentionality of emotions enables to detect the 'emotions of the crowd'   | **online**  |
+| 291 |   Dhrubajyoti Biswas, Samana Pranesh and Sayan Gupta | Effects Of Noise On Ageing Transitions In Network Of Rulkov Neurons   | **online**  |
+| 290 |   Osnat Mokryn and Hagit Ben-Shoshan | Domain-based Latent Personal Analysis and its uses for online Impersonation Detection   | **online**  |
+| 60 |   Hayato Misumi, Taiki Ogata and Tomomi Kito | Patterns of Cooperative Rhythm Production Between One Leader and Two Followers Through Auditory and Visual Information   | **online**  |
 
 ## Session 3.4: Economics and Finance II
 ### ROOM: St Clair 3B - [Zoom link](https://us02web.zoom.us/j/88251656398)
@@ -69,7 +69,7 @@ Panelists:
 | 20 |   Luis F Seoane | Games in Rigged Economies   | onsite  |
 | 54 |   Yu Tian, Sebastian Lautz, Alisdair Wallis and Renaud Lambiotte | Extracting complements and substitutes from sales data: a network perspective   | onsite  |
 | 55 |   Pablo Lozano, Angel Sanchez and Alberto Antonioni | An Experimental Approach to Hierarchies: High Ranked Individuals Exploit Low Ranked Ones But Act Altruistically   | onsite  |
-| 98 |   Lorenzo Lucchini, Laura Maria Alessandretti, Bruno Lepri, Angela Gallo and Andrea Baronchelli | From code to market: Network of developers and correlated returns of cryptocurrencies   | online  |
+| 98 |   Lorenzo Lucchini, Laura Maria Alessandretti, Bruno Lepri, Angela Gallo and Andrea Baronchelli | From code to market: Network of developers and correlated returns of cryptocurrencies   | **online**  |
 
 ## Session 3.5: Biological and (Bio)Medical Complexity III
 ### ROOM: St Clair 3A - [Zoom link](https://us02web.zoom.us/j/88112089286)
@@ -81,7 +81,7 @@ Panelists:
 | 234 |   Victor Boussange and Loic Pellissier | Graph topology and habitat assortativity drive phenotypic differentiation in an eco-evolutionary model   | onsite  |
 | 113 |   Guillaume Beslon, Vincent Liard and Jonathan Rouzaud-Cornabas | The complexity ratchet   | onsite  |
 | 155 |   Alexander Gates, Rion Brattig Correia, Xuan Wang and Luis M. Rocha | The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling   | onsite  |
-| 173 |   Lena Takayasu | The laws behind the temporal change of gut microbiome   | online  |
+| 173 |   Lena Takayasu | The laws behind the temporal change of gut microbiome   | **online**  |
 |  |   CANCELED | CANCELED  |   |
 
 ## Session 3.6: Social complexity IV
@@ -93,8 +93,8 @@ Panelists:
 | 105 |   Antoine Lucquiaud and Julien Randon-Furling | Analytical Derivations of Critical Tolerance Thresholds in the Schelling Model   | onsite  |
 | 218 |   Guillermo Romero Moreno, Sukankana Chakraborty and Markus Brede | Shadowing and shielding: Effective heuristics for continuous influence maximisation in the voting dynamics   | onsite  |
 | 163 |   Gabriele Di Bona, Enrico Ubaldi, Iacopo Iacopini, Bernardo Monechi, Vito Latora and Vittorio Loreto | How social interactions influence the discovery of novel music in online platforms   | onsite  |
-| 33 |   Stephany Rajeh, Marinette Savonnet, Eric Leclercq and Hocine Cherifi | A comparison of community-aware centrality measures in online social networks   | online  |
-| 176 |   Masashi Shiraishi, Osamu Yamanaka and Hiraku Nishimori | Effect of Interaction Network Structure in Response Threshold Model on Task Allocation   | online  |
+| 33 |   Stephany Rajeh, Marinette Savonnet, Eric Leclercq and Hocine Cherifi | A comparison of community-aware centrality measures in online social networks   | **online**  |
+| 176 |   Masashi Shiraishi, Osamu Yamanaka and Hiraku Nishimori | Effect of Interaction Network Structure in Response Threshold Model on Task Allocation   | **online**  |
 |  |   CANCELED | CANCELED  |   |
 
 ## Session 3.7: Social complexity V
@@ -108,7 +108,7 @@ Panelists:
 | 204 |   Silvia Magnanini, Federica Guazzoni, Daniel Trabucchi, Tommaso Buganza and Roberto Verganti | What is your tendency to converge in a flock? Assessing the convergent behaviour of individuals collaborating as a complex system through self-reported measure   | onsite  |
 | 161 |   Lilia Perfeito and Joana Goncalves-Sa | An evolutionary model for the spread of information on Twitter   | onsite  |
 | 108 |    John Fitzgerald | Investigating the changing structure of research collaborations between institutions in Latin America & the Caribbean using multilayered networks    |  onsite  |
-| 185 |   Brian Hennessy and Malbor Asllani | Non-normality driven polarization in social dynamics   | online  |
+| 185 |   Brian Hennessy and Malbor Asllani | Non-normality driven polarization in social dynamics   | **online**  |
 
 ## Session 3.8: COVID-19 IV
 ### ROOM: Rhône 3A - [Zoom link](https://us02web.zoom.us/j/82982159391)
@@ -118,10 +118,10 @@ Panelists:
 | ---: | :----: | :------: | :----:	|
 | 322 |   Taras Patsahan and Jaroslav Ilnytskyi | The Effects of the Quarantine and Vaccination on the COVID-19 Spread by Combining the Compartmental and Cellular Automaton Types of Modelling   | onsite  |
 | 302 |   Guillermo de Anda-Jauregui, Rodrigo Zepeda-Tello, Plinio Guzman, Mauricio Hernandez Avila, David Barros-Sierra, Amilcar Meneses, Alfredo Hernandez, Marisol Flores-Garrido and Maribel Hernandez Rosales | Predicting public health impact of COVID-19 in Mexico City using mobility and contact networks   | onsite  |
-| 121 |    Matthieu Nadini, Alberto Bracci, Maxwell Aliapoulios, Damon McCoy, Ian Gray, Alexander Teytelboym, Angela Gallo and Andrea Baronchelli | Dark Web Marketplaces and COVID-19    |  online  |
-| 154 |   Jun'Ichi Ozaki, Yohei Shida, Hideki Takayasu and Misako Takayasu | Infection rate analysis at each daily activity under COVID-19 pandemic using human mobility data   | online  |
-| 235 |   Valeria D'Andrea, Riccardo Gallotti, Nicola Castaldo and Manlio De Domenico | Individual Risk Perception and Empirical Social Structures Shape the Dynamics of Infectious Disease Outbreaks   | online  |
-| 262 |   Aleix Bassolas, Andrea Santoro, Sandro Sousa, Silvia Rognone and Vincenzo Nicosia | Optimising the mitigation of epidemic spreading through targeted adoption of contact tracing apps  | online  |
+| 121 |    Matthieu Nadini, Alberto Bracci, Maxwell Aliapoulios, Damon McCoy, Ian Gray, Alexander Teytelboym, Angela Gallo and Andrea Baronchelli | Dark Web Marketplaces and COVID-19    |  **online**  |
+| 154 |   Jun'Ichi Ozaki, Yohei Shida, Hideki Takayasu and Misako Takayasu | Infection rate analysis at each daily activity under COVID-19 pandemic using human mobility data   | **online**  |
+| 235 |   Valeria D'Andrea, Riccardo Gallotti, Nicola Castaldo and Manlio De Domenico | Individual Risk Perception and Empirical Social Structures Shape the Dynamics of Infectious Disease Outbreaks   | **online**  |
+| 262 |   Aleix Bassolas, Andrea Santoro, Sandro Sousa, Silvia Rognone and Vincenzo Nicosia | Optimising the mitigation of epidemic spreading through targeted adoption of contact tracing apps  | **online**  |
 
 ## Session 3.9: Methodology II
 ### ROOM: Rhône 4 - [Zoom link](https://us02web.zoom.us/j/82952228645)
@@ -169,8 +169,8 @@ Panelists:
 | 341 |    Fausti Giordano, Elsen Tjhung, Michael Cates and Cesare Nardini | Capillary interfacial tension in active phase separation    |  onsite  |
 | 17 |    Karel Devriendt, Samuel Martin-Gutierrez and Renaud Lambiotte | Variance and covariance of distributions on graphs    |  onsite  |
 | 101 |    Mousumi Roy, Swarup Poria and Chittaranjan Hens | Explosive synchronization in assortative neuronal network    |  onsite  |
-| 277 |    Arash Roostaei, Hadi Barzegar and Fakhteh Ghanbarnejad | Hopf bifurcation in SIHR dynamics    |  online  |
-| 298 |    Eric Peña and Hiroki Sayama | Life Worth Mentioning: Complexity in Life-Like Cellular Automata    |  online  |
+| 277 |    Arash Roostaei, Hadi Barzegar and Fakhteh Ghanbarnejad | Hopf bifurcation in SIHR dynamics    |  **online**  |
+| 298 |    Eric Peña and Hiroki Sayama | Life Worth Mentioning: Complexity in Life-Like Cellular Automata    |  **online**  |
 
 ## Session 4.2: Foundations of Complex Systems VIII
 ### ROOM: Rhône 2 - [Zoom link](https://us02web.zoom.us/j/89049857821)
@@ -182,9 +182,9 @@ Panelists:
 | 306 |    Alexandre Bovet, Jean-Charles Delvenne and Renaud Lambiotte | Flow Stability for Dynamic Community Detection    |  onsite  |
 | 193 |    Nicola Pedreschi, Demian Battaglia and Alain Barrat | The Temporal Rich Club Phenomenon    |  onsite  |
 | 122 |    Nicolas Brodu and James P. Crutchfield | Discovering Causal Structure with Reproducing-Kernel Hilbert Space ?-machines    |  onsite  |
-| 258 |    Octavio Zapata, Mario Franco, Carlos Gershenson and David A. Rosenblueth | Dynamics of Random Fuzzy Networks    |  online  |
-| 137 |    Octavio Zapata | An Analytic Approach to Estimate the Connectivity of a Boolean Network from its Noise Sensitivity    |  online  |
-| 300 |    Rico Berner, Serhiy Yanchuk and Eckehard Scholl | Generalized splay states: Dynamics on and in the vicinity of the splay manifold    |  online  |
+| 258 |    Octavio Zapata, Mario Franco, Carlos Gershenson and David A. Rosenblueth | Dynamics of Random Fuzzy Networks    |  **online**  |
+| 137 |    Octavio Zapata | An Analytic Approach to Estimate the Connectivity of a Boolean Network from its Noise Sensitivity    |  **online**  |
+| 300 |    Rico Berner, Serhiy Yanchuk and Eckehard Scholl | Generalized splay states: Dynamics on and in the vicinity of the splay manifold    |  **online**  |
 
 ## Session 4.3: Economics and Finance III
 ### ROOM: St Clair 3B - [Zoom link](https://us02web.zoom.us/j/87056400020)
@@ -196,9 +196,9 @@ Panelists:
 | 285 |    Toby Willis and Giuliano Punzo | Characteristics of Pure Nash Equilibria in a Strategic Multiplex Network Formation Game    |  onsite  |
 | 227 |    Nicola Amoroso, Loredana Bellantuono, Alfonso Monaco, Francesco De Nicola, Ernesto Somma and Roberto Bellotti | Economic Interplay Forecasting Business Success    |  online  |
 | 156 |    Sarah Soleiman and Julien Randon-Furling | Socio-Spatial Complexity: Cities As Neural Networks -- A Case Study of Housing Prices Estimations    |  onsite  |
-| 236 |    Francesco Bertolotti, Angela Locoro and Luca Mari | Emergence of Risk Sensitivity in a First-principles Agent-based model    |  online  |
-| 144 |    Joseph Hickey | Market-Share Structures of Competing Firms: A Simple Physics Model    |  online  |
-| 231 |    Alberto Bracci, Jorn Boehnke, Abeer El Bahrawy, Nicola Perra, Alexander Teytelboym and Andrea Baronchelli | Macroscopic properties of buyer-seller networks in online marketplaces    |  online  |
+| 236 |    Francesco Bertolotti, Angela Locoro and Luca Mari | Emergence of Risk Sensitivity in a First-principles Agent-based model    |  **online**  |
+| 144 |    Joseph Hickey | Market-Share Structures of Competing Firms: A Simple Physics Model    |  **online**  |
+| 231 |    Alberto Bracci, Jorn Boehnke, Abeer El Bahrawy, Nicola Perra, Alexander Teytelboym and Andrea Baronchelli | Macroscopic properties of buyer-seller networks in online marketplaces    |  **online**  |
 
 ## Session 4.4: Biological and (Bio)Medical Complexity IV
 ### ROOM: St Clair 3A - [Zoom link](https://us02web.zoom.us/j/84742331177)
@@ -211,8 +211,8 @@ Panelists:
 | 93 |    Pachka Hammami, Stefan Widgren, Vladimir Grosbois, Andrea Apolloni, Nicolas Rose and Mathieu Andraud | Multi-levels Hepatitis E Virus Spread In Various Epidemiological Contexts: Combining Complex Network Analysis & Disease     |  onsite  |
 | 62 |    Zakariya Ghalmane, Bastien Mérigot, Roberto Interdonato, Dino Ienco and Pascal Poncelet | A new framework for measuring diversity in temporal ecological networks    |  onsite  |
 | 228 |    Manh Hong Duong and The Anh Han | Statistics of equilibria points in pairwise social dilemmas under replicator-mutator dynamics    |  onsite  |
-| 315 |    Renaud Bastien and Pawel Romanczuk | A model of collective behavior based purely on vision    |  online  |
-| 313 |    Parisa Rahmani, Fernando Peruani and Pawel Romanczuk | Flocking in complex environments-attention trade-offs in collective information processing    |  online  |
+| 315 |    Renaud Bastien and Pawel Romanczuk | A model of collective behavior based purely on vision    |  **online**  |
+| 313 |    Parisa Rahmani, Fernando Peruani and Pawel Romanczuk | Flocking in complex environments-attention trade-offs in collective information processing    |  **online**  |
 
 ## Session 4.5: Social Complexity VI
 ### ROOM: Rhône 3B - [Zoom link](https://us02web.zoom.us/j/82040908486)
@@ -226,7 +226,7 @@ Panelists:
 | 217 |    María J. Palazzi, Carlos Plata, Violeta Calleja, Sandro Meloni, Albert Sole, Samir Suweis and Javier Borge-Holthoefer | An Ecological Approach to Structural Flexibility in Online Communication Systems.    |  onsite  |
 | 337 |    Emma Zajdela, Daniel Abrams, Andrew Feig and Richard Wiener | Catalyzing Collaborations: A Model for the Dynamics of Team Formation at Conferences    |  onsite  |
 | 243 |    Andrea Civilini, Nejat Anbarci and Vito Latora | Evolutionary game model of risk propensity in group decision making    |  onsite  |
-| 219 |    Pietro Gravino, Giulio Prevedello, Martina Galletti and Vittorio Loreto | Assessing disinformation through the dynamics of supply and demand in the news ecosystem    |  online  |
+| 219 |    Pietro Gravino, Giulio Prevedello, Martina Galletti and Vittorio Loreto | Assessing disinformation through the dynamics of supply and demand in the news ecosystem    |  **online**  |
 
 ## Session 4.6: Social complexity VII
 ### ROOM: St Clair 4 - [Zoom link](https://us02web.zoom.us/j/84745653540)
@@ -239,8 +239,8 @@ Panelists:
 | 182 |    Michał B. Paradowski, Chih-Chun Chen, Jeremi Ochab, Agnieszka Cierpich, Magdalena Jelińska, Karolina Czopek and Andrzej Jarynowski | Social Network Analysis in Second Language Acquisition    |  onsite  |
 | 69 |    Cedric Perret, Marcus Krellner and The Anh Han | The evolution of moral rules in a model of indirect reciprocity with private assessment    |  onsite  |
 | 24 |    Shirsendu Podder, Simone Righi and Karoly Takacs | Local Reputation, Local Selection, and the Leading Eight Norms    |  onsite  |
-| 81 |    Anne-Marie Grisogono, Roger Bradbury, John Finnigan, Brian Walker and Paul Oppenheimer | Evolution of Governance    |  online  |
-| 336 |    Sriniwas Pandey and Hiroki Sayama | Dynamics of User Eccentricity on GAB Social Media    |  online  |
+| 81 |    Anne-Marie Grisogono, Roger Bradbury, John Finnigan, Brian Walker and Paul Oppenheimer | Evolution of Governance    |  **online**  |
+| 336 |    Sriniwas Pandey and Hiroki Sayama | Dynamics of User Eccentricity on GAB Social Media    |  **online**  |
 
 ## Session 4.7: Complexity in Physics and Chemistry I
 ### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/86262205696)
@@ -268,7 +268,7 @@ Panelists:
 | 282 |    Daniel Rhoads, Albert Sole-Ribalta, Marta Gonzalez and Javier Borge-Holthoefer | A Sustainable Strategy for Open Streets in Post-Pandemic Cities    |  onsite  |
 | 175 |    Hadrien Salat, Anna Zanchetta, Fernando Benitez-Paez, Man Luo and Mark Birkin | National Scale Agent-Based Model for Epidemics    |  onsite  |
 | 329 |   Hao Cui and János Kertész | Attention dynamics on the Chinese social media Sina Weibo during the COVID-19 pandemic   | onsite  |
-| 214 |    Bram Siebert and Malbor Asllani | Optimizing lock-down measures of epidemic spreading in mobility networks    |  online  |
+| 214 |    Bram Siebert and Malbor Asllani | Optimizing lock-down measures of epidemic spreading in mobility networks    |  **online**  |
 
 
 ## Session 4.9: Methodology III
@@ -281,7 +281,7 @@ Panelists:
 | 244 |    Vedran Sekara, Ivan Dotu, Esteban Moro and Manuel Garcia-Herranz | Fundamental Biases in influence maximization methods    |  onsite  |
 | 143 |    Mateusz Wilinski and Andrey Lokhov | Scalable Learning of Independent Cascade Dynamics from Partial Observations    |  onsite  |
 | 344 |    Tiago Peixoto | Disentangling homophily, community structure and triadic closure in networks    |  onsite  |
-| 339 |    Eun-Kyeong Kim | A Spatial Perspective on Burstiness Measure for Spatiotemporal Event Analysis    |  online  |
-| 5 |    Aleix Bassolas and Vincenzo Nicosia | First-passage times to quantify and compare structural correlations and heterogeneity in complex systems    |  online  |
-|145 |	 Xue Gong, Higham Desmond and Konstantinos Zygalakis | Random graph interpretation of directed graph Laplacians	 |	online	|
+| 339 |    Eun-Kyeong Kim | A Spatial Perspective on Burstiness Measure for Spatiotemporal Event Analysis    |  **online**  |
+| 5 |    Aleix Bassolas and Vincenzo Nicosia | First-passage times to quantify and compare structural correlations and heterogeneity in complex systems    |  **online**  |
+|145 |	 Xue Gong, Higham Desmond and Konstantinos Zygalakis | Random graph interpretation of directed graph Laplacians	 |	**online**	|
 
