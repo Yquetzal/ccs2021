@@ -29,9 +29,9 @@
 |3| Sarika Jalan| Explosive synchronization in interlayer phase-shifted Kuramoto oscillators on multiplex networks| 	onsite  |
 | 10| Riccardo Muolo, Joseph D. O'Brien, Timoteo Carletti, James Gleeson and Malbor Asllani | Synchronization dynamics in real-world networks	|	onsite |	
 | 96| Leah A. Keating, James P. Gleeson and David J.P. O'Sullivan | A Multi-Type Branching Process Method for Modelling Complex Contagion on Clustered Networks		|	onsite |	
-|213 |	Malbor Asllani, Bram Siebert, Alex Arenas and James Gleeson|	 Symmetry-breaking Mechanism for the Formation of Cluster Chimera Patterns	| online	| 
-|181		|	Cedric Simal, Bram Siebert, Timoteo Carletti, James Gleeson and Malbor Asllani | Effects of local interactions in epidemics outbreaks in networks of structured populations|	online	|
-| 123| Marta Tuninetti, Alberto Aleta, Daniela Paolotti, Yamir Moreno and Michele Starnini | Prediction of New Scientific Collaborations Through Multiplex Networks	|	online |	
+|213 |	Malbor Asllani, Bram Siebert, Alex Arenas and James Gleeson|	 Symmetry-breaking Mechanism for the Formation of Cluster Chimera Patterns	| **online**	| 
+|181		|	Cedric Simal, Bram Siebert, Timoteo Carletti, James Gleeson and Malbor Asllani | Effects of local interactions in epidemics outbreaks in networks of structured populations|	**online**	|
+| 123| Marta Tuninetti, Alberto Aleta, Daniela Paolotti, Yamir Moreno and Michele Starnini | Prediction of New Scientific Collaborations Through Multiplex Networks	|	**online** |	
 
 ## Session 1.2: Foundations of Complex Systems II
 ### ROOM: Rhône 2 - [Zoom link](https://us02web.zoom.us/j/87497338406)
@@ -68,8 +68,8 @@
 |28   |	 Benoit Matet, Etienne Come and Angelo Furno | A Lightweight Approach for Origin-Destination Matrix Anonymization	 |	onsite	|
 |90   |	 Bernardo Monechi, Enrico Ubaldi, Pietro Gravino, Ilan Chabay and Vittorio Loreto | Finding Successful Strategies in a Complex Urban Sustainability Game	 |	onsite	|
 |157   |	 Evelyne Akopyan, Angelo Furno, Nour-Eddin El Faouzi and Eric Gaume | Unsupervised Real-time Detection of Urban Anomalies Using Massive Mobile Phone Network Data	 |	onsite	|
-|334   |	 Megan Khoshyaran and Jean-Patrick Lebacque | Large scale transportation networks: complex behaviour induced by communication and multimodality	 |	online	|
-|268   |	 Aaron Bramson | Capturing Neighborhood Feel Using Local Graph Characteristics in Large Road Networks	 |	online	|
+|334   |	 Megan Khoshyaran and Jean-Patrick Lebacque | Large scale transportation networks: complex behaviour induced by communication and multimodality	 |	**online**	|
+|268   |	 Aaron Bramson | Capturing Neighborhood Feel Using Local Graph Characteristics in Large Road Networks	 |	**online**	|
 
 ## Session 1.5: Biological and (Bio)Medical Complexity I
 ### ROOM: St Clair 3A - [Zoom link](https://us02web.zoom.us/j/84332149514)
@@ -95,7 +95,7 @@
 |103 |	 Giorgio Tripodi, Francesco Lamperti, Andrea Mina, Francesca Chiaromonte, Fabrizio Lillo and Roberto Mavilia | Quantifying Knowledge Spillovers from Negative Emissions Research within and beyond Science	 |	onsite	|
 |23 |	 Tomasz Raducha, Jaroslaw Klamut, Mateusz Wilinski, Roger Cremades, Paul Bouman and Juan Fernandez-Gracia | Vulnerabilities of Democratic Electoral Systems	 |	onsite	|
 |326 |	 Tomas Mussi Reyero, Mariano Beiro, José Ignacio Alvarez-Hamelin, Laura Hernandez and Dimitris Kotzinos | Tracking the political opinion landscape in Twitter during electoral periods	 |	onsite	|
-|71 |	 Orowa Sikder, Robert Smith, Pierpaolo Vivo and Giacomo Livan | A minimalistic model of bias, polarization and misinformation in social networks	|	online	|
+|71 |	 Orowa Sikder, Robert Smith, Pierpaolo Vivo and Giacomo Livan | A minimalistic model of bias, polarization and misinformation in social networks	|	**online**	|
 
 ## Session 1.7: Social Complexity II
 ### ROOM: Rhône 3B - [Zoom link](https://us02web.zoom.us/j/81789416615)
@@ -107,8 +107,8 @@
 |257 |	 Felix Gaisbauer, Armin Pournaki, Sven Banisch and Eckehard Olbrich | Understanding force directed layouts through latent space models	 |	onsite	|
 |269 |	 Tanja Holstein, Marc Wiedermann and Jurgen Kurths | Optimization Of Coupling And Global Collapse in Diffusively Coupled Socio-Ecological Resource Exploitation Networks	 |	onsite	|
 |270 |	 David Abella Bujalance, Jose Javier Ramasco and Maxi San Miguel | Aging in a Schelling Segregation Model	 |	onsite	|
-|158 |	 Joomi Jun and Takayuki Mizuno | The impact of Ethnic Linkage in Global Trade	 |	online	|
-|275 |	 Naoki Igarashi, Yukihiko Okada and Yukie Sano | Collective Memory with Endogenous Recall Effects in Wikipedia	 |	online	|
+|158 |	 Joomi Jun and Takayuki Mizuno | The impact of Ethnic Linkage in Global Trade	 |	**online**	|
+|275 |	 Naoki Igarashi, Yukihiko Okada and Yukie Sano | Collective Memory with Endogenous Recall Effects in Wikipedia	 |	**online**	|
 
 ## Session 1.8: COVID-19 I
 ### ROOM: Rhône 1 - [Zoom link](https://us02web.zoom.us/j/82535579846)
@@ -121,7 +121,7 @@
 |119 |	 Jesús Arturo Moreno López, Beatriz Arregui García, Piotr Bentkowski, Livio Boglio, Francesco Pinotti, Pierre-Yves Boëlle, Alain Barrat, Vittoria Colizza and Chiara Poletto | Anatomy of digital contact tracing: Role of age, transmission setting, adoption and case detection	 |	onsite	|
 |261 |	 Francesco Bonacina, Pierre-Yves Boelle, Vittoria Colizza, Olivier Lopez, Maud Thomas and Chiara Poletto | Influenza Decline During COVID-19 Pandemic: a Global Analysis Leveraging Classification and Regression Trees	 |	onsite	|
 |72 |	 Laura Di Domenico, Chiara E. Sabbatini, Giulia Pullano, Daniel Lévy-Bruhl and Vittoria Colizza | Impact of January 2021 curfew measures on SARSCoV-2 B.1.1.7 circulation in France	 |	onsite	|
-|26 |	 Takeshi Kano, Kotaro Yasui, Taishi Mikami, Munehiro Asally and Akio Ishiguro | How to Mitigate the COVID-19 Outbreak While Maintaining Economic Activities?	 |	online	|
+|26 |	 Takeshi Kano, Kotaro Yasui, Taishi Mikami, Munehiro Asally and Akio Ishiguro | How to Mitigate the COVID-19 Outbreak While Maintaining Economic Activities?	 |	**online**	|
 
 ## Session 1.9: Methodology I
 ### ROOM: Rhône 4 - [Zoom link](https://us02web.zoom.us/j/84424020810)
@@ -132,8 +132,8 @@
 |286 |	 Yacouba Kaloga, Pierre Borgnat, Sundeep Prabahkar Chepuri, Patrice Abry and Amaury Habrard | Variational Graph Autoencoders for Multiview Canonical Correlation Analysis	 |	onsite	|
 |289 |	 Bernard Ricca | Identifying Phase Transitions in Categorical Time-Series Data	 |	onsite	|
 |311 |	 Jason Kim, Zhixin Lu and Danielle Bassett | Programming Memories and Computations in Recurrent Neural Networks Without Training	 |	onsite	|
-|25 |	 Daekyung Lee, Beom Jun Kim, Heetae Kim and Sang Hoon Lee | Mining Stochasticity of Community Detection to Refine Global and Local Organization of Networks	 |	online	|
-|150 |	 Andrea Zaccaria, Alessandro Carra, Luca Didomenicantonio and Giulio Cimini | Meta-validation of bipartite network projections	 |	onsite	|
+|25 |	 Daekyung Lee, Beom Jun Kim, Heetae Kim and Sang Hoon Lee | Mining Stochasticity of Community Detection to Refine Global and Local Organization of Networks	 |	onsite	|
+|150 |	 Andrea Zaccaria, Alessandro Carra, Luca Didomenicantonio and Giulio Cimini | Meta-validation of bipartite network projections	 |	**online**	|
 | |	 CANCELED | CANCELED	 |		|
 
 # 13:00-14:30 Lunch Break - Poster Session 
