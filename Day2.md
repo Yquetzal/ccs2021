@@ -11,8 +11,8 @@ Panelists:
 
 ## 9:00 - 9:15 [Vittoria Colizza](https://ccs2021.univ-lyon1.fr/#SPEAKER_Vittoria_Colizza) - INSERM, Sorbonne Université, France
 ## 9:15 - 9:30 [Marcel Salathé](https://ccs2021.univ-lyon1.fr/#SPEAKER_Marcel_Salathe) - EPFL, Switzerland
-## 9:30 - 9:45 [Alessia Melegaro](https://ccs2021.univ-lyon1.fr/#SPEAKER_Alessia_Melegaro) - Bocconi University, Italy
-## 9:45 - 10:00 [Thierry Walzer](https://ccs2021.univ-lyon1.fr/#SPEAKER_Thierry_Walzer) - Inserm, CIRI, Lyon
+## 9:30 - 09:45 [Thierry Walzer](https://ccs2021.univ-lyon1.fr/#SPEAKER_Thierry_Walzer) - Inserm, CIRI, Lyon
+## 9:45 - 10:00 [Alessia Melegaro](https://ccs2021.univ-lyon1.fr/#SPEAKER_Alessia_Melegaro) - Bocconi University, Italy
 ## 10:00 - 10:45 Panel discussion
 
 # 10:45 - 11:30 Coffee Break / Poster Session 
