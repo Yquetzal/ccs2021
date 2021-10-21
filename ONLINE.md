@@ -25,7 +25,7 @@ You can attend workshops online using Zoom too. A [dedicated page](https://ccs20
 | monday 25    | 14h15 - 16h15 | CCS21 - Plenary 25 PM | https://us02web.zoom.us/j/81172291142 |
 | tuesday 26    | 8h45 - 11h00  | CCS21 - Plenary 26 AM | https://us02web.zoom.us/j/3765359110  |
 | tuesday 26    | 14h15 - 16h15 | CCS21 - Plenary 26 PM | https://us02web.zoom.us/j/81592038467 |
-| thursday 28    | 8h45 - 11h00  | CCS21 - Plenary 29 AM | https://us02web.zoom.us/j/87861430914 |
+| friday 29    | 8h45 - 11h00  | CCS21 - Plenary 29 AM | https://us02web.zoom.us/j/87861430914 |
 | friday 29 | 13h30 - 17h15 | CCS21 - Plenary 29 PM | https://us02web.zoom.us/j/87294701285 |
 
 ## Parallel Sessions
