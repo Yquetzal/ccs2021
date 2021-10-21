@@ -8,7 +8,7 @@ Zoom sessions are protected by a password, that all registerd attendees will rec
 The links to attend each session can be found below. Note that they will be active only when the sessions start.
 
 ## Gather.town
-Gather.town is a way to recreate the social aspect of conferences in an online setting. You can join the gather.town space of CCS2021 by following this link (Coming Soon). 
+Gather.town is a way to recreate the social aspect of conferences in an online setting. You can join the gather.town space of CCS2021 by following [this link](https://gather.town/app/yx3OzFjlu8hggX9B/CCS2021). 
 Posters will be viewable in Gather.town.
 
 You can join it at any time, however you can expect to encounter the most people during breaks.
