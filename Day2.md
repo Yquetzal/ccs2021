@@ -20,7 +20,7 @@ Panelists:
 
 # 11:30 - 13:00 Parallel Sessions 3
 ## Session 3.1: Foundations of Complex Systems V
-### ROOM: Rhône 1
+### ROOM: Rhône 1 - [Zoom link](https://us02web.zoom.us/j/85831081344)
 ### Chair: Marta Sales-Pardo 
 
 | ID  | Authors | Title | Mode|
@@ -33,7 +33,7 @@ Panelists:
 | 190 |   Sebastiano Bontorin and Manlio De Domenico | Multi-pathways temporal distance unravels the hidden geometry of network-driven processes   | online  |
 
 ## Session 3.2: Foundations of Complex Systems VI
-### ROOM: Rhône 2
+### ROOM: Rhône 2 - [Zoom link](https://us02web.zoom.us/j/83561810934)
 ### Chair: Sofia Teixeira Andreia
 
 | ID  | Authors | Title | Mode|
@@ -46,7 +46,7 @@ Panelists:
 | 2 |   Matthijs Koopmans | Fractal and Seasonal Patterns in Long-Range Time Series   | online  |
 
 ## Session 3.3: Psychology, Neurosciences, Linguistics II
-### ROOM: St Clair 4
+### ROOM: St Clair 4 - [Zoom link](https://us02web.zoom.us/j/82311065687)
 ### Chair: Adrien Meynard 
 
 | ID  | Authors | Title | Mode|
@@ -59,7 +59,7 @@ Panelists:
 | 60 |   Hayato Misumi, Taiki Ogata and Tomomi Kito | Patterns of Cooperative Rhythm Production Between One Leader and Two Followers Through Auditory and Visual Information   | online  |
 
 ## Session 3.4: Economics and Finance II
-### ROOM: St Clair 3B
+### ROOM: St Clair 3B - [Zoom link](https://us02web.zoom.us/j/88251656398)
 ### Chair: Tiziana Di Matteo
 
 | ID  | Authors | Title | Mode|
@@ -72,7 +72,7 @@ Panelists:
 | 98 |   Lorenzo Lucchini, Laura Maria Alessandretti, Bruno Lepri, Angela Gallo and Andrea Baronchelli | From code to market: Network of developers and correlated returns of cryptocurrencies   | online  |
 
 ## Session 3.5: Biological and (Bio)Medical Complexity III
-### ROOM: St Clair 3A
+### ROOM: St Clair 3A - [Zoom link](https://us02web.zoom.us/j/88112089286)
 ### Chair: TBA
 
 | ID  | Authors | Title | Mode|
@@ -85,7 +85,7 @@ Panelists:
 |  |   CANCELED | CANCELED  |   |
 
 ## Session 3.6: Social complexity IV
-### ROOM: Auditorium
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/85195842648)
 ### Chair: Anxo Sanchez
 
 | ID  | Authors | Title | Mode|
@@ -98,7 +98,7 @@ Panelists:
 |  |   CANCELED | CANCELED  |   |
 
 ## Session 3.7: Social complexity V
-### ROOM: Rhône 3B
+### ROOM: Rhône 3B - [Zoom link](https://us02web.zoom.us/j/81669383526)
 ### Chair: TBA
 
 | ID  | Authors | Title | Mode|
@@ -111,7 +111,7 @@ Panelists:
 | 185 |   Brian Hennessy and Malbor Asllani | Non-normality driven polarization in social dynamics   | online  |
 
 ## Session 3.8: COVID-19 IV
-### ROOM: Rhône 3A
+### ROOM: Rhône 3A - [Zoom link](https://us02web.zoom.us/j/82982159391)
 ### Chair: Marcel Salathé
 
 | ID  | Authors | Title | Mode|
@@ -124,7 +124,7 @@ Panelists:
 | 262 |   Aleix Bassolas, Andrea Santoro, Sandro Sousa, Silvia Rognone and Vincenzo Nicosia | Optimising the mitigation of epidemic spreading through targeted adoption of contact tracing apps  | online  |
 
 ## Session 3.9: Methodology II
-### ROOM: Rhône 4
+### ROOM: Rhône 4 - [Zoom link](https://us02web.zoom.us/j/82952228645)
 ### Chair: Christophe Crespelle 
 
 | ID  | Authors | Title | Mode|
@@ -159,7 +159,7 @@ Panelists:
 
 # 16:45 - 18:30 Parallel Sessions 4
 ## Session 4.1: Foundations of Complex Systems VII
-### ROOM: Rhône 1
+### ROOM: Rhône 1 - [Zoom link](https://us02web.zoom.us/j/81946474868)
 ### Chair: Javier Borge Holthoefer
 
 | ID  | Authors | Title | Mode|
@@ -173,7 +173,7 @@ Panelists:
 | 298 |    Eric Peña and Hiroki Sayama | Life Worth Mentioning: Complexity in Life-Like Cellular Automata    |  online  |
 
 ## Session 4.2: Foundations of Complex Systems VIII
-### ROOM: Rhône 2
+### ROOM: Rhône 2 - [Zoom link](https://us02web.zoom.us/j/89049857821)
 ### Chair: Iacopo Iacopini
 
 | ID  | Authors | Title | Mode|
@@ -187,7 +187,7 @@ Panelists:
 | 300 |    Rico Berner, Serhiy Yanchuk and Eckehard Scholl | Generalized splay states: Dynamics on and in the vicinity of the splay manifold    |  online  |
 
 ## Session 4.3: Economics and Finance III
-### ROOM: St Clair 3B
+### ROOM: St Clair 3B - [Zoom link](https://us02web.zoom.us/j/87056400020)
 ### Chair: Cécile Bastidon
 
 | ID  | Authors | Title | Mode|
@@ -201,7 +201,7 @@ Panelists:
 | 231 |    Alberto Bracci, Jorn Boehnke, Abeer El Bahrawy, Nicola Perra, Alexander Teytelboym and Andrea Baronchelli | Macroscopic properties of buyer-seller networks in online marketplaces    |  online  |
 
 ## Session 4.4: Biological and (Bio)Medical Complexity IV
-### ROOM: St Clair 3A
+### ROOM: St Clair 3A - [Zoom link](https://us02web.zoom.us/j/84742331177)
 ### Chair: TBA
 
 | ID  | Authors | Title | Mode|
@@ -215,7 +215,7 @@ Panelists:
 | 313 |    Parisa Rahmani, Fernando Peruani and Pawel Romanczuk | Flocking in complex environments-attention trade-offs in collective information processing    |  online  |
 
 ## Session 4.5: Social Complexity VI
-### ROOM: Rhône 3B
+### ROOM: Rhône 3B - [Zoom link](https://us02web.zoom.us/j/82040908486)
 ### Chair: Bertrand Jouve
 
 | ID  | Authors | Title | Mode|
@@ -229,7 +229,7 @@ Panelists:
 | 219 |    Pietro Gravino, Giulio Prevedello, Martina Galletti and Vittorio Loreto | Assessing disinformation through the dynamics of supply and demand in the news ecosystem    |  online  |
 
 ## Session 4.6: Social complexity VII
-### ROOM: St Clair 4
+### ROOM: St Clair 4 - [Zoom link](https://us02web.zoom.us/j/84745653540)
 ### Chair: Carlos Gershenson
 
 | ID  | Authors | Title | Mode|
@@ -243,7 +243,7 @@ Panelists:
 | 336 |    Sriniwas Pandey and Hiroki Sayama | Dynamics of User Eccentricity on GAB Social Media    |  online  |
 
 ## Session 4.7: Complexity in Physics and Chemistry I
-### ROOM: Auditorium
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/86262205696)
 ### Chair: Maxi San Miguel
 
 | ID  | Authors | Title | Mode|
@@ -257,7 +257,7 @@ Panelists:
 | 73 |    Ankit Mishra and Sarika Jalan | Eigenvalue ratio spacing statistics of complex networks: Disorder vs Randomness    |  onsite  |
 
 ## Session 4.8: COVID-19 V
-### ROOM: Rhône 3A
+### ROOM: Rhône 3A - [Zoom link](https://us02web.zoom.us/j/85411584167)
 ### Chair: Chiara Poletto
 
 | ID  | Authors | Title | Mode|
@@ -272,7 +272,7 @@ Panelists:
 
 
 ## Session 4.9: Methodology III
-### ROOM: Rhône 4
+### ROOM: Rhône 4 - [Zoom link](https://us02web.zoom.us/j/89628210315)
 ### Chair: Pierre Borgnat
 
 | ID  | Authors | Title | Mode|
