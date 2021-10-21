@@ -4,6 +4,8 @@
 
 The presenters at the conference should have a valid Registration to the conference before (~~July 30~~) September 6, 2021, else the slot in the program can not be guaranteed. 
 
+**Note that the Social Dinner is now full (as of October 20) and reserved to onsite participants to the full conference (excepted if withdrawals of some attendants).**
+
 The conference hosts several Satellite workshops. Note the following conditions of organisation:
 * For the Satellite workshops, there will be three types of satellites:  Onsite workshops,  Hybrid format workshops (during the conference), or Online only workshops (on Friday 22 October or during the conference). 
 * For all Satellites during the conference, every Onsite participants will be able to attend any workshop, either by connecting from where they want or from the dedicated room on the conference venue (there will be one room for each Satellite on the Conference venue). 
