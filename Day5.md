@@ -36,7 +36,7 @@
 
 ## Session 5.2: Foundations of Complex Systems X
 ### ROOM: Rhône 1 - [Zoom link](https://us02web.zoom.us/j/85283208490)
-### Chair: Jose Mendes
+### Chair: Timoteo Carletti
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
