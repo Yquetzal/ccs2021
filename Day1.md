@@ -6,12 +6,12 @@
 ### ROOM: Foyer Lumiere
 
 # 9:00-9:30 Opening
-# 9:30-10:15 Keynote Talk 1 
+# 9:30-10:15 Keynote Talk 1  - [Zoom link](https://us02web.zoom.us/j/83424157307)
 ## Title: [Disease propagation on networks and a switchover phenomenon](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
 ## Speaker: [László Lovász](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
 ### ROOM: Auditorium
 
-# 10:15-10:45 Invited Talk 1
+# 10:15-10:45 Invited Talk 1 - [Zoom link](https://us02web.zoom.us/j/83424157307)(same as previous)
 ## Title: [Data Science for Social Impact](https://ccs2021.univ-lyon1.fr/#SPEAKER_Meeyoung_Cha)
 ## Speaker : [Meeyoung Cha](https://ccs2021.univ-lyon1.fr/#SPEAKER_Meeyoung_Cha)
 ### ROOM: Auditorium
@@ -139,18 +139,18 @@
 # 13:00-14:30 Lunch Break - Poster Session 
 ### Room: Forum 2 & 3
 
-# 14:30-15:15 Keynote Talk 2
+# 14:30-15:15 Keynote Talk 2  - [Zoom link](https://us02web.zoom.us/j/81172291142)
 ### ROOM: Auditorium
 ## Title: [The Geometry of Decision Making](https://ccs2021.univ-lyon1.fr/#SPEAKER_Iain_Couzin)
 ## Speaker : [Iain Couzin](https://ccs2021.univ-lyon1.fr/#SPEAKER_Iain_Couzin)
 
 
-# 15:15-15:45 Invited Talk 2
+# 15:15-15:45 Invited Talk 2  - [Zoom link](https://us02web.zoom.us/j/81172291142) (Same as previous)
 ### ROOM: Auditorium
 ## Title: [Having an impact: the challenge of using complex systems science to make a difference in the humanitarian sector](https://ccs2021.univ-lyon1.fr/#SPEAKER_Daniela_Paolotti_)
 ## Speaker : [Daniela Paolotti](https://ccs2021.univ-lyon1.fr/#SPEAKER_Daniela_Paolotti_)
 
-# 15:45-16:15 Invited Talk 3
+# 15:45-16:15 Invited Talk 3  - [Zoom link](https://us02web.zoom.us/j/81172291142) (Same as previous)
 ### ROOM: Auditorium
 ## Title: [Towards Complexity Science for Humanitarian and Development work](https://ccs2021.univ-lyon1.fr/#SPEAKER_Manuel_Garcia-Herranz)
 ## Speaker : [Manuel Garcia-Herranz](https://ccs2021.univ-lyon1.fr/#SPEAKER_Manuel_Garcia-Herranz)
