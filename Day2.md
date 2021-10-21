@@ -5,7 +5,7 @@
 # 8:00 - 9:00 Registration
 
 # 9:00 - 10:45 COVID-19 Panel
-### ROOM: Auditorium
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/3765359110)
 In this Panel, various experts on the COVID-19 Pandemic will discuss about their experience takling it.
 Panelists:
 
@@ -140,18 +140,18 @@ Panelists:
 ### Room: Forum 2 & 3
 
 # 14:30-15:15 Keynote Talk 3
-### ROOM: Auditorium
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/81592038467)
 ## Title: [How the architecture of genotype spaces shapes evolutionary dynamics](https://ccs2021.univ-lyon1.fr/#SPEAKER_Susanna_Manrubia)
 ## Speaker : [Susanna Manrubia](https://ccs2021.univ-lyon1.fr/#SPEAKER_Susanna_Manrubia)
 
 
 # 15:15-15:45 Invited Talk 4
-### ROOM: Auditorium
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/81592038467) (Same as previous)
 ## Title: [Accounting for Network Noise: Counting, Epidemic Control, and Experiments](https://ccs2021.univ-lyon1.fr/#SPEAKER_Eric_D__Kolaczyk)
 ## Speaker : [Eric D. Kolaczyk](https://ccs2021.univ-lyon1.fr/#SPEAKER_Eric_D__Kolaczyk)
 
 # 15:45-16:15 Invited Talk 5
-### ROOM: Auditorium
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/81592038467) (Same as previous)
 ## Title: TBA
 ## Speaker : [Hyejin Youn](https://ccs2021.univ-lyon1.fr/#SPEAKER_Hyejin_Youn)
 
