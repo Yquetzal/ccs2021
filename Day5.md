@@ -21,7 +21,7 @@
 # 10:45 - 11:15 Coffee Break
 # 11:15 - 12:45 Parallel Sessions 5
 ## Session 5.1: Foundations of Complex Systems IX
-### ROOM: Auditorium
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/89215912808)
 ### Chair: Jose Mendes
 
 | ID  | Authors | Title | Mode|
@@ -34,7 +34,7 @@
 | 11 |    Kiyoshi Kanazawa and Didier Sornette | Classification of Power law Relations in the Intensity Distribution for a Large Class of Self-excited Nonlinear Hawkes Processes    |  online  |
 
 ## Session 5.2: Foundations of Complex Systems X
-### ROOM: Rhône 1
+### ROOM: Rhône 1 - [Zoom link](https://us02web.zoom.us/j/85283208490)
 ### Chair: TBA
 
 | ID  | Authors | Title | Mode|
@@ -47,7 +47,7 @@
 | |    CANCELED | CANCELED    |    |
 
 ## Session 5.3: Psychology, Neurosciences, Linguistics III
-### ROOM: Rhône 2
+### ROOM: Rhône 2 - [Zoom link](https://us02web.zoom.us/j/82377825486)
 ### Chair: Jean-Philippe Mague
 
 | ID  | Authors | Title | Mode|
@@ -60,7 +60,7 @@
 | 332 |    Irene Ferri, Emanuele Cozzo, Albert Diaz-Guilera and Luce Prignano | A bounded confidence model of emotionally aroused integrate and fire oscillators.    |  onsite  |
 
 ## Session 5.4: Economics and Finance IV
-### ROOM: St Clair 3B
+### ROOM: St Clair 3B - [Zoom link](https://us02web.zoom.us/j/89135568265)
 ### Chair: Alberto Antonioni
 
 | ID  | Authors | Title | Mode|
@@ -73,7 +73,7 @@
 | 307 |    Katarina Mayer | Optimal Legal System in a Semi-Underground Economy    |  onsite  |
 
 ## Session 5.5: Biological and (Bio)Medical Complexity V
-### ROOM: Rhône 3B
+### ROOM: Rhône 3B - [Zoom link](https://us02web.zoom.us/j/83104643613)
 ### Chair: Paulo Gonçalves
 
 | ID  | Authors | Title | Mode|
@@ -87,7 +87,7 @@
 
 
 ## Session 5.6: Social Complexity VIII
-### ROOM: St Clair 3A
+### ROOM: St Clair 3A - [Zoom link](https://us02web.zoom.us/j/86035315904)
 ### Chair: Márton Karsai
 
 | ID  | Authors | Title | Mode|
@@ -101,7 +101,7 @@
 
 
 ## Session 5.7: Social Complexity IX
-### ROOM: St Clair 4
+### ROOM: St Clair 4 - [Zoom link](https://us02web.zoom.us/j/82325259051)
 ### Chair: Michele Tizzoni
 
 | ID  | Authors | Title | Mode|
@@ -114,7 +114,7 @@
 | 265 |    Yasaman Asgari, Armin Pournaki, Eckehard Olbrich and Felix Gaisbauer | Dynamic communities and engagement in public debate about Covid-19 in the German Twittersphere    |  online  |
 
 ## Session 5.8: COVID-19 VI
-### ROOM: Rhône 3A
+### ROOM: Rhône 3A - [Zoom link](https://us02web.zoom.us/j/89954888135)
 ### Chair: Eugenio Valdano
 
 | ID  | Authors | Title | Mode|
@@ -127,7 +127,7 @@
 | 116 |    Paul Churchyard, Ramani Peruvemba, Ajay Gupta and Christopher Woloshyn | Secondary Bacterial Infection Risk Index    |  onsite  |
 
 ## Session 5.9: Transdisciplinary and Applied Complex Systems II
-### ROOM: Rhône 4
+### ROOM: Rhône 4 - [Zoom link](https://us02web.zoom.us/j/86065194945)
 ### Chair: Elisa Omodei
 
 | ID  | Authors | Title | Mode|
