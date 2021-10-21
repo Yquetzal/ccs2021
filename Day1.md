@@ -11,7 +11,7 @@
 ### ROOM: Auditorium  - [Zoom link](https://us02web.zoom.us/j/83424157307)
 ### Chair: Márton Karsai
 
-## 9:30-10:15 Keynote Talk 1
+# 9:30-10:15 Keynote Talk 1
 ## Title: [Disease propagation on networks and a switchover phenomenon](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
 ## Speaker: [László Lovász](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
 
