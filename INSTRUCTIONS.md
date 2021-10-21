@@ -12,6 +12,8 @@ Contributed oral presentations (onsite or online) will have 12 minutes to talk a
 
 All slides of video presentations should be submitted by following the file naming convention explained below*. Slides and recorded videos should be uploaded in an **online folder (that has been shared by an email of October 11, title "CCS 2021 Lyon - Submission details for presenters")**. All materials should be submitted not later than the October 18th, 2021. Note that you can send slides to the email address: ccs2021organizers@gmail.com if you don't find the email, following the mail subject field naming convention.
 
+**All speakers in a session should report to the room or the zoom session 10 to 15 minutes before the start to confirm the mode of presentation (on site, online, or  pre-recorded) with the helpers.**
+
 # Poster presentations
 There will be onsite and online poster presentations. Onsite posters should be in portrait orientation with dimensions width: 90 cm per height: 150 cm. All (onsite and online) posters should be sent in a pdf format (with size maximum 20 MB) before the deadline October 18, 2021. In addition, for the online presentations, we ask all poster presenters to send a 3 minutes video (in mp4 format with size maximum 20 MB).
 
