@@ -31,7 +31,7 @@
 | 166 |    Abdul Quadir, Haider H Jafri and Avinash Chand Yadav | Critical avalanche properties in Neuronal Level Model    |  onsite  |
 | 305 |    Iva Bačić, János Kertész, Albert-László Barabási and Márton Pósfai | Onset of physicality in a random network growth model    |  onsite  |
 | 338 |    Suman Acharyya, Baruch Barzel and Reuven Cohen | Cascade mitigation on complex networks of coupled second order Kuramoto Oscillators    |  onsite  |
-| 11 |    Kiyoshi Kanazawa and Didier Sornette | Classification of Power law Relations in the Intensity Distribution for a Large Class of Self-excited Nonlinear Hawkes Processes    |  online  |
+| 11 |    Kiyoshi Kanazawa and Didier Sornette | Classification of Power law Relations in the Intensity Distribution for a Large Class of Self-excited Nonlinear Hawkes Processes    |  **online**  |
 
 ## Session 5.2: Foundations of Complex Systems X
 ### ROOM: Rhône 1 - [Zoom link](https://us02web.zoom.us/j/85283208490)
@@ -42,8 +42,8 @@
 | 70 |    The Anh Han, Tom Lenaerts, Francisco C. Santos and Luis Moniz Pereira | Voluntary safety commitments provide an escape from over-regulation in AI development    |  onsite  |
 | 209 |    Akylas Fotiadis and Dimitrios Kugiumtzis | Information-based Estimation of Causality Networks from High Dimensional Multivariate Time Series    |  onsite  |
 | 79 |    Robin Delabays, Saber Jafarpour and Francesco Bullo | Flow Network Problems on the n-torus with Asymmetric Couplings    |  onsite  |
-| 220 |    Linda Tillert, Luis Gomez-Nava and Pawel Romanczuk | The Role Of Speed Adaptation In Collective Motion    |  online  |
-| 330 |    Loredana Bellantuono, Alfonso Monaco, Sabina Tangaro, Nicola Amoroso, Vincenzo Aquaro and Roberto Bellotti | An Equity-Oriented Rethink Of Global Rankings With Complex Networks Mapping Development    |  online  |
+| 220 |    Linda Tillert, Luis Gomez-Nava and Pawel Romanczuk | The Role Of Speed Adaptation In Collective Motion    |  **online**  |
+| 330 |    Loredana Bellantuono, Alfonso Monaco, Sabina Tangaro, Nicola Amoroso, Vincenzo Aquaro and Roberto Bellotti | An Equity-Oriented Rethink Of Global Rankings With Complex Networks Mapping Development    |  **online**  |
 | |    CANCELED | CANCELED    |    |
 
 ## Session 5.3: Psychology, Neurosciences, Linguistics III
@@ -109,9 +109,9 @@
 | 317 |    Giulio Burgio, Benjamin Steinegger, Giacomo Rapisardi and Alex Arenas | The Impact of Homophily on Digital Proximity Tracing    |  onsite  |
 | 78 |    Nancy Li, Markus Luczak-Roesch and Flavia Donadelli | "We follow the science": Studying information dynamics across the science-policy interface    |  onsite  |
 | 267 |    Ludovico Napoli, Vedran Sekara, Manuel Garcia-Herranz and Marton Karsai | Social network reorganization during emergency lockdown    |  onsite  |
-| 297 |   Remi Perrier, Hendrik Schawe and Laura Hernandez | On the resilience of extremism: the heterogeneous Hegselmann-Krause model in networks   | online  |
-| 110  |  Akira Ishii and Nozomi Okano | Trust-Distrust Model on Multiple Network of Society as New Type of Opinion Dynamics | online |
-| 265 |    Yasaman Asgari, Armin Pournaki, Eckehard Olbrich and Felix Gaisbauer | Dynamic communities and engagement in public debate about Covid-19 in the German Twittersphere    |  online  |
+| 297 |   Remi Perrier, Hendrik Schawe and Laura Hernandez | On the resilience of extremism: the heterogeneous Hegselmann-Krause model in networks   | **online**  |
+| 110  |  Akira Ishii and Nozomi Okano | Trust-Distrust Model on Multiple Network of Society as New Type of Opinion Dynamics | **online** |
+| 265 |    Yasaman Asgari, Armin Pournaki, Eckehard Olbrich and Felix Gaisbauer | Dynamic communities and engagement in public debate about Covid-19 in the German Twittersphere    |  **online**  |
 
 ## Session 5.8: COVID-19 VI
 ### ROOM: Rhône 3A - [Zoom link](https://us02web.zoom.us/j/89954888135)
@@ -119,7 +119,7 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 135 |    Jesús Arturo Moreno López, Alberto Hernando, Sandro Meloni and José Javier Ramasco Sukia | Critical Interventions: Mobility-Based Thresholds for Epidemic Containment.    |  online  |
+| 135 |    Jesús Arturo Moreno López, Alberto Hernando, Sandro Meloni and José Javier Ramasco Sukia | Critical Interventions: Mobility-Based Thresholds for Epidemic Containment.    |  **online**  |
 | 117 |    Lalita Meena, Carissa Kwan, Ajay Gupta and Christopher Woloshyn | Developing a Business Risk Index for COVID-19 Transmission based on Mobility Networks    |  onsite  |
 | 14 |    Giulia Cencetti, Gabriele Santin, Antonio Longa, Emanuele Pigani, Alain Barrat, Ciro Cattuto, Sune Lehmann, Marcel Salathe and Bruno Lepri | Digital proximity tracing on empirical contact networks for pandemic control    |  onsite  |
 | 83 |    Chiara Elisa Sabbatini, Laura Di Domenico, Pierre-Yves Boelle, Chiara Poletto, Pascal Crepey, Juliette Paireau, Simon Cauchemez, Francois Beck, Harold Noel, Daniel Levy-Bruhl and Vittoria Colizza | Adherence and sustainability of interventions informing optimal control against COVID-19 pandemic   |  onsite  |
@@ -133,11 +133,11 @@
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 | 319 |    Sabin Roman | Peak Oil and the Minimum EROI for Society    |  onsite  |
-| 316 |    Valerian Jacques-Dumas, Francesco Ragone, Freddy Bouchet, Pierre Borgnat and Patrice Abry | Deep Learning based Extreme Heatwave Forecast    |  online  |
-| 259 |    Mariko Ito, Yoshifumi Amamoto and Takaaki Ohnishi | Change of network structure of elastomers under elongation    |  online  |
-| 88 |    Ana Teixeira de Melo and Leo Simon Dominic Caves | Outreach in Complexity Studies for transforming 'everyday' modes of thinking: The Complex Thinking Academy    |  online  |
-| 47 |    Lin Zhang, Ling Feng, Kan Chen and Choy Heng Lai | Scaling relations of training hyper-parameters in deep learning    |  online  |
-| 239 |    Makoto Takeuchi and Yukie Sano | Burstiness and 1/f noise in the physical activities of children and adults    |  online  |
+| 316 |    Valerian Jacques-Dumas, Francesco Ragone, Freddy Bouchet, Pierre Borgnat and Patrice Abry | Deep Learning based Extreme Heatwave Forecast    |  **online**  |
+| 259 |    Mariko Ito, Yoshifumi Amamoto and Takaaki Ohnishi | Change of network structure of elastomers under elongation    |  **online**  |
+| 88 |    Ana Teixeira de Melo and Leo Simon Dominic Caves | Outreach in Complexity Studies for transforming 'everyday' modes of thinking: The Complex Thinking Academy    |  **online**  |
+| 47 |    Lin Zhang, Ling Feng, Kan Chen and Choy Heng Lai | Scaling relations of training hyper-parameters in deep learning    |  **online**  |
+| 239 |    Makoto Takeuchi and Yukie Sano | Burstiness and 1/f noise in the physical activities of children and adults    |  **online**  |
 
 # 12:45-13:45 Lunch Break
 ## Room: Forum 2 & 3 
