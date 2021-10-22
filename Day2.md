@@ -53,7 +53,7 @@ Panelists:
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 | 260 |   Alessandro Londei and Vittorio Loreto | Dreaming Neural Networks  | onsite  |
-| 50 |   Jingmeng Cui, Merlijn Olthof, Anna Lichtwarck-Aschoff, Fred Hasselman and Tiejun Li | Simlandr: Potential landscape methods for psychological formal models   | onsite  |
+| 50 |   Jingmeng Cui, Merlijn Olthof, Anna Lichtwarck-Aschoff, Fred Hasselman and Tiejun Li | Simlandr: Potential landscape methods for psychological formal models   | **online**  |
 | 201 |   Osnat Mokryn, David Bodoff and Joel Lanir | Intentionality of emotions enables to detect the 'emotions of the crowd'   | **online**  |
 | 291 |   Dhrubajyoti Biswas, Samana Pranesh and Sayan Gupta | Effects Of Noise On Ageing Transitions In Network Of Rulkov Neurons   | **online**  |
 | 290 |   Osnat Mokryn and Hagit Ben-Shoshan | Domain-based Latent Personal Analysis and its uses for online Impersonation Detection   | **online**  |
