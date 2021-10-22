@@ -89,7 +89,7 @@
 
 ## Session 5.6: Social Complexity VIII
 ### ROOM: St Clair 3A - [Zoom link](https://us02web.zoom.us/j/86035315904)
-### Chair: Márton Karsai
+### Chair: Eszter Bokányi
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
