@@ -40,6 +40,7 @@
 
 # 16:45 - 18:00 Meet the Editor
 ### ROOM: Rhône 4
+### Chair: Hocine Cherifi
 
 # 19:00 - 22:30 Social Dinner
 ## Venue: [Hotel de ville de Lyon (Lyon city hall)](https://goo.gl/maps/6bWuMtVWjjZVCwxs8)
