@@ -70,7 +70,7 @@
 | ---: | :----: | :------: | :----:	|
 |283 |	 Hanae El Gouj and Claire Lagesse | Road network analysis based on geohistorical data	 |	onsite	|
 |28   |	 Benoit Matet, Etienne Come and Angelo Furno | A Lightweight Approach for Origin-Destination Matrix Anonymization	 |	onsite	|
-|90   |	 Bernardo Monechi, Enrico Ubaldi, Pietro Gravino, Ilan Chabay and Vittorio Loreto | Finding Successful Strategies in a Complex Urban Sustainability Game	 |	onsite	|
+|90   |	 Bernardo Monechi, Enrico Ubaldi, Pietro Gravino, Ilan Chabay and Vittorio Loreto | Finding Successful Strategies in a Complex Urban Sustainability Game	 |	**online**	|
 |157   |	 Evelyne Akopyan, Angelo Furno, Nour-Eddin El Faouzi and Eric Gaume | Unsupervised Real-time Detection of Urban Anomalies Using Massive Mobile Phone Network Data	 |	onsite	|
 |334   |	 Megan Khoshyaran and Jean-Patrick Lebacque | Large scale transportation networks: complex behaviour induced by communication and multimodality	 |	**online**	|
 |268   |	 Aaron Bramson | Capturing Neighborhood Feel Using Local Graph Characteristics in Large Road Networks	 |	**online**	|
