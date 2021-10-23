@@ -30,7 +30,7 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-|3| Sarika Jalan| Explosive synchronization in interlayer phase-shifted Kuramoto oscillators on multiplex networks| 	onsite  |
+|3| Sarika Jalan| Explosive synchronization in interlayer phase-shifted Kuramoto oscillators on multiplex networks| 	**online**  |
 | 10| Riccardo Muolo, Joseph D. O'Brien, Timoteo Carletti, James Gleeson and Malbor Asllani | Synchronization dynamics in real-world networks	|	onsite |	
 | 96| Leah A. Keating, James P. Gleeson and David J.P. O'Sullivan | A Multi-Type Branching Process Method for Modelling Complex Contagion on Clustered Networks		|	onsite |	
 |213 |	Malbor Asllani, Bram Siebert, Alex Arenas and James Gleeson|	 Symmetry-breaking Mechanism for the Formation of Cluster Chimera Patterns	| **online**	| 
