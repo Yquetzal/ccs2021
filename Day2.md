@@ -93,10 +93,10 @@ Panelists:
 | ---: | :----: | :------: | :----:	|
 | 105 |   Antoine Lucquiaud and Julien Randon-Furling | Analytical Derivations of Critical Tolerance Thresholds in the Schelling Model   | onsite  |
 | 218 |   Guillermo Romero Moreno, Sukankana Chakraborty and Markus Brede | Shadowing and shielding: Effective heuristics for continuous influence maximisation in the voting dynamics   | onsite  |
-| 163 |   Gabriele Di Bona, Enrico Ubaldi, Iacopo Iacopini, Bernardo Monechi, Vito Latora and Vittorio Loreto | How social interactions influence the discovery of novel music in online platforms   | onsite  |
 | 33 |   Stephany Rajeh, Marinette Savonnet, Eric Leclercq and Hocine Cherifi | A comparison of community-aware centrality measures in online social networks   | **online**  |
 | 176 |   Masashi Shiraishi, Osamu Yamanaka and Hiraku Nishimori | Effect of Interaction Network Structure in Response Threshold Model on Task Allocation   | **online**  |
 | 81 |    Anne-Marie Grisogono, Roger Bradbury, John Finnigan, Brian Walker and Paul Oppenheimer | Evolution of Governance    |  **online**  |
+| | CANCELED | CANCELED ||
 
 ## Session 3.7: Social complexity V
 ### ROOM: Rhône 3B - [Zoom link](https://us02web.zoom.us/j/81669383526)
