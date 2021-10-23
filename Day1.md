@@ -233,7 +233,7 @@
 | 102  |  Charlie Pilgrim, Weisi Guo and Thomas T Hills | Attention Ecology  | onsite |
 | 189  |  Antoine Brias, Jean-Baptiste Pichancourt and Anne Bonis | How to organize and adapt collective action in a complex social-ecological landscape where global change pressures the sustainability of multiple ecosystem services: case study in a French urban area  | onsite |
 | 195  |  Vincent Verbavatz and Marc Barthelemy | Zipf's law for cities: the end  | onsite |
-| 321 |    Hao Cui and János Kertész | Relationship between repost network evolution of trending hashtags and their ranking dynamics in microblogging complex system    |  **online**  |
+| 321 |    Hao Cui and János Kertész | Relationship between repost network evolution of trending hashtags and their ranking dynamics in microblogging complex system    |  onsite  |
 
 ## Session 2.7: COVID-19 II
 ### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/84039569289)
