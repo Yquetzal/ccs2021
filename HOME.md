@@ -1,6 +1,6 @@
 # Welcome to CCS 2021 
 
-**Note (Oct. 21): An e-mail with title CCS 2021 Conference - Online participation and more - has been sent  to all registered participants.**
+**Note (Oct. 21): An e-mail with title "CCS 2021 Conference - Online participation and more" has been sent  to all registered participants; it contains the access codes If you don't have it while registered, check spam folders then contact us.**
 
 The Conference on Complex Systems, the flagship conference of the [Complex System Society](https://www.cssociety.org), is the most important annual meeting for the complex systems research community. Last year, the Conference was fully online because of the Covid-19 pandemics.
 
