@@ -5,7 +5,7 @@
       {
         "name": "Pierre Borgnat",
         "affiliation": "CNRS, ENS de Lyon",
-        "pic": "https://perso.ens-lyon.fr/pierre.borgnat/Autres/PierreBorgnat.jpg",
+        "pic": "people-pics/PierreBorgnat.jpg",
         "website": "https://perso.ens-lyon.fr/pierre.borgnat/"
       },
       {
@@ -73,7 +73,7 @@
       {
         "name": "Bertrand Jouve",
         "affiliation": "CNRS, University of Toulouse 2, France",
-        "pic": "https://blogs.univ-tlse2.fr/jouve/files/2014/12/cropped-phot1.jpg",
+        "pic": "people-pics/Jouve.jpg",
         "website": "https://blogs.univ-tlse2.fr/jouve/",
         "twitter": ""
       },
@@ -134,7 +134,7 @@
       {
         "name": "Carlos Gershenson",
         "affiliation": "UNAM, Mexico",
-        "pic": "https://turing.iimas.unam.mx/~cgg/img/carlos-iimas.jpg",
+        "pic": "people-pics/carlos-iimas.jpg",
         "website": "https://turing.iimas.unam.mx/~cgg/",
         "twitter": "https://twitter.com/cgershen"
       }
