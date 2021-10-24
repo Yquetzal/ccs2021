@@ -171,7 +171,7 @@
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 | 207  |  Maria Papapetrou, Elsa Siggiridou and Dimitris Kugiumtzis | Information-based Granger Causality in High-Dimensional Discrete Time Series and Application to World Financial Markets  | onsite |
-| 148  |  Vasundhara Rathore, Ajaydeep Kachhvah and Sarika Jalan | Inhibition Induced Explosive Synchronization In Multiplex Networks  | onsite |
+| 148  |  Vasundhara Rathore, Ajaydeep Kachhvah and Sarika Jalan | Inhibition Induced Explosive Synchronization In Multiplex Networks  | **online** |
 | 112  |  Chris Jones and Karoline Wiesner | Clarifying the Link Between Degree Entropies, Degree-Degree Correlations and Robustness of Complex Networks  | onsite |
 | 30  |  Barbara Benigni, Riccardo Gallotti and Manlio De Domenico | Potential-driven random walks on complex networks  | onsite |
 | 41  |  Hugo Hourcade, Fatemeh Hamissi, Cedric Miachon and Binh-Minh Bui-Xuan | Behaviour Recognition Algorithms In Temporal Graphs  | onsite |
