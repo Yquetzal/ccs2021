@@ -6,6 +6,7 @@
 ### ROOM: Foyer Lumiere
 
 # 9:00-9:30 Opening
+### ROOM: Auditorium  - [Zoom link](https://us02web.zoom.us/j/83424157307)
 
 # 9:30-10:45 Keynote and Invited Talks
 ### ROOM: Auditorium  - [Zoom link](https://us02web.zoom.us/j/83424157307)
