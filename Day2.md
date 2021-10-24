@@ -153,7 +153,7 @@ Panelists:
 ## Speaker : [Eric D. Kolaczyk](https://ccs2021.univ-lyon1.fr/#SPEAKER_Eric_D__Kolaczyk)
 
 ## 15:45-16:15 Invited Talk 5
-## Title: TBA
+## Title: [Pathway of innovation](https://ccs2021.univ-lyon1.fr/#SPEAKER_Hyejin_Youn)
 ## Speaker : [Hyejin Youn](https://ccs2021.univ-lyon1.fr/#SPEAKER_Hyejin_Youn)
 
 # 16:15 - 16:45 Coffee Break / Poster Session 
