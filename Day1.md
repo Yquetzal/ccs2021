@@ -174,7 +174,7 @@
 | 148  |  Vasundhara Rathore, Ajaydeep Kachhvah and Sarika Jalan | Inhibition Induced Explosive Synchronization In Multiplex Networks  | onsite |
 | 112  |  Chris Jones and Karoline Wiesner | Clarifying the Link Between Degree Entropies, Degree-Degree Correlations and Robustness of Complex Networks  | onsite |
 | 30  |  Barbara Benigni, Riccardo Gallotti and Manlio De Domenico | Potential-driven random walks on complex networks  | onsite |
-| 41  |  Hugo Hourcade, Fatemeh Hamissi, Cedric Miachon and Binh-Minh Bui-Xuan | Behaviour Recognition Algorithms In Temporal Graphs  | **online** |
+| 41  |  Hugo Hourcade, Fatemeh Hamissi, Cedric Miachon and Binh-Minh Bui-Xuan | Behaviour Recognition Algorithms In Temporal Graphs  | onsite |
 
 ## Session 2.2: Foundations of Complex Systems IV
 ### ROOM: Rhône 3A - [Zoom link](https://us02web.zoom.us/j/83639078803)
