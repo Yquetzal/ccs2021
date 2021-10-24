@@ -46,7 +46,7 @@
 |128|	 Gerardo Iñiguez, Carlos Pineda, Carlos Gershenson and Albert-László Barabási | Universal dynamics of ranking | 	onsite  |
 |171				| Oriol Artime and Manlio De Domenico | 	Unraveling the Role of Node Metadata in Network Robustness: the Feature-Based Percolation Model	|	onsite	| 
 |248		|		Guilherme Ferraz de Arruda and Yamir Moreno |		 Random walks on hypergraphs: from unbiased to maximum entropy random walks | 	**online**	|
-| 278|  Sandeep Chowdhary, Aanjaneya Kumar, Giulia Cencetti, Iacopo Iacopini and Federico Battiston | Simplicial contagion in temporal higher-order networks	|	onsite |	
+| 278 | CANCELED | CANCELED | | 
 | 68| Tuan Pham, Jan Korbel, Rudolf Hanel and Stefan Thurner | Balanced Triad Formation explained by Homophily-induced Dyadic Interactions		|	onsite |	
 | 210| Akylas Fotiadis, Ioannis Vlachos and Dimitrios Kugiumtzis | Information-based Measure of Partial Mutual Information from Mixed Embedding (PMIME) Revisited		|	onsite |	
 
