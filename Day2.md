@@ -78,7 +78,7 @@ Panelists:
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 271 |   Johan Dubbeldam, Carsten van de Kamp, George Dadunashvili and Timon Idema | Emergent Order in a Continuous State Adaptive Network Model of Living Systems   | onsite  |
+| 271 |   Johan Dubbeldam, Carsten van de Kamp, George Dadunashvili and Timon Idema | Emergent Order in a Continuous State Adaptive Network Model of Living Systems   | **online**  |
 | 234 |   Victor Boussange and Loic Pellissier | Graph topology and habitat assortativity drive phenotypic differentiation in an eco-evolutionary model   | onsite  |
 | 113 |   Guillaume Beslon, Vincent Liard and Jonathan Rouzaud-Cornabas | The complexity ratchet   | onsite  |
 | 155 |   Alexander Gates, Rion Brattig Correia, Xuan Wang and Luis M. Rocha | The effective graph reveals redundancy, canalization, and control pathways in biochemical regulation and signaling   | onsite  |
