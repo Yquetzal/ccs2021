@@ -19,6 +19,7 @@ Note that posters can be presented online and onsite. The mode of presentation c
 | 76 |	Shubhadeep Sadhukhan, Rohitashwa Chattopadhyay and Sagar Chakraborty | Coevolution of cooperation and synchronization: Averting migration dilemma  |  onsite
 | 80 |	Ana Teixeira de Melo | Promoting Complexity in Scientific and Interdisciplinary Group Discussion: Development of the ‘Relatoscopes’ and ‘Observatron’ methods  |  onsite
 | 82 |	Andrea Apolloni, Arnaud Bataille and Ismaila Seck | Combining Viral Genetic And Animal Mobility Network Data To Unravel Peste Des Petits Ruminants Transmission Dynamics In West Africa  |  onsite
+| 87 |    Christos Charalambous, Gianluca Giorgi and Roberta Zambrini | The role of particle statistics in quantum reservoir computing    |  online  |
 | 89 |	Renaud Larrieu, Clément Sebastiao, Christian Graff, Philippe Peyla and Aurélie Dupont | Physical study of collective movements in complex environments: A Case Applied to Fish Schools  |  onsite
 | 95 |	Ariel Salgado and Inés Caridi | The R Network evolution: characterization of a collaborative network of software  |  onsite
 | 100 |	 Leonardo Trujillo, Paul Banse and Guillaume Beslon | Evolutionary escape from local fitness peaks through inversion mutations  |  onsite
