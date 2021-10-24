@@ -121,7 +121,7 @@
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-|335 |	 Brennan Klein, Nicholas Generous, Samuel Scarpino and Alessandro Vespignani | Higher Education Responses to COVID-19 in the United States: The Crucial Role of On-Campus Diagnostic Testing for Students and Staff	 |	onsite	|
+|335 |	 Brennan Klein, Nicholas Generous, Samuel Scarpino and Alessandro Vespignani | Higher Education Responses to COVID-19 in the United States: The Crucial Role of On-Campus Diagnostic Testing for Students and Staff	 |	**online**	|
 |63 |	 Elisabetta Colosi, Giulia Bassignana, Canelle Poirier, Diego Contreras, Alain Barrat and Vittoria Colizza | Optimizing testing strategies for COVID-19 pandemic mitigation in school settings	 |	onsite	|
 |119 |	 Jesús Arturo Moreno López, Beatriz Arregui García, Piotr Bentkowski, Livio Boglio, Francesco Pinotti, Pierre-Yves Boëlle, Alain Barrat, Vittoria Colizza and Chiara Poletto | Anatomy of digital contact tracing: Role of age, transmission setting, adoption and case detection	 |	onsite	|
 |261 |	 Francesco Bonacina, Pierre-Yves Boelle, Vittoria Colizza, Olivier Lopez, Maud Thomas and Chiara Poletto | Influenza Decline During COVID-19 Pandemic: a Global Analysis Leveraging Classification and Regression Trees	 |	onsite	|
