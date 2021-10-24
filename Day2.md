@@ -250,12 +250,12 @@ Panelists:
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 | 85 |    Soumyabrata Paul, S. Lakshmibala, V. Balakrishnan and S. Ramanan | Signatures of Quantum Synchronization in Tomograms    |  onsite  |
-| 87 |    Christos Charalambous, Gianluca Giorgi and Roberta Zambrini | The role of particle statistics in quantum reservoir computing    |  onsite  |
 | 224 |    Joseph Baron | Persistent individual bias in the voter model with quenched disorder    |  onsite  |
 | 153 |    Georgios Barmparis and Giorgos Tsironis | Discovering nonlinear resonances through physics-informed machine learning    |  onsite  |
 | 8 |    Riccardo Muolo, Malbor Asllani and Timoteo Carletti | Inertia-driven Turing patterns on directed network topologies    |  onsite  |
 | 97 |    Samuel Heroy, Dane Taylor, Feng Shi, M. Gregory Forest and Peter Mucha | Rigidity percolation in disordered 3D rod systems    |  onsite  |
 | 73 |    Ankit Mishra and Sarika Jalan | Eigenvalue ratio spacing statistics of complex networks: Disorder vs Randomness    |  onsite  |
+| | CANCELED | CANCELED | |
 
 ## Session 4.8: COVID-19 V
 ### ROOM: Rhône 3A - [Zoom link](https://us02web.zoom.us/j/85411584167)
