@@ -238,7 +238,7 @@
 
 ## Session 2.7: COVID-19 II
 ### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/84039569289)
-### Chair: Vittoria Colizza
+### Chair: Márton Karsai
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
