@@ -36,7 +36,7 @@
 | 96| Leah A. Keating, James P. Gleeson and David J.P. O'Sullivan | A Multi-Type Branching Process Method for Modelling Complex Contagion on Clustered Networks		|	onsite |	
 |213 |	Malbor Asllani, Bram Siebert, Alex Arenas and James Gleeson|	 Symmetry-breaking Mechanism for the Formation of Cluster Chimera Patterns	| **online**	| 
 |181		|	Cedric Simal, Bram Siebert, Timoteo Carletti, James Gleeson and Malbor Asllani | Effects of local interactions in epidemics outbreaks in networks of structured populations|	**online**	|
-| 123| Marta Tuninetti, Alberto Aleta, Daniela Paolotti, Yamir Moreno and Michele Starnini | Prediction of New Scientific Collaborations Through Multiplex Networks	|	**online** |	
+| | CANCELED | CANCELED	|	 |	
 
 ## Session 1.2: Foundations of Complex Systems II
 ### ROOM: Rhône 2 - [Zoom link](https://us02web.zoom.us/j/87497338406)
