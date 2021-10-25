@@ -183,7 +183,7 @@
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 | 1  |  Hanlin Sun and Ginestra Bianconi | Higher-order percolation processes on multiplex hypergraphs  | onsite |
-| 287  |  Atish Panday, Woo Seok Lee, Subhasanket Dutta and Sarika Jalan | Machine learning assisted network classification using symbolic time-series  | onsite |
+| 287  |  Atish Panday, Woo Seok Lee, Subhasanket Dutta and Sarika Jalan | Machine learning assisted network classification using symbolic time-series  | **online** |
 | 91  |  Arash Badie-Modiri, Abbas Karimi Rizi, Márton Karsai and Mikko Kivelä | Directed Percolation in Temporal Networks  | onsite |
 | 238  |  Giulia Bertagnolli and Manlio De Domenico | Diffusion geometry of multiplex and interdependent systems  | **online** |
 | 32  |  Stephany Rajeh, Marinette Savonnet, Eric Leclercq and Hocine Cherifi | An empirical study on classical and community-aware centrality measures in complex networks  | **online** |
