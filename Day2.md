@@ -180,7 +180,7 @@ Panelists:
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
 | 187 |    Jakub Kořenek and Jaroslav Hlinka | Causality in Reversed Time Series: Reversed or Conserved?    |  onsite  |
-| 306 |    Alexandre Bovet, Jean-Charles Delvenne and Renaud Lambiotte | Flow Stability for Dynamic Community Detection    |  onsite  |
+| 306 |    Alexandre Bovet, Jean-Charles Delvenne and Renaud Lambiotte | Flow Stability for Dynamic Community Detection    |  **online**   |
 | 193 |    Nicola Pedreschi, Demian Battaglia and Alain Barrat | The Temporal Rich Club Phenomenon    |  onsite  |
 | 122 |    Nicolas Brodu and James P. Crutchfield | Discovering Causal Structure with Reproducing-Kernel Hilbert Space ?-machines    |  onsite  |
 | 258 |    Octavio Zapata, Mario Franco, Carlos Gershenson and David A. Rosenblueth | Dynamics of Random Fuzzy Networks    |  **online**  |
