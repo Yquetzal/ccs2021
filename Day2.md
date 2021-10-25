@@ -241,7 +241,7 @@ Panelists:
 | 69 |    Cedric Perret, Marcus Krellner and The Anh Han | The evolution of moral rules in a model of indirect reciprocity with private assessment    |  onsite  |
 | 24 |    Shirsendu Podder, Simone Righi and Karoly Takacs | Local Reputation, Local Selection, and the Leading Eight Norms    |  **online**  |
 | 336 |    Sriniwas Pandey and Hiroki Sayama | Dynamics of User Eccentricity on GAB Social Media    |  **online**  |
-| | CANCELED | CANCELED | |
+| 123| Marta Tuninetti, Alberto Aleta, Daniela Paolotti, Yamir Moreno and Michele Starnini | Prediction of New Scientific Collaborations Through Multiplex Networks	|	**online** |	
 
 ## Session 4.7: Complexity in Physics and Chemistry I
 ### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/86262205696)
