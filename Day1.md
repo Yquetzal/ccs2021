@@ -16,6 +16,7 @@
 ## Title: [Disease propagation on networks and a switchover phenomenon](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
 ## Speaker: [László Lovász](https://ccs2021.univ-lyon1.fr/#SPEAKER_Laszlo_Lovasz)
 
+---
 
 ## 10:15-10:45 Invited Talk 1
 ## Title: [Data Science for Social Impact](https://ccs2021.univ-lyon1.fr/#SPEAKER_Meeyoung_Cha)
@@ -152,10 +153,14 @@
 ## Title: [The Geometry of Decision Making](https://ccs2021.univ-lyon1.fr/#SPEAKER_Iain_Couzin)
 ## Speaker : [Iain Couzin](https://ccs2021.univ-lyon1.fr/#SPEAKER_Iain_Couzin)
 
+---
+
 ## 15:15-15:45 Invited Talk 2 
 ## Title: [Having an impact: the challenge of using complex systems science to make a difference in the humanitarian sector](https://ccs2021.univ-lyon1.fr/#SPEAKER_Daniela_Paolotti_)
 ## Speaker : [Daniela Paolotti](https://ccs2021.univ-lyon1.fr/#SPEAKER_Daniela_Paolotti_)
 ### Talk Sponsored by Springer Complexity Lecture
+
+---
 
 ## 15:45-16:15 Invited Talk 3
 ## Title: [Towards Complexity Science for Humanitarian and Development work](https://ccs2021.univ-lyon1.fr/#SPEAKER_Manuel_Garcia-Herranz)
