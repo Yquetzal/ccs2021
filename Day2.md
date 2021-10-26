@@ -261,7 +261,7 @@ Panelists:
 | 153 |    Georgios Barmparis and Giorgos Tsironis | Discovering nonlinear resonances through physics-informed machine learning    |  onsite  |
 | 8 |    Riccardo Muolo, Malbor Asllani and Timoteo Carletti | Inertia-driven Turing patterns on directed network topologies    |  onsite  |
 | 97 |    Samuel Heroy, Dane Taylor, Feng Shi, M. Gregory Forest and Peter Mucha | Rigidity percolation in disordered 3D rod systems    |  onsite  |
-| 73 |    Ankit Mishra and Sarika Jalan | Eigenvalue ratio spacing statistics of complex networks: Disorder vs Randomness    |  onsite  |
+| 73 |    Ankit Mishra and Sarika Jalan | Eigenvalue ratio spacing statistics of complex networks: Disorder vs Randomness    |  **online**  |
 | | CANCELED | CANCELED | |
 
 ## Session 4.8: COVID-19 V
