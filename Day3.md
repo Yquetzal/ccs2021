@@ -18,7 +18,7 @@
 ## Online Satellite Workshops
 * [Complex Adaptive System Approaches in Management and Organization Science](https://casmos.github.io/CASMOS2021) - Room: St Clair 4
 
-# 9:00 - 13:00 Toward an interdisciplinary research agenda on digital media and human well-being
+## Toward an interdisciplinary research agenda on digital media and human well-being
 ### ROOM: Rhône 4
 This session will present the Digeing project and will introduce participants to the text-mining and science mapping tools used for this project (Gargantext). 
 
