@@ -18,10 +18,25 @@
 ## Online Satellite Workshops
 * [Complex Adaptive System Approaches in Management and Organization Science](https://casmos.github.io/CASMOS2021) - Room: St Clair 4
 
+# 9:00 - 13:00 Toward an interdisciplinary research agenda on digital media and human well-being
+### ROOM: Rhône 4
+This session will present the Digeing project and will introduce participants to the text-mining and science mapping tools used for this project (Gargantext). 
+
+Digeing is a project funded by the European Commission that aims at synthesising the current understanding of the impact of digital media on humans' behaviour and their well-being, seed and map a new interdisciplinary research community on this topic, scope for a research agenda, and issue recommendations for policy and future digital media design.
+
+During the project, the research community will be invited to give its input on the key challenges that should be supported by the EU in the next five years.
+
+In late 2022 the outputs of this project will be a propective roadmap for the EU and a cartography of the main actors and research areas related to Digital Media and Human Well-Being.
+
+For the session, participants will be granted Gargantext and a collaborative map will be generated.
+
+The first Digeing workshop will take place in Madrid Nov. 22-24 2021. 
+
+**Website** : http://iscpif.fr/digeing
+
 # 10:45 - 11:15 Coffee Break / Poster Session 
 
 # 13:00-14:30 Lunch Break
-## ROOM: (TBA) 
 
 # 14:30-18:00 Satellite Workshops
 
