@@ -57,6 +57,8 @@ The first Digeing workshop will take place in Madrid Nov. 22-24 2021.
 ### ROOM: Rhône 4
 ### Chair: Hocine Cherifi
 
+https://us02web.zoom.us/j/
+
 # 16:15 - 16:45 Coffee Break / Poster Session 
 
 # 19:00 - 22:30 Social Dinner
