@@ -18,7 +18,7 @@
 ## Online Satellite Workshops
 * [Complex Adaptive System Approaches in Management and Organization Science](https://casmos.github.io/CASMOS2021) - Room: St Clair 4
 
-## Toward an interdisciplinary research agenda on digital media and human well-being
+## # 11:15 - 12:30 Toward an interdisciplinary research agenda on digital media and human well-being
 ### ROOM: Rhône 4
 This session will present the Digeing project and will introduce participants to the text-mining and science mapping tools used for this project (Gargantext). 
 
@@ -51,11 +51,11 @@ The first Digeing workshop will take place in Madrid Nov. 22-24 2021.
 ## Online Satellite Workshops
 * [Complex Adaptive System Approaches in Management and Organization Science](https://casmos.github.io/CASMOS2021) - Room: St Clair 4
 
-# 16:15 - 16:45 Coffee Break / Poster Session 
-
-# 16:45 - 18:00 Meet the Editor
+# 14:30 - 15:30 Meet the Editor
 ### ROOM: Rhône 4
 ### Chair: Hocine Cherifi
+
+# 16:15 - 16:45 Coffee Break / Poster Session 
 
 # 19:00 - 22:30 Social Dinner
 ## Venue: [Hotel de ville de Lyon (Lyon city hall)](https://goo.gl/maps/6bWuMtVWjjZVCwxs8)
