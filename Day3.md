@@ -19,7 +19,7 @@
 * [Complex Adaptive System Approaches in Management and Organization Science](https://casmos.github.io/CASMOS2021) - Room: St Clair 4
 
 ## 11:15 - 12:30 Toward an interdisciplinary research agenda on digital media and human well-being
-### ROOM: Rhône 4
+### ROOM: Rhône 4 [Zoom link](https://us02web.zoom.us/j/87235384141)
 ### Chair: David Chavalarias
 
 This session will present the Digeing project and will introduce participants to the text-mining and science mapping tools used for this project (Gargantext). 
@@ -54,10 +54,8 @@ The first Digeing workshop will take place in Madrid Nov. 22-24 2021.
 * [Complex Adaptive System Approaches in Management and Organization Science](https://casmos.github.io/CASMOS2021) - Room: St Clair 4
 
 # 14:30 - 15:30 Meet the Editor
-### ROOM: Rhône 4
+### ROOM: Rhône 4 [Zoom link](https://us02web.zoom.us/j/84694772685)
 ### Chair: Hocine Cherifi
-
-https://us02web.zoom.us/j/
 
 # 16:15 - 16:45 Coffee Break / Poster Session 
 
