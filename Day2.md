@@ -145,7 +145,6 @@ Panelists:
 ### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/81592038467)
 ### Chair: Pierre Borgnat
 
----
 
 ## 14:30-15:15 Keynote Talk 3
 ## Title: [How the architecture of genotype spaces shapes evolutionary dynamics](https://ccs2021.univ-lyon1.fr/#SPEAKER_Susanna_Manrubia)
