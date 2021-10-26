@@ -5,7 +5,7 @@
 # 8:00 - 9:00 Registration
 
 # 9:00 - 10:45 COVID-19 Panel
-### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/3765359110)
+### ROOM: Auditorium - [Zoom link](https://us02web.zoom.us/j/83765359110)
 ### Chair: Ciro Cattuto
 In this Panel, various experts on the COVID-19 Pandemic will discuss about their experience takling it.
 Panelists:
