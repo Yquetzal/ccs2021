@@ -117,7 +117,6 @@ Panelists:
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 322 |   Taras Patsahan and Jaroslav Ilnytskyi | The Effects of the Quarantine and Vaccination on the COVID-19 Spread by Combining the Compartmental and Cellular Automaton Types of Modelling   | onsite  |
 | 302 |   Guillermo de Anda-Jauregui, Rodrigo Zepeda-Tello, Plinio Guzman, Mauricio Hernandez Avila, David Barros-Sierra, Amilcar Meneses, Alfredo Hernandez, Marisol Flores-Garrido and Maribel Hernandez Rosales | Predicting public health impact of COVID-19 in Mexico City using mobility and contact networks   | onsite  |
 | 121 |    Matthieu Nadini, Alberto Bracci, Maxwell Aliapoulios, Damon McCoy, Ian Gray, Alexander Teytelboym, Angela Gallo and Andrea Baronchelli | Dark Web Marketplaces and COVID-19    |  **online**  |
 | 154 |   Jun'Ichi Ozaki, Yohei Shida, Hideki Takayasu and Misako Takayasu | Infection rate analysis at each daily activity under COVID-19 pandemic using human mobility data   | **online**  |
