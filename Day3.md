@@ -18,8 +18,10 @@
 ## Online Satellite Workshops
 * [Complex Adaptive System Approaches in Management and Organization Science](https://casmos.github.io/CASMOS2021) - Room: St Clair 4
 
-## # 11:15 - 12:30 Toward an interdisciplinary research agenda on digital media and human well-being
+## 11:15 - 12:30 Toward an interdisciplinary research agenda on digital media and human well-being
 ### ROOM: Rhône 4
+### Chair: David Chavalarias
+
 This session will present the Digeing project and will introduce participants to the text-mining and science mapping tools used for this project (Gargantext). 
 
 Digeing is a project funded by the European Commission that aims at synthesising the current understanding of the impact of digital media on humans' behaviour and their well-being, seed and map a new interdisciplinary research community on this topic, scope for a research agenda, and issue recommendations for policy and future digital media design.
