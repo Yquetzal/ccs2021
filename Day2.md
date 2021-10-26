@@ -150,6 +150,7 @@ Panelists:
 ## 15:15-15:45 Invited Talk 4
 ## Title: [Accounting for Network Noise: Counting, Epidemic Control, and Experiments](https://ccs2021.univ-lyon1.fr/#SPEAKER_Eric_D__Kolaczyk)
 ## Speaker : [Eric D. Kolaczyk](https://ccs2021.univ-lyon1.fr/#SPEAKER_Eric_D__Kolaczyk)
+### Talk sponsored by Mathematics Journal
 
 ## 15:45-16:15 Invited Talk 5
 ## Title: [Pathway of innovation](https://ccs2021.univ-lyon1.fr/#SPEAKER_Hyejin_Youn)
