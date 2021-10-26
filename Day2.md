@@ -256,7 +256,7 @@ Panelists:
 
 | ID  | Authors | Title | Mode|
 | ---: | :----: | :------: | :----:	|
-| 85 |    Soumyabrata Paul, S. Lakshmibala, V. Balakrishnan and S. Ramanan | Signatures of Quantum Synchronization in Tomograms    |  onsite  |
+| 85 |    Soumyabrata Paul, S. Lakshmibala, V. Balakrishnan and S. Ramanan | Signatures of Quantum Synchronization in Tomograms    |  (postponed to a different session) |
 | 224 |    Joseph Baron | Persistent individual bias in the voter model with quenched disorder    |  onsite  |
 | 153 |    Georgios Barmparis and Giorgos Tsironis | Discovering nonlinear resonances through physics-informed machine learning    |  onsite  |
 | 8 |    Riccardo Muolo, Malbor Asllani and Timoteo Carletti | Inertia-driven Turing patterns on directed network topologies    |  onsite  |
