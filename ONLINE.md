@@ -16,6 +16,9 @@ You can join it at any time, however you can expect to encounter the most people
 ## Attending Workshops
 You can attend workshops online using Zoom too. A [dedicated page](https://ccs2021.univ-lyon1.fr/zoom_satellites.php) centralize zoom links for all workshops. Note however that this page is protected by a password, that you will also receive in due time.
 
+## Network of participants
+If you are interested, you can add yourself to a network of participants, in which edges correspond to common interest. This could be a nice way to find other participants with works related to yours. See how on [This page](https://ccs2021.univ-lyon1.fr/communityExplorer.php)
+
 # Quick Access to Zoom sessions:
 
 ## Plenary Sessions
