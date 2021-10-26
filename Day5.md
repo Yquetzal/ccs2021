@@ -14,6 +14,7 @@
 ## 9:45-10:15 Invited Talk 6
 ## Title: [Collective behavior in animal groups: a statistical physics perspective](https://ccs2021.univ-lyon1.fr/#SPEAKER_Irene_Giardina)
 ## Speaker : [Irene Giardina](https://ccs2021.univ-lyon1.fr/#SPEAKER_Irene_Giardina)
+### Talk sponsored by Springer Complexity Lecture
 
 ## 10:15-10:45 Invited Talk 7
 ## Title: [Powerful Graph Neural Networks with Parallel Local Aggregations](https://ccs2021.univ-lyon1.fr/#SPEAKER_Sundeep_Chepuri)
