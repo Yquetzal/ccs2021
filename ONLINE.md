@@ -83,3 +83,5 @@ You can attend workshops online using Zoom too. A [dedicated page](https://ccs20
 |-------------|---------------|-------------------------------------------|---------------------------------------|
 | thursday 28    | 9:00 - 13:00  | CCS21 - CSS Chapters Workshop (CSSC 2021) | https://us02web.zoom.us/j/85652304639 |
 | wednesday 27 | 14:30 - 15:30 | CCS21 - Meet the editors                  | https://us02web.zoom.us/j/84694772685 |
+| wednesday 27 | 11:00 - 13:00 | Digital Human well being                | https://us02web.zoom.us/j/87235384141 |
+
