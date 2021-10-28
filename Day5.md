@@ -51,7 +51,7 @@
 | 79 |    Robin Delabays, Saber Jafarpour and Francesco Bullo | Flow Network Problems on the n-torus with Asymmetric Couplings    |  onsite  |
 | 220 |    Linda Tillert, Luis Gomez-Nava and Pawel Romanczuk | The Role Of Speed Adaptation In Collective Motion    |  **online**  |
 | 330 |    Loredana Bellantuono, Alfonso Monaco, Sabina Tangaro, Nicola Amoroso, Vincenzo Aquaro and Roberto Bellotti | An Equity-Oriented Rethink Of Global Rankings With Complex Networks Mapping Development    |  **online**  |
-| |    CANCELED | CANCELED    |    |
+| 85 |    Soumyabrata Paul, S. Lakshmibala, V. Balakrishnan and S. Ramanan | Signatures of Quantum Synchronization in Tomograms    |   **online**  |
 
 ## Session 5.3: Psychology, Neurosciences, Linguistics III
 ### ROOM: Rhône 2 - [Zoom link](https://us02web.zoom.us/j/82377825486)
