@@ -6,4 +6,6 @@ The Conference on Complex Systems, the flagship conference of the [Complex Syste
 
 For 2021, this annual event will be held in **Lyon, France**, from **October 25 to 29, 2021**, at the [Centre des congrès de Lyon](https://ccs2021.univ-lyon1.fr/#CONVENTION-CENTER). We are confident to be able to welcome you in Lyon at this time of the year, for an in-person conference. Still, as we know that there might still be a number of travel restrictions at that time, some sessions will be organized as a hybrid conference. 
 
-The detailed program of the conference is now visible online.
+The detailed program of the conference is visible online.
+
+**The recordings of the past session (Day 1 and 2 currently) are available under the ONLINE /  Recordings of the Sessions ; to be seen in streaming for the registered participants.** These aee raw videos; please skip the first 15' to 1h of test before the sessions. Streaming will be possible up to middle of next week.
