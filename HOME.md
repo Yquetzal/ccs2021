@@ -1,5 +1,7 @@
 # Welcome to CCS 2021 
 
+**(Oct 28) The recordings of the past session (Day 1 and 2 currently) are available under the ONLINE /  Recordings of the Sessions ; to be seen in streaming for the registered participants.** These are raw videos; please skip the first 15' to 1h of test before the sessions. Streaming will be possible up to middle of next week.
+
 **Note (Oct. 21): An e-mail with title "CCS 2021 Conference - Online participation and more" has been sent  to all registered participants; it contains the access codes If you don't have it while registered, check spam folders then contact us.**
 
 The Conference on Complex Systems, the flagship conference of the [Complex System Society](https://www.cssociety.org), is the most important annual meeting for the complex systems research community. Last year, the Conference was fully online because of the Covid-19 pandemics.
@@ -8,4 +10,3 @@ For 2021, this annual event will be held in **Lyon, France**, from **October 25 
 
 The detailed program of the conference is visible online.
 
-**The recordings of the past session (Day 1 and 2 currently) are available under the ONLINE /  Recordings of the Sessions ; to be seen in streaming for the registered participants.** These aee raw videos; please skip the first 15' to 1h of test before the sessions. Streaming will be possible up to middle of next week.
