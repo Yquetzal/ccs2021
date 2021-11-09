@@ -1,6 +1,6 @@
 # Welcome to CCS 2021 
 
-**(Nov 5) The recordings are not available anymore. The CCS 2021 is actually over. See you at the next CCS in 2022!
+**(Nov 5) The recordings are not available anymore. The CCS 2021 is actually over. See you at the next CCS in 2022!**
 
 **(Oct 28) The recordings of the past session (Day 1 and 2 currently, Day 5 soon) are available under the ONLINE /  Recordings of the Sessions ; to be seen in streaming for the registered participants.** These are raw videos; please skip the first 15' to 1h of test before the sessions. Streaming will be possible up to middle of next week (Nov 4).
 
